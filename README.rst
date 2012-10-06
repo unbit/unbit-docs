@@ -11,7 +11,7 @@ l'accesso al pannello di controllo dovrai decidere come suddividere le risorse
 tra i tuoi domini (ovviamente se hai un solo dominio la scelta e' abbstanza facile...)
 
 Nel caso di una gestione a processi dovrai scegliete quanti assegnarne (in base al volume
-di concorrenza necessario) o, se hai optato per una gestione a container dovrai semplicemente in quale container
+di concorrenza necessario) o, se hai optato per una gestione a container dovrai semplicemente specificare in quale container
 far girare le tue applicazioni (quindi i tuoi processi). Di nuovo, se disponi di un solo container la scelta e' molto semplice.
 
 
@@ -28,8 +28,11 @@ e cosi' via. Quando non ci sono processi a disposizione le richieste rimangono i
 di questa coda (ovvero quante richieste possono restare in attesa) e' dipendente dal timeout impostato (vedi spiegazione piu' sotto)
 
 La gestione a Container e' estremamente piu' semplice e piu' vicina alla logica di funzionamento di un normale server. Ogni container
-e' un micro-server (con un quantitativo limitato di memoria e spazio disco) in cui potrai far girare tutte le applicazioni (processi) che riesci.
-Se sei un dubbio tra gestione a processi e a container, scegli sempre i container, avrai meno mal di testa (anche se qualche soldo in meno nel portafogli)
+e' un micro-server (con un quantitativo limitato di memoria e spazio disco) in cui potrai far girare tutte le applicazioni (processi) che vorrai finno all'esaurimento della
+memoria dedicata.
+
+Se sei in dubbio tra gestione a processi e a container, scegli sempre i container, avrai meno mal di testa (anche se qualche soldo in meno nel portafogli).
+
 In uno stesso account possono convivere piu' container, questo ti permette di isolare le applicazioni facilmente e di tenerle sotto controllo.
 
 ******
