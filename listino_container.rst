@@ -2,7 +2,7 @@ Listino Container
 =================
 
 Tutte le offerte Container comprendono:
------------------
+---------------------------------------
 
 - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni <listino_estensioni_domini>`_)
 - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
