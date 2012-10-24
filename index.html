@@ -1,3 +1,5 @@
+<header id="overview" class="jumbotron subhead">
+  <div class="container">
 <div class="row-fluid">
         <div class="span6">
             <form id="manage" class="formOverview form-horizontal" method="post" action="https://manage.unbit.it/info">            
@@ -56,3 +58,157 @@
         </div>
     </div>
   </div>
+</div>
+</header>
+<div class="container">
+
+<div class="row-fluid">
+    <div class="span8">
+    <h3 class="title"><i class="icon-bullhorn"></i> Cos'e' ?</h3>
+    
+    Unbit è una piattaforma per il deploy e lo sviluppo di applicazioni web.<br/>
+    Si basa su una serie di patch applicate al kernel Linux per garantire l'isolamento dei processi in esecuzione su un singolo server.<br/>
+    <br/>
+    <b>Bello... ma che significa ?</b><br/>
+    
+    Che a differenza dei servizi di hosting classici potrai far girare praticamente qualsiasi applicativo web scritto in un qualsiasi linguaggio di programmazione open source.<br/>
+    <br/>
+    <b>Come funziona?</b><br/>
+    
+    Per i dettagli tecnici puoi consultare il nostro <a href="http://wiki.unbit.it/UnbitKernel">wiki</a>.
+    
+    <br/><br/><br/>
+    <h3 class="title"><i class="icon-cogs"></i> Processi e Container, uWSGI e UPSTREAM</h3>
+    L'offerta Unbit e' divisa in 2 tipologie tecniche: a <b>processi</b> e a <a href="http://wiki.unbit.it/Container" target="_blank">container</a>.<br/><br/>    
+    
+    <div class="accordion" id="accordion2">
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                   Processi e Container
+                </a>
+            </div>
+            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    La gestione a processi e' molto economica, ma richiede una attenta pianificazione delle
+                    risorse dei propri applicativi. Quella a container e' l'esatto opposto: offre una estrema versatilita'
+                    a fronte di un costo maggiore.<br/><br/>
+                    
+                    La prima modalita' richiede che l'utente acquisti un numero preciso di <b>processi</b>, che corrisponde 1:1 con il numero di <a href="http://it.wikipedia.org/wiki/Fork_%28programmazione%29" target="_blank">fork()</a>
+                    che il proprio applicativo effettuera'. Ognuno di questi processi puo' allocare un quantitativo limitato di address space (<a href="http://it.wikipedia.org/wiki/Memoria_virtuale" target="_blank">memoria virtuale</a>).<br/>
+                    Creare piu' processi di quelli acquistati, o allocare in uno di essi piu' aree di memoria di quelle previste, causera' il fallimento dell'operazione
+                    o (in alcuni casi) il blocco dell'applicazione fin quando i processi non saranno riavviati dall'utente. Uno stesso processo (tranne rare eccezioni) non puo' essere condiviso da piu' ambienti (o applicazioni), e in uno stesso ambiente non possono coesistere processi con capacita' di memoria diverse.<br/><br/>
+                    
+                    Un <a href="http://wiki.unbit.it/Container" target="_blank">container</a> e' costituito da una porzione di memoria fisica (dai 20 Megabyte ai 2 Gigabyte) in cui l'utente potra' eseguire tutti i processi che riesce
+                    (a patto che non superino la memoria assegnata). Un container puo' essere condiviso tra vari ambienti e varie applicazioni, e puo' essere "duplicato" su piu' server (nodi) per costruire architetture scalabili.<br/>
+                    <br/>
+                    Oltre al kernel, e' necessario un supporto dello userspace per sfruttare al massimo l'infrastruttura messa a disposizione.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                    uWSGI
+                </a>
+            </div>
+            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <b>uWSGI</b> e' un application server completo per deploy professionali. Include praticamente qualsiasi funzionalita'
+                    possiate immaginare per mantenere in salute i vostri lavori.<br/>Attualmente permette l'esecuzione di applicazioni WSGI, PSGI, Rack, Web3, PHP, CGI e Lua WSAPI.
+                    <br/>Il sito ufficiale di uWSGI (in inglese) e' <a href="http://projects.unbit.it/uwsgi">qui</a>, mentre la pagina di riferimento sul nostro wiki e' <a href="http://wiki.unbit.it/uWSGI">di qua</a>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                    UPSTREAM
+                </a>
+            </div>
+            <div id="collapseTwo" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <b>UPSTREAM</b> e' il motore che si occupa di avviare in automatico le vostre applicazioni web al ricevimento della prima richiesta. Immaginatelo come una shell. Impostate il comando da eseguire
+                    e con quale protocollo (attualmente sono supportati uwsgi, HTTP, HTTP-persistente, FastCGI, SCGI e Biferno) dialoghera' con il webserver. Tutto qui (<a href="http://wiki.unbit.it/Upstream">piu' o meno</a>)
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    </div>
+    
+    
+    <!--TWITTER-->
+    <div class="span4">
+        <h3 class="title titleTwitter"><i class="icon-twitter"></i> @unbit_it</h3>
+        
+        <div id="paging">
+          <div class="widget query"></div>
+          <div class="controls controls2">
+            <button class="prev" type="button" disabled>&larr;</button>
+            <span class="pagenum"></span>
+            <button class="next" type="button" disabled>&rarr;</button>
+          </div>
+        </div>
+        
+        <br/><br/>
+        <h3 class="title titleTwitter"><i class="icon-twitter"></i> @unbit</h3>
+        
+        <div id="paging2">
+          <div class="widget query"></div>
+          <div class="controls controls2">
+            <button class="prev" type="button" disabled>&larr;</button>
+            <span class="pagenum"></span>
+            <button class="next" type="button" disabled>&rarr;</button>
+          </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="row-fluid">            
+    <div class="span8">
+        
+    </div>
+    
+    
+    
+</div>
+
+<div class="row-fluid">
+    <div class="span12">
+    <h3 class="title"><i class="icon-list-ul"></i> Guida ai consumi</h3>
+    Prima di scegliere un servizio, verifica i requisiti dei software che intendi utilizzare. Se non trovi un applicativo necessario al tuo deploy nella lista, contatta subito info@unbit.it
+    <br/>
+    Per ogni software sono riportati i requisiti sia per la gestione "classica" a processi, sia per i nuovi <a href="http://wiki.unbit.it/Container">container</a>
+    <br/>
+    <br/>
+    
+    <table class="table table-striped">
+    
+    <tr>
+            <th>software</th><th>requisiti per container</th><th>requisiti per processi</th><th>modalita' consigliate per deploy</th>
+    </tr>
+    
+    <tr><td><b>Django</b></td><td>80 MB, (circa 40 MB per processo, 8MB per ogni thread)</td><td>1 processo da 64MB</td><td>uWSGI preforked, uWSGI threaded</td></tr>
+    <tr><td><b>RubyOnRails 2.x</b></td><td>80 MB, (circa 70 MB per processo)</td><td>3 processi da 96MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>RubyOnRails 3.x</b></td><td>90 MB, (circa 80 MB per processo)</td><td>3 processi da 96MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>Flask</b></td><td>30 MB, (circa 20 MB per processo, 8MB per ogni thread)</td><td>1 processo da 64MB</td><td>uWSGI preforked, uWSGI threaded</td></tr>
+    <tr><td><b>Sinatra</b></td><td>40 MB, (circa 30 MB per processo)</td><td>1 processo da 64MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>Tomcat</b></td><td>300 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>Jetty</b></td><td>160 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>node.js</b></td><td>40 MB</td><td>1 processo da 64</td><td>UPSTREAM + http</td></tr>
+    <tr><td><b>Web2py</b></td><td>40 MB, (circa 30 MB per processo)</td><td>1 processo da 64</td><td>uWSGI preforked</td></tr>
+    <tr><td><b>Zope</b></td><td>250 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>memcached</b></td><td>(8+dimensione cache) MB</td><td>1 processo da 64</td><td>uWatchSloth, uWSGI daemon</td></tr>
+    <tr><td><b>redis</b></td><td>(8+dimensione cache) MB</td><td>1 processo da 64</td><td>uWatchSloth, uWSGI daemon</td></tr>
+    <tr><td><b>PostgreSQL</b></td><td>30 MB</td><td>8 processi da 64</td><td>uWatchSloth</td></tr>
+    <tr><td><b>MySQL</b></td><td>70 MB</td><td>4 processi da 64</td><td>uWatchSloth</td></tr>
+    <tr><td><b>MongoDB</b></td><td>40 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>CouchDB</b></td><td>60 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>Mono XSP</b></td><td>120 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
+    
+    </table>
+    </div>
+</div>
+</div>
