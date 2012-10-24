@@ -26,7 +26,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 
 
 CONTAINER-80
-------------
+************
 
 - **80** MB `container </Container>`_
 - **1** sottodominio
@@ -41,7 +41,7 @@ CONTAINER-80
    90,00 € annui
 
 CONTAINER-120
--------------
+*************
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
