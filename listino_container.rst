@@ -23,7 +23,8 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 |- `metodi di pagamento </metodi_pagamento>`_          |
 |- `documentazione </documentazione>`_                 |
 |- `riepilogo servizi e limiti </limits>`_             |
---------------------------------------------------------
++------------------------------------------------------+
+
 
 
 CONTAINER-80
