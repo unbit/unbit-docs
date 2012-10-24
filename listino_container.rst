@@ -72,11 +72,11 @@ CONTAINER-160
 CONTAINER-200
 *************
 
-- **200** MB `container </Container>`_
-- **8** sottodominio
-- **2** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
+ - **200** MB `container </Container>`_
+ - **8** sottodominio
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -87,11 +87,11 @@ CONTAINER-200
 CONTAINER-300
 *************
 
-- **300** MB `container </Container>`_
-- **8** sottodominio
-- **2** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
+ - **300** MB `container </Container>`_
+ - **8** sottodominio
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -101,11 +101,11 @@ CONTAINER-300
 CONTAINER-400
 *************
 
-- **400** MB `container </Container>`_
-- **8** sottodominio
-- **2** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
+ - **400** MB `container </Container>`_
+ - **8** sottodominio
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -115,12 +115,12 @@ CONTAINER-400
 CONTAINER-500
 *************
 
-- **500** MB `container </Container>`_
-- **8** sottodominio
-- **2** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
-- **1** porta TCP
+ - **500** MB `container </Container>`_
+ - **8** sottodominio
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
+ - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -130,12 +130,12 @@ CONTAINER-500
 CONTAINER-600
 *************
 
-- **600** MB `container </Container>`_
-- **8** sottodominio
-- **4** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
-- **1** porta TCP
+ - **600** MB `container </Container>`_
+ - **8** sottodominio
+ - **4** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
+ - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -145,12 +145,12 @@ CONTAINER-600
 CONTAINER-700
 *************
 
-- **700** MB `container </Container>`_
-- **8** sottodominio
-- **4** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
-- **1** porta TCP
+ - **700** MB `container </Container>`_
+ - **8** sottodominio
+ - **4** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
+ - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -160,13 +160,14 @@ CONTAINER-700
 CONTAINER-800
 *************
 
-- **800** MB `container </Container>`_
-- **8** sottodominio
-- **10** Giga di spazio disco
-- **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **10** accessi smtp
-- **2** porta TCP
+ - **800** MB `container </Container>`_
+ - **8** sottodominio
+ - **10** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp
+ - **2** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
 
-**790,00 € annui**
+.. parsed-literal::
+  **790,00 € annui**
