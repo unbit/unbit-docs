@@ -1,6 +1,6 @@
----------------------
-REGISTRAZIONE DOMINI
----------------------
+----------------------------------
+Procedura di registrazione domini
+----------------------------------
 
 Per la registrazione di un dominio non è richiesta documentazione aggiuntiva oltre il contratto per la fornitura di servizi Unbit.
 
