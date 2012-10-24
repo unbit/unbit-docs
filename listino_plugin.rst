@@ -11,30 +11,34 @@ Listino Plugin
 
 **PUNTAMENTO DNS**
 
-Puntamento DNS
+- Puntamento DNS
 
 .. parsed-literal::
    **4,00 € annui**
 
 **SPAZIO DISCO**
 
-1 giga di spazio aggiuntivo
+- 1 giga di spazio aggiuntivo
 
 .. parsed-literal::
    **10,00 € annui**
 
-10 giga di spazio aggiuntivo
+- 10 giga di spazio aggiuntivo
 
-90,00 € annui
-MAILBOX POP3 / IMAP4
+.. parsed-literal::
+   **90,00 € annui***
 
-1 mailbox aggiuntiva
+**MAILBOX POP3 / IMAP4**
 
-3,00 € annui
+- 1 mailbox aggiuntiva
 
-10 mailbox aggiuntive
+.. parsed-literal::
+   **3,00 € annui**
 
-25,00 € annui
+- 10 mailbox aggiuntive
+
+.. parsed-literal::
+   **25,00 € annui**
 
 20 mailbox aggiuntive
 
