@@ -38,7 +38,7 @@ CONTAINER-80
 
 `Riepilogo servizi e limiti </limits>`_
 
-     **90,00 € annui**
+**90,00 € annui**
 
 CONTAINER-120
 -------------
@@ -51,7 +51,7 @@ CONTAINER-120
 
 `Riepilogo servizi e limiti </limits>`_
 
-     **130,00 € annui**
+**130,00 € annui**
 
 
 
