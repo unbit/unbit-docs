@@ -16,7 +16,7 @@ Per le offerte superiori (o per chi vuole usare PostgreSQL o altri db engine) e'
 Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.
 
 
-::
+..
    Tutti i prezzi sono da intendersi IVA 21% esclusa.
                                                       
    - `come attivare il servizio </attivazione_hosting>`_ 
