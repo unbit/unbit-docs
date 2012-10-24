@@ -11,7 +11,9 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 Invia il contratto e la documentazione aggiuntiva al numero di **fax 011.43.57.238** o in formato **PDF** a info@unbit.it
 **(ATTENZIONE: in formato digitale viene accettato unicamente il formato PDF. Non verranno accettati .jpg, .doc, ecc...)**
 
-**Al momento della ricezione del contratto (correttamente compilato), riceverai fattura alla mail amministrativa. Al saldo della stessa verrà avviata la procedura di attivazione del servizio da te richiesto. Se il pagamento avviene mezzo bonifico, è necessario indicare nella causale di bonifico il numero della fattura.**
+**Al momento della ricezione del contratto (correttamente compilato), riceverai fattura alla mail amministrativa. 
+Al saldo della stessa verrà avviata la procedura di attivazione del servizio da te richiesto. 
+Se il pagamento avviene mezzo bonifico, è necessario indicare nella causale di bonifico il numero della fattura.**
 
 Per accelerare la procedura puoi inviaci tramite fax, al n. 011.43.57.238, la ricevuta del bonifico (il pagamento con PayPal risulta immediato). **NON SONO ACCETTATI MANDATI DI PAGAMENTO**
 
