@@ -1,7 +1,6 @@
 Listino Container
 =================
-Tutte le offerte Container comprendono:
-****************************************
+**Tutte le offerte Container comprendono:**
 
 - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
 - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
@@ -27,7 +26,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 
 
 CONTAINER-80
-~~~~~~~~~~~~~~
+*************
 - **80** MB `container </Container>`_
 - **1** sottodominio
 - **1** Giga di spazio disco
@@ -39,13 +38,8 @@ CONTAINER-80
 
 .. literal-block:: 90,00 € annui
 
-
-
-
-
-
 CONTAINER-120
-~~~~~~~~~~~~~~
+**************
 - **120** MB `container </Container>`_
 - **2** sottodominio
 - **1** Giga di spazio disco
@@ -59,7 +53,7 @@ CONTAINER-120
 
 
 CONTAINER-160
-~~~~~~~~~~~~~~
+**************
 - **120** MB `container </Container>`_
 - **2** sottodominio
 - **1** Giga di spazio disco
@@ -73,7 +67,7 @@ CONTAINER-160
 
 
 CONTAINER-200
-~~~~~~~~~~~~~~
+**************
 - **200** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -86,7 +80,7 @@ CONTAINER-200
 
 
 CONTAINER-300
-~~~~~~~~~~~~~~
+**************
 - **300** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -99,7 +93,7 @@ CONTAINER-300
 
 
 CONTAINER-400
-~~~~~~~~~~~~~~
+**************
 - **400** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -112,7 +106,7 @@ CONTAINER-400
 
 
 CONTAINER-500
-~~~~~~~~~~~~~~
+**************
 - **500** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -126,7 +120,7 @@ CONTAINER-500
 
 
 CONTAINER-600
-~~~~~~~~~~~~~~
+**************
 - **600** MB `container </Container>`_
 - **8** sottodominio
 - **4** Giga di spazio disco
@@ -140,7 +134,7 @@ CONTAINER-600
 
 
 CONTAINER-700
-~~~~~~~~~~~~~~
+**************
 - **700** MB `container </Container>`_
 - **8** sottodominio
 - **4** Giga di spazio disco
@@ -154,7 +148,7 @@ CONTAINER-700
 
 
 CONTAINER-800
-~~~~~~~~~~~~~~
+**************
 - **800** MB `container </Container>`_
 - **8** sottodominio
 - **10** Giga di spazio disco
