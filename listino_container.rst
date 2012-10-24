@@ -65,7 +65,8 @@ CONTAINER-160
 
 `Riepilogo servizi e limiti </limits>`_
 
-**170,00 € annui**
+.. parsed-literal::
+  **170,00 € annui**
 
 
 CONTAINER-200
@@ -79,7 +80,8 @@ CONTAINER-200
 
 `Riepilogo servizi e limiti </limits>`_
 
-**210,00 € annui**
+.. parsed-literal::
+  **210,00 € annui**
 
 
 CONTAINER-300
@@ -93,8 +95,8 @@ CONTAINER-300
 
 `Riepilogo servizi e limiti </limits>`_
 
-**310,00 € annui**
-
+.. parsed-literal::
+  **310,00 € annui**
 
 CONTAINER-400
 -------------
@@ -107,7 +109,8 @@ CONTAINER-400
 
 `Riepilogo servizi e limiti </limits>`_
 
-**410,00 € annui**
+.. parsed-literal::
+  **410,00 € annui**
 
 CONTAINER-500
 -------------
@@ -153,7 +156,6 @@ CONTAINER-700
 
 .. parsed-literal::
   **690,00 € annui**
-
 
 CONTAINER-800
 *************
