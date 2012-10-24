@@ -1,7 +1,7 @@
 Listino Container
 =================
 
-Tutte le offerte Container comprendono:
+Tutte le offerte **Container** comprendono:
 ----------------------------------------
 
 - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
@@ -16,6 +16,7 @@ Le offerte fino a 160MB includono un db mysql su server condiviso.
 Per le offerte superiori (o per chi vuole usare PostgreSQL o altri db engine) e' fortemente consigliato eseguire il database server direttamente nel container (migliori performance e totale personalizzazione).
 Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.
 
+
 +------------------------------------------------------+
 |Tutti i prezzi sono da intendersi IVA 21% esclusa.    |
 |                                                      |
@@ -24,6 +25,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 |- `documentazione </documentazione>`_                 |
 |- `riepilogo servizi e limiti </limits>`_             |
 +------------------------------------------------------+
+
 
 CONTAINER-80
 -------------
