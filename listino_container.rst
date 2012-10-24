@@ -27,7 +27,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 
 
 CONTAINER-80
--------------
+~~~~~~~~~~~~~
 - **80** MB `container </Container>`_
 - **1** sottodominio
 - **1** Giga di spazio disco
@@ -40,7 +40,7 @@ CONTAINER-80
 **90,00 € annui**
 
 CONTAINER-120
--------------
+~~~~~~~~~~~~~~
 - **120** MB `container </Container>`_
 - **2** sottodominio
 - **1** Giga di spazio disco
@@ -53,7 +53,7 @@ CONTAINER-120
 **130,00 € annui**
 
 CONTAINER-160
--------------
+~~~~~~~~~~~~~~
 - **120** MB `container </Container>`_
 - **2** sottodominio
 - **1** Giga di spazio disco
@@ -66,7 +66,7 @@ CONTAINER-160
 **170,00 € annui**
 
 CONTAINER-200
--------------
+~~~~~~~~~~~~~~
 - **200** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -78,7 +78,7 @@ CONTAINER-200
 **210,00 € annui**
 
 CONTAINER-300
--------------
+~~~~~~~~~~~~~~
 - **300** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -90,7 +90,7 @@ CONTAINER-300
 **310,00 € annui**
 
 CONTAINER-400
--------------
+~~~~~~~~~~~~~~
 - **400** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -102,7 +102,7 @@ CONTAINER-400
 **410,00 € annui**
 
 CONTAINER-500
--------------
+~~~~~~~~~~~~~~
 - **500** MB `container </Container>`_
 - **8** sottodominio
 - **2** Giga di spazio disco
@@ -115,7 +115,7 @@ CONTAINER-500
 **510,00 € annui**
 
 CONTAINER-600
--------------
+~~~~~~~~~~~~~~
 - **600** MB `container </Container>`_
 - **8** sottodominio
 - **4** Giga di spazio disco
@@ -128,7 +128,7 @@ CONTAINER-600
 **590,00 € annui**
 
 CONTAINER-700
--------------
+~~~~~~~~~~~~~~
 - **700** MB `container </Container>`_
 - **8** sottodominio
 - **4** Giga di spazio disco
@@ -141,7 +141,7 @@ CONTAINER-700
 **690,00 € annui**
 
 CONTAINER-800
--------------
+~~~~~~~~~~~~~~
 - **800** MB `container </Container>`_
 - **8** sottodominio
 - **10** Giga di spazio disco
