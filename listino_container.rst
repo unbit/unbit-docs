@@ -24,3 +24,14 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 |- `documentazione </documentazione>`_                 |
 |- `riepilogo servizi e limiti </limits>`_             |
 +------------------------------------------------------+
+
+CONTAINER-80
+-------------
+- **80** MB `container </Container>`_
+- 1 sottodominio
+- 1 Giga di spazio disco
+- 4 caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+- 4 accessi smtp
+- 1 database MySQL
+
+`Riepilogo servizi e limiti </limits>`_
