@@ -13,6 +13,7 @@ BANDA AGGIUNTIVA
 ****************
 
 - 128 Kbit/s
+
 .. parsed-literal::
   **20,00 € mensili (fatturazione annuale)**
 
