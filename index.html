@@ -70,14 +70,16 @@
     Una serie di server gestiscono l'avvio, il mantenimento e il monitoraggio delle applicazioni e diverse patch applicate al kernel Linux garantiscono l'isolamento dei processi del singolo utente.
     
     <br/><br/><br/>
-    <h3 class="title"><i class="icon-cogs"></i> Processi e Container, uWSGI e UPSTREAM</h3>
-    L'offerta Unbit e' divisa in 2 tipologie tecniche: a <b>processi</b> e a <a href="http://wiki.unbit.it/Container" target="_blank">container</a>.<br/><br/>    
+    <h3 class="title"><i class="icon-cogs"></i>Container, uWSGI e UPSTREAM</h3>
+    I container sono la componente kernel su cui viene costruito il sistema di isolamento degli account. uWSGI e' il server
+    che si occupa di gestire le applicazioni. UPSTREAM e' il motore che permette la sincronizzazione dei dati degli account
+    con il webserver e il passaggio delle richieste dinamiche a uWSGI (o all'application server alternativo che deciderai di usare)
     
     <div class="accordion" id="accordion2">
         <div class="accordion-group">
             <div class="accordion-heading">
                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                   Processi e Container
+                   Container
                 </a>
             </div>
             <div id="collapseOne" class="accordion-body collapse">
@@ -116,6 +118,19 @@
             <div class="accordion-heading">
                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
                     UPSTREAM
+                </a>
+            </div>
+            <div id="collapseTwo" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <b>UPSTREAM</b> e' il motore che si occupa di avviare in automatico le vostre applicazioni web al ricevimento della prima richiesta. Immaginatelo come una shell. Impostate il comando da eseguire
+                    e con quale protocollo (attualmente sono supportati uwsgi, HTTP, HTTP-persistente, FastCGI, SCGI e Biferno) dialoghera' con il webserver. Tutto qui (<a href="http://wiki.unbit.it/Upstream">piu' o meno</a>)
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                    Gestione "a processi" (solo utenti esperti)
                 </a>
             </div>
             <div id="collapseTwo" class="accordion-body collapse">
@@ -179,26 +194,26 @@
     <table class="table table-striped">
     
     <tr>
-            <th>software</th><th>requisiti per container</th><th>requisiti per processi</th><th>modalita' consigliate per deploy</th>
+            <th>software</th><th>requisiti container</th><th>modalita' consigliate per deploy</th>
     </tr>
     
-    <tr><td><b>Django</b></td><td>80 MB, (circa 40 MB per processo, 8MB per ogni thread)</td><td>1 processo da 64MB</td><td>uWSGI preforked, uWSGI threaded</td></tr>
-    <tr><td><b>RubyOnRails 2.x</b></td><td>80 MB, (circa 70 MB per processo)</td><td>3 processi da 96MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
-    <tr><td><b>RubyOnRails 3.x</b></td><td>90 MB, (circa 80 MB per processo)</td><td>3 processi da 96MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
-    <tr><td><b>Flask</b></td><td>30 MB, (circa 20 MB per processo, 8MB per ogni thread)</td><td>1 processo da 64MB</td><td>uWSGI preforked, uWSGI threaded</td></tr>
-    <tr><td><b>Sinatra</b></td><td>40 MB, (circa 30 MB per processo)</td><td>1 processo da 64MB</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
-    <tr><td><b>Tomcat</b></td><td>300 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
-    <tr><td><b>Jetty</b></td><td>160 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
-    <tr><td><b>node.js</b></td><td>40 MB</td><td>1 processo da 64</td><td>UPSTREAM + http</td></tr>
-    <tr><td><b>Web2py</b></td><td>40 MB, (circa 30 MB per processo)</td><td>1 processo da 64</td><td>uWSGI preforked</td></tr>
-    <tr><td><b>Zope</b></td><td>250 MB, 1 porta TCP su localhost</td><td>-</td><td>uWatchSloth</td></tr>
-    <tr><td><b>memcached</b></td><td>(8+dimensione cache) MB</td><td>1 processo da 64</td><td>uWatchSloth, uWSGI daemon</td></tr>
-    <tr><td><b>redis</b></td><td>(8+dimensione cache) MB</td><td>1 processo da 64</td><td>uWatchSloth, uWSGI daemon</td></tr>
-    <tr><td><b>PostgreSQL</b></td><td>30 MB</td><td>8 processi da 64</td><td>uWatchSloth</td></tr>
-    <tr><td><b>MySQL</b></td><td>70 MB</td><td>4 processi da 64</td><td>uWatchSloth</td></tr>
-    <tr><td><b>MongoDB</b></td><td>40 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
-    <tr><td><b>CouchDB</b></td><td>60 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
-    <tr><td><b>Mono XSP</b></td><td>120 MB, 1 porta TCP</td><td>-</td><td>uWatchSloth</td></tr>
+    <tr><td><b>Django</b></td><td>80 MB, (circa 40 MB per processo, 8MB per ogni thread)</td><td>uWSGI preforked, uWSGI threaded</td></tr>
+    <tr><td><b>RubyOnRails 2.x</b></td><td>80 MB, (circa 70 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>RubyOnRails 3.x</b></td><td>90 MB, (circa 80 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>Flask</b></td><td>30 MB, (circa 20 MB per processo, 8MB per ogni thread)</td><td>uWSGI preforked, uWSGI threaded</td></tr>
+    <tr><td><b>Sinatra</b></td><td>40 MB, (circa 30 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
+    <tr><td><b>Tomcat</b></td><td>300 MB, 1 porta TCP su localhost</td><td>-</td></tr>
+    <tr><td><b>Jetty</b></td><td>160 MB, 1 porta TCP su localhost</td><td>-</td></tr>
+    <tr><td><b>node.js</b></td><td>40 MB</td><td>UPSTREAM + http</td></tr>
+    <tr><td><b>Web2py</b></td><td>40 MB, (circa 30 MB per processo)</td><td>uWSGI preforked</td></tr>
+    <tr><td><b>Zope</b></td><td>250 MB, 1 porta TCP su localhost</td><td>-</td></tr>
+    <tr><td><b>memcached</b></td><td>(8+dimensione cache) MB</td><td>uWSGI daemon</td></tr>
+    <tr><td><b>redis</b></td><td>(8+dimensione cache) MB</td><td>uWSGI daemon</td></tr>
+    <tr><td><b>PostgreSQL</b></td><td>30 MB</td><td>-</td></tr>
+    <tr><td><b>MySQL</b></td><td>70 MB</td><td>-</td></tr>
+    <tr><td><b>MongoDB</b></td><td>40 MB, 1 porta TCP</td><td>-</td></tr>
+    <tr><td><b>CouchDB</b></td><td>60 MB, 1 porta TCP</td><td>-</td></tr>
+    <tr><td><b>Mono XSP</b></td><td>120 MB, 1 porta TCP</td><td>-</td></tr>
     
     </table>
     </div>
