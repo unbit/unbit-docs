@@ -40,7 +40,7 @@ CONTAINER-80
    90,00 € annui
 
 CONTAINER-120
-*************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -55,7 +55,7 @@ CONTAINER-120
    **130,00 € annui**
 
 CONTAINER-160
-*************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -70,7 +70,7 @@ CONTAINER-160
 
 
 CONTAINER-200
-*************
+-------------
 
 - **200** MB `container </Container>`_
 - **8** sottodominio
@@ -84,7 +84,7 @@ CONTAINER-200
 
 
 CONTAINER-300
-**************
+-------------
 
 - **300** MB `container </Container>`_
 - **8** sottodominio
@@ -98,7 +98,7 @@ CONTAINER-300
 
 
 CONTAINER-400
-**************
+-------------
 
 - **400** MB `container </Container>`_
 - **8** sottodominio
@@ -112,7 +112,7 @@ CONTAINER-400
 
 
 CONTAINER-500
-**************
+-------------
 
 - **500** MB `container </Container>`_
 - **8** sottodominio
@@ -127,7 +127,7 @@ CONTAINER-500
 
 
 CONTAINER-600
-**************
+-------------
 
 - **600** MB `container </Container>`_
 - **8** sottodominio
