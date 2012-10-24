@@ -1,0 +1,58 @@
+<div class="row-fluid">
+        <div class="span6">
+            <form id="manage" class="formOverview form-horizontal" method="post" action="https://manage.unbit.it/info">            
+                <input type="hidden" name="commit" value="login" />
+                <legend><i class="icon-cog"></i> Accedi al pannello di controllo</legend>
+                <p>Tutte le funzioni del pannello di controllo sono utilizzabili anche via api <a class="acid" href="http://wiki.unbit.it/ApiXmlRPC-SOAP">REST/XML-RPC/SOAP</a></p>
+                
+                <div class="control-group">
+                    <label class="control-label" for="user">User</label>
+                    <div class="controls">
+                        <input name="u" type="text" id="user" placeholder="User"/>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <label class="control-label" for="pass">Password</label>
+                    <div class="controls">
+                        <input name="p" type="password" id="pass" placeholder="Password"/>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" name="actionManage" class="btn">Accedi al pannello</button>
+                    </div>
+                </div>
+                
+            </form>
+        </div>
+        
+        <div class="span6">
+            <form id="webmail" class="formOverview form-horizontal" method="post" action="https://manage.unbit.it/squirrelmail/src/redirect.php">
+                <legend><i class="icon-envelope-alt"></i> Accedi alla tua email</legend>
+                <p>La prima volta che accedi al webmail clicca sul link &quot;Opzioni&quot; dopo aver effettuato il login.</p>
+                
+                <div class="control-group">
+                    <label class="control-label" for="login_username">User</label>
+                    <div class="controls">
+                        <input name="login_username" type="text" id="login_username" placeholder="User"/>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <label class="control-label" for="secretkey">Password</label>
+                    <div class="controls">
+                        <input name="secretkey" type="password" id="secretkey" placeholder="Password"/>
+                    </div>
+                </div>
+                
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" name="actionWebmail" class="btn">Accedi al webmail</button>
+                    </div>
+                </div>            
+            </form>
+        </div>
+    </div>
+  </div>
