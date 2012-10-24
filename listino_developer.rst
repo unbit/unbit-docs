@@ -1,7 +1,7 @@
 Listino Developer
 =================
 .. parsed-literal::
-   Le offerte della famiglia DEVELOPER sono dedicate agli sviluppatori e ai professionisti del settore. I prezzi sono dettati dalla minore assistenza di base di cui  necessita questo target di clienti. Per le Aziende che necessitano di assistenza di base consigliamo i piani della famiglia BUSINESS.
+   Le offerte della famiglia DEVELOPER sono dedicate agli sviluppatori e ai professionisti del settore. I prezzi sono dettati dalla minore assistenza di base di cui necessita questo target di clienti. Per le Aziende che necessitano di assistenza di base consigliamo i piani della famiglia BUSINESS.
    
 Tutte le offerte developer comprendono:
 
