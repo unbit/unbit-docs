@@ -2,6 +2,7 @@ Listino Container
 =================
 
 Tutte le offerte container comprendono:
+---------------------------------------
 
  - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
  - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
@@ -24,7 +25,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
    - `riepilogo servizi e limiti </limits>`_             
 
 CONTAINER-80
-------------
+************
 
  - **80** MB `container </Container>`_
  - **1** sottodominio
