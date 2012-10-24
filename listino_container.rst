@@ -18,9 +18,8 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 21% esclusa.
                                                       
-   - `come attivare il servizio </attivazione_hosting>`_ 
-   - `metodi di pagamento </metodi_pagamento>`_          
-   - `documentazione </documentazione>`_                 
+   - `come attivare il servizio </attivazione_servizi>`_ 
+   - `metodi di pagamento </metodi_pagamento>`_               
    - `riepilogo servizi e limiti </limits>`_             
 
 CONTAINER-80
