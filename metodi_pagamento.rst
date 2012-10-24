@@ -1,19 +1,18 @@
 --------------------
 Metodi di pagamento
 --------------------
+.. parsed-literal::
+   **Bonifico Bancario o Postagiro sul conto BancoPosta**
 
-**Bonifico Bancario o Postagiro sul conto BancoPosta**
--------------------------------------------------------
+   intestato a: Unbit Sas di Allietta Mauro e De Ioris Roberto & C
+   conto n: 000080278138
+   ABI: 07601
+   CAB: 03200
+   CIN: X
 
-intestato a: Unbit Sas di Allietta Mauro e De Ioris Roberto & C
-conto n: 000080278138
-ABI: 07601
-CAB: 03200
-CIN: X
+   IBAN: IT41X0760103200000080278138
 
-IBAN: IT41X0760103200000080278138
-
-E' necessario indicare nella causale di bonifico il numero della fattura
+   E' necessario indicare nella causale di bonifico il numero della fattura
 
 .. parsed-literal::
    **Bonifico bancario**
@@ -39,7 +38,7 @@ vai su http://accounting.unbit.it/paypal/invoice
 inserisci il numero di fattura e procedi al pagamento.
 
 .. parsed-literal::
-   **Carta di credito (visa, mastercard, american express, postepay)**
+   **Carta di credito (via paypal)**
 
 vai su http://accounting.unbit.it/paypal/invoice
 inserisci il numero di fattura e procedi al pagamento. Nella schermata di login non effettuare l'accesso ma clicca sul tasto "continua" presente dopo la dicitura "Non hai un conto PayPal? Puoi usare la tua carta di credito o il tuo conto bancario (quando possibile)."
