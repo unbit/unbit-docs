@@ -41,7 +41,7 @@ CONTAINER-120
 *************
 
  - **120** MB `container </Container>`_
- - **2** sottodominio
+ - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **6** accessi smtp
@@ -56,7 +56,7 @@ CONTAINER-160
 *************
 
  - **120** MB `container </Container>`_
- - **2** sottodominio
+ - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **6** accessi smtp
@@ -72,7 +72,7 @@ CONTAINER-200
 *************
 
  - **200** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -87,7 +87,7 @@ CONTAINER-300
 *************
 
  - **300** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -101,7 +101,7 @@ CONTAINER-400
 *************
 
  - **400** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -115,7 +115,7 @@ CONTAINER-500
 *************
 
  - **500** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -130,7 +130,7 @@ CONTAINER-600
 *************
 
  - **600** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -145,7 +145,7 @@ CONTAINER-700
 *************
 
  - **700** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
@@ -160,7 +160,7 @@ CONTAINER-800
 *************
 
  - **800** MB `container </Container>`_
- - **8** sottodominio
+ - **8** sottodomini
  - **10** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp
