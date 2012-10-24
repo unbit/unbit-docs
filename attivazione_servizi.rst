@@ -17,9 +17,12 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 |
 | Per accelerare la procedura puoi inviaci tramite fax, al n. 011.43.57.238, la ricevuta del bonifico (il pagamento con PayPal risulta immediato). 
 | **NON SONO ACCETTATI MANDATI DI PAGAMENTO**
-
-Se ancora non sei cliente Unbit, al ricevimento della documentazione e della relativa conferma di pagamento, ti verrà creato un account personale
-
-A registrazione o trasferimento avvenuti verrai avvisato e ti verranno comunicati i dati necessari alla gestione dei servizi tramite una mail di benvenuto, nel caso sia il tuo primo ordine su Unbit. Se sei già nostro cliente i nuovi servizi acquistati appariranno sul tuo pannello di controllo.
-
-Ti ricordiamo che la durata del servizio è di 12 mesi dalla data di emissione della fattura, e che il servizio è tacitamente rinnovato allo scadere, salvo tua disdetta scritta entro 30 gg dalla data di scadenza (vedi contratto per i dettagli). 
+|
+| Se ancora non sei cliente Unbit, al ricevimento della documentazione e della relativa conferma di pagamento, ti verrà creato un account personale
+|
+| A registrazione o trasferimento avvenuti verrai avvisato e ti verranno comunicati i dati necessari alla gestione dei servizi tramite una mail di 
+| benvenuto, nel caso sia il tuo primo ordine su Unbit. Se sei già nostro cliente i nuovi servizi acquistati appariranno sul tuo pannello di controllo.
+|
+| Ti ricordiamo che la durata del servizio è di 12 mesi dalla data di emissione della fattura, e che il servizio è tacitamente rinnovato allo 
+| scadere, salvo tua disdetta scritta entro 30 gg dalla data di scadenza (vedi contratto per i dettagli).
+|
