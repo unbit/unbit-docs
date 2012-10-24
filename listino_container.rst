@@ -1,9 +1,7 @@
-=================
 Listino Container
 =================
 
-test
-----
+Tutte le offerte container comprendono:
 
  - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
  - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
@@ -17,7 +15,6 @@ Le offerte fino a 160MB includono un db mysql su server condiviso.
 Per le offerte superiori (o per chi vuole usare PostgreSQL o altri db engine) e' fortemente consigliato eseguire il database server direttamente nel container (migliori performance e totale personalizzazione).
 Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.
 
-
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 21% esclusa.
                                                       
@@ -27,7 +24,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
    - `riepilogo servizi e limiti </limits>`_             
 
 CONTAINER-80
-************
+------------
 
  - **80** MB `container </Container>`_
  - **1** sottodominio
@@ -39,10 +36,10 @@ CONTAINER-80
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   90,00 € annui
+   **90,00 € annui**
 
 CONTAINER-120
-*************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -57,7 +54,7 @@ CONTAINER-120
    **130,00 € annui**
 
 CONTAINER-160
-*************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -72,7 +69,7 @@ CONTAINER-160
 
 
 CONTAINER-200
-*************
+-------------
 
 - **200** MB `container </Container>`_
 - **8** sottodominio
@@ -86,7 +83,7 @@ CONTAINER-200
 
 
 CONTAINER-300
-**************
+-------------
 
 - **300** MB `container </Container>`_
 - **8** sottodominio
@@ -100,7 +97,7 @@ CONTAINER-300
 
 
 CONTAINER-400
-**************
+-------------
 
 - **400** MB `container </Container>`_
 - **8** sottodominio
@@ -114,7 +111,7 @@ CONTAINER-400
 
 
 CONTAINER-500
-**************
+-------------
 
 - **500** MB `container </Container>`_
 - **8** sottodominio
@@ -129,7 +126,7 @@ CONTAINER-500
 
 
 CONTAINER-600
-**************
+-------------
 
 - **600** MB `container </Container>`_
 - **8** sottodominio
@@ -145,7 +142,7 @@ CONTAINER-600
 
 
 CONTAINER-700
-**************
+-------------
 
 - **700** MB `container </Container>`_
 - **8** sottodominio
@@ -161,7 +158,7 @@ CONTAINER-700
 
 
 CONTAINER-800
-**************
+-------------
 
 - **800** MB `container </Container>`_
 - **8** sottodominio
