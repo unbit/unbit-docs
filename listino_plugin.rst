@@ -12,7 +12,7 @@ Listino Plugin
 PUNTAMENTO DNS
 **************
 
-- Puntamento DNS
+ - Puntamento DNS
 
 .. parsed-literal::
    **4,00 € annui**
@@ -20,12 +20,12 @@ PUNTAMENTO DNS
 SPAZIO DISCO
 *************
 
-- 1 giga di spazio aggiuntivo
+ - 1 giga di spazio aggiuntivo
 
 .. parsed-literal::
    **10,00 € annui**
 
-- 10 giga di spazio aggiuntivo
+ - 10 giga di spazio aggiuntivo
 
 .. parsed-literal::
    **90,00 € annui**
