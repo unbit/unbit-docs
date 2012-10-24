@@ -19,6 +19,8 @@ class Efesto:
 
     def __call__(self, environ, start_response):
         requested_item = environ['PATH_INFO'][1:]
+        if requested_item == '': requested_item = 'index'
+        print requested_item
         return self.render_page(requested_item, start_response)
 
     def render_page(self, page, start_response):
