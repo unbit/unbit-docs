@@ -13,6 +13,7 @@ CIN: X
 IBAN: IT41X0760103200000080278138
 
 E' necessario indicare nella causale di bonifico il numero della fattura
+
 .. parsed-literal::
    **Bonifico bancario**
 
@@ -29,11 +30,13 @@ Codice BIC: BREUITM1 (necessario per operazioni internazionali)
 Swift: BLOPIT22XXXX (necessario per operazioni internazionali)
 
 E' necessario indicare nella causale di bonifico il numero della fattura
+
 .. parsed-literal::
    **Paypal**
 
 vai su http://accounting.unbit.it/paypal/invoice
 inserisci il numero di fattura e procedi al pagamento.
+
 .. parsed-literal::
    **Carta di credito (visa, mastercard, american express, postepay)**
 
