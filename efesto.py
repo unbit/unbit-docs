@@ -4,21 +4,27 @@ from dulwich.repo import Repo
 class Efesto:
 
     def render_html(self, page, start_response):
-        pass
+        start_response('200 OK', [('Content-Type','text/html')])
+        sha = self.git_index[page][8]
+        blob = self.repo.get_blob(sha)
+        return [self.get_header(page), blob.as_raw_string(), self.get_footer(page)]
 
     def render_rst(self, page, start_response):
         start_response('200 OK', [('Content-Type','text/html')])
         sha = self.git_index[page][8]
         blob = self.repo.get_blob(sha)
-        return [self.get_header(page), str(publish_parts(blob.as_raw_string(), writer_name='html')['html_body']), self.get_footer(page)]
+        return [self.get_header(page), self.prefix, unicode(publish_parts(blob.as_raw_string(), writer_name='html')['html_body']).encode('utf8'), self.suffix, self.get_footer(page)]
 
-    def __init__(self, path='.'):
+    def __init__(self, path='.',prefix='',suffix=''):
         self.repo = Repo(path)
+        self.prefix = prefix
+        self.suffix = suffix
         self.allowed_ext = {'html':self.render_html, 'rst':self.render_rst}
-        self.git_index = self.repo.open_index()
 
     def __call__(self, environ, start_response):
-        requested_item = environ['PATH_INFO'][1:]
+        self.git_index = self.repo.open_index()
+        requested_item = environ['PATH_INFO'][1:].rstrip('/')
+        if requested_item == '': requested_item = 'index'
         return self.render_page(requested_item, start_response)
 
     def render_page(self, page, start_response):
