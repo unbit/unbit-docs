@@ -5,7 +5,7 @@ Listino Developer
    
 Tutte le offerte developer comprendono:
 
-- Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name, .info, .biz, .nl (`verifica altre estensioni e condizioni </listino_estensioni>`_ )
+- Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name, .info, .biz, .nl (`verifica altre estensioni e condizioni </listino_estensioni>`_)
 - WebMail per consultare via web (in HTTPS) le proprie caselle di posta
 - Gestione granulare degli accessi FTP
 - Gestione accessi alle statistiche web
@@ -15,7 +15,7 @@ Tutte le offerte developer comprendono:
 - Accesso SSH (necessari almeno 6 processi o un container per l'utilizzo)
 - Gestione Crontab via web
 - Servizio SMTP locale per invio mail da applicazioni web (max 100 mail per 5 minuti)
-- `Gateway mailbox2webapp<http://wiki.unbit.it/HowtoMail2WebApp>`_ per richiamare applicazioni web alla ricezione di una mail
+- `Gateway mailbox2webapp <http://wiki.unbit.it/HowtoMail2WebApp>`_ per richiamare applicazioni web alla ricezione di una mail
 - Assistenza via email sulle tecnologie supportate
 
 .. parsed-literal::
