@@ -25,6 +25,42 @@ Tutte le offerte developer comprendono:
    - `metodi di pagamento </metodi_pagamento>`_               
    - `riepilogo servizi e limiti </limits>`_             
 
+DEVELOPER PLUS
+***************
+
+*Per sviluppatori e professionisti del settore. Ideale per applicazioni web a medio carico grazie al supporto per 9 processi da 64 Megabyte di address space.*
+
+- **2** sottodomini
+- **1** Giga di spazio disco
+- **9** processi da 64MB di address space
+- **6** processi da 48MB di address space (consigliati per cron e ssh)
+- **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+- **1** database MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
+- **4** accessi smtp
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **99,00 € annui**
+
+DEVELOPER HIGH END
+*******************
+
+*Per sviluppatori con applicazioni web a medio carico e alto consumo di risorse (include 15 processi da 64 Megabyte di address space).*
+
+- **2** sottodomini
+- **1** Giga di spazio disco
+- **15** processi da 64MB di address space
+- **6** processi da 48MB di address space (consigliati per cron e ssh)
+- **8** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+- **2** database MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
+- **8** accessi smtp
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **145,00 € annui**
+
 DEVELOPER
 ************
 
