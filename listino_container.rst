@@ -11,9 +11,9 @@ Tutte le offerte container comprendono:
  - Servizio SMTP locale per invio mail da applicazioni web (max 100 mail per 5 minuti)
  - Gestione granulare degli accessi FTP/FTPS
 
-Le offerte fino a 160MB includono un db mysql su server condiviso.
+*Le offerte fino a 160MB includono un db mysql su server condiviso.
 Per le offerte superiori (o per chi vuole usare PostgreSQL o altri db engine) e' fortemente consigliato eseguire il database server direttamente nel container (migliori performance e totale personalizzazione).
-Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.
+Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.*
 
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 21% esclusa.
