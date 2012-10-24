@@ -1,5 +1,6 @@
 Listino Container
 =================
+
 Tutte le offerte container comprendono:
 
  - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
@@ -23,7 +24,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
    - `riepilogo servizi e limiti </limits>`_             
 
 CONTAINER-80
-============
+------------
 
  - **80** MB `container </Container>`_
  - **1** sottodominio
@@ -108,7 +109,6 @@ CONTAINER-400
 
 **410,00 € annui**
 
-
 CONTAINER-500
 -------------
 
@@ -121,8 +121,8 @@ CONTAINER-500
 
 `Riepilogo servizi e limiti </limits>`_
 
-**510,00 € annui**
-
+.. parsed-literal::
+  **510,00 € annui**
 
 CONTAINER-600
 -------------
@@ -138,7 +138,6 @@ CONTAINER-600
 
 .. parsed-literal::
   **590,00 € annui**
-
 
 CONTAINER-700
 -------------
