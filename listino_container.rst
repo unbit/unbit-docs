@@ -23,11 +23,10 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 |- `metodi di pagamento </metodi_pagamento>`_          |
 |- `documentazione </documentazione>`_                 |
 |- `riepilogo servizi e limiti </limits>`_             |
-+------------------------------------------------------+
 
 
 CONTAINER-80
-------------
+************
 
 - **80** MB `container </Container>`_
 - **1** sottodominio
@@ -42,7 +41,7 @@ CONTAINER-80
 
 
 CONTAINER-120
--------------
+*************
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -57,7 +56,7 @@ CONTAINER-120
 
 
 CONTAINER-160
--------------
+*************
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -72,7 +71,7 @@ CONTAINER-160
 
 
 CONTAINER-200
-**************
+*************
 
 - **200** MB `container </Container>`_
 - **8** sottodominio
