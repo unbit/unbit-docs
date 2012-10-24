@@ -1,8 +1,9 @@
 --------------------
 Metodi di pagamento
 --------------------
-.. parsed-literal::
-   **Bonifico Bancario o Postagiro sul conto BancoPosta**
+
+**Bonifico Bancario o Postagiro sul conto BancoPosta**
+-------------------------------------------------------
 
 intestato a: Unbit Sas di Allietta Mauro e De Ioris Roberto & C
 conto n: 000080278138
