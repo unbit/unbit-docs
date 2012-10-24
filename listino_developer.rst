@@ -28,5 +28,19 @@ Tutte le offerte developer comprendono:
 DEVELOPER
 ************
 
+*Per sviluppatori e appassionati. Ideale come pacchetto di base per futuri upgrade.*
+
+- **2** sottodomini
+- **1** Giga di spazio disco
+- **6** processi da 64MB di address space
+- **6** processi da 48MB di address space (consigliati per cron e ssh)
+- **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+- **1** database MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
+- **2** accessi smtp
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **71,00 € annui**
 
 
