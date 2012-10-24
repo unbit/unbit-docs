@@ -2,13 +2,11 @@
 Procedure di trasferimento domini
 ----------------------------------
 
-TRASFERIMENTO DOMINI .IT DA UN REGISTRAR
-*****************************************
+**TRASFERIMENTO DOMINI .IT DA UN REGISTRAR**
 
 Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
 
-TRASFERIMENTO ALTRI DOMINI
-***************************
+**TRASFERIMENTO ALTRI DOMINI**
 
 Affinché la richiesta di trasferimento possa avvenire è necessario che il dominio sia in stato **ACTIVE** o di **OK** (a seconda dell'estensione del dominio) e non in stato di **LOCK** o **clientTransferProhibited**.
 Se si tratta di un dominio .COM .NET .ORG .INFO .BIZ .NAME, è necessario, inoltre, farsi fornire dall'attuale maintainer che gestisce il dominio il codice denominato AUTH CODE per poter procedere all'accettazione del trasferimento.
