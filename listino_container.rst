@@ -1,5 +1,8 @@
 Listino Container
 =================
+
+.. _begin:
+
 Tutte le offerte Container comprendono:
 ----------------------------------------
 
@@ -152,3 +155,5 @@ CONTAINER-800
 `Riepilogo servizi e limiti </limits>`_
 
 **790,00 € annui**
+
+begin_
