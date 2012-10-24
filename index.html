@@ -70,8 +70,10 @@
     Una serie di server gestiscono l'avvio, il mantenimento e il monitoraggio delle applicazioni e diverse patch applicate al kernel Linux garantiscono l'isolamento dei processi del singolo utente.
     
     <br/><br/><br/>
-    <h3 class="title"><i class="icon-cogs"></i> Processi e Container, uWSGI e UPSTREAM</h3>
-    L'offerta Unbit e' divisa in 2 tipologie tecniche: a <b>processi</b> e a <a href="http://wiki.unbit.it/Container" target="_blank">container</a>.<br/><br/>    
+    <h3 class="title"><i class="icon-cogs"></i>Container, uWSGI e UPSTREAM</h3>
+    I container sono la componente kernel su cui viene costruito il sistema di isolamento degli account. uWSGI e' il server
+    che si occupa di gestire le applicazioni. UPSTREAM e' il motore che permette la sincronizzazione dei dati degli account
+    con il webserver e il passaggio delle richieste dinamiche a uWSGI (o all'application server alternativo che deciderai di usare)
     
     <div class="accordion" id="accordion2">
         <div class="accordion-group">
