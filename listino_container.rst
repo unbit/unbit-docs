@@ -143,7 +143,7 @@ CONTAINER-600
 
 
 CONTAINER-700
-**************
+-------------
 
 - **700** MB `container </Container>`_
 - **8** sottodominio
@@ -159,7 +159,7 @@ CONTAINER-700
 
 
 CONTAINER-800
-**************
+-------------
 
 - **800** MB `container </Container>`_
 - **8** sottodominio
