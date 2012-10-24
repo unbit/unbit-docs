@@ -2,7 +2,8 @@ Listino Developer
 =================
 .. parsed-literal::
    Le offerte della famiglia DEVELOPER sono dedicate agli sviluppatori e ai professionisti del settore. I prezzi sono dettati dalla minore assistenza di base di cui  necessita questo target di clienti. Per le Aziende che necessitano di assistenza di base consigliamo i piani della famiglia BUSINESS.
-   Tutte le offerte developer comprendono:
+   
+Tutte le offerte developer comprendono:
 
    - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (verifica altre estensioni e *condizioni)
    - WebMail per consultare via web (in HTTPS) le proprie caselle di posta
