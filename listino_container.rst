@@ -1,4 +1,3 @@
-=================
 Listino Container
 =================
 
@@ -26,7 +25,6 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
    - `riepilogo servizi e limiti </limits>`_             
 
 
-------------
 CONTAINER-80
 ------------
 
@@ -42,9 +40,8 @@ CONTAINER-80
 .. parsed-literal::
    90,00 € annui
 
-*************
 CONTAINER-120
-*************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
