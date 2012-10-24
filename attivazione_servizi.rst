@@ -15,8 +15,8 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 | **Al saldo della stessa verrà avviata la procedura di attivazione del servizio da te richiesto.**
 | **Se il pagamento avviene mezzo bonifico, è necessario indicare nella causale di bonifico il numero della fattura.**
 |
-|Per accelerare la procedura puoi inviaci tramite fax, al n. 011.43.57.238, la ricevuta del bonifico (il pagamento con PayPal risulta immediato). 
-|**NON SONO ACCETTATI MANDATI DI PAGAMENTO**
+| Per accelerare la procedura puoi inviaci tramite fax, al n. 011.43.57.238, la ricevuta del bonifico (il pagamento con PayPal risulta immediato). 
+| **NON SONO ACCETTATI MANDATI DI PAGAMENTO**
 
 Se ancora non sei cliente Unbit, al ricevimento della documentazione e della relativa conferma di pagamento, ti verrà creato un account personale
 
