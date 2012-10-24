@@ -9,15 +9,17 @@ Listino Plugin
    - `metodi di pagamento </metodi_pagamento>`_ 
 
 
-PUNTAMENTO DNS
-**************
+**PUNTAMENTO DNS**
+
 Puntamento DNS
+
 .. parsed-literal::
    **4,00 € annui**
 
-SPAZIO DISCO
-************
+**SPAZIO DISCO**
+
 1 giga di spazio aggiuntivo
+
 .. parsed-literal::
    **10,00 € annui**
 
