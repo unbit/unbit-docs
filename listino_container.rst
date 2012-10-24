@@ -27,7 +27,6 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 
 CONTAINER-80
 **************
-
 - **80** MB `container </Container>`_
 - **1** sottodominio
 - **1** Giga di spazio disco
@@ -37,7 +36,8 @@ CONTAINER-80
 
 `Riepilogo servizi e limiti </limits>`_
 
-.. literal-block:: 90,00 € annui
+90,00 € annui
+
 
 CONTAINER-120
 **************
