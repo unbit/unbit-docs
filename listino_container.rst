@@ -42,7 +42,7 @@ CONTAINER-80
 
 
 CONTAINER-120
-**************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
@@ -57,7 +57,7 @@ CONTAINER-120
 
 
 CONTAINER-160
-**************
+-------------
 
 - **120** MB `container </Container>`_
 - **2** sottodominio
