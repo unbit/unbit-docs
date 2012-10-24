@@ -30,7 +30,7 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 Approfondimenti
 *****************
 
-`Procedure di registrazione domini </procedure_registrazione>`_
+`Procedura di registrazione domini </procedure_registrazione>`_
 
 `Procedure di trasferimento domini </procedure_trasferimento>`_
 
