@@ -26,6 +26,7 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 | Ti ricordiamo che la durata del servizio è di 12 mesi dalla data di emissione della fattura, e che il servizio è tacitamente rinnovato allo 
 | scadere, salvo tua disdetta scritta entro 30 gg dalla data di scadenza (vedi contratto per i dettagli).
 |
+
 Approfondimenti
 *****************
 
