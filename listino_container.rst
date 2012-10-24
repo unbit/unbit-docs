@@ -1,7 +1,7 @@
 Listino Container
 =================
 
-Tutte le offerte **Container** comprendono:
+Tutte le offerte Container comprendono:
 ----------------------------------------
 
 - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
@@ -37,3 +37,8 @@ CONTAINER-80
 - **1** database MySQL
 
 `Riepilogo servizi e limiti </limits>`_
+
+      **90,00 € annui**
+
+
+
