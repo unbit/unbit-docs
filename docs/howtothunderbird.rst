@@ -2,9 +2,9 @@
 Impostazione E-Mail su Mozilla Thunderbird
 -------------------------------------------
 
-1. Aprire Thunderbird
+1. Aprire Mozilla Thunderbird
 
-2. Nel menu in alto cliccare su **Modifica** e su **Impostazioni account**
+2. Nel menu in alto cliccare su **Modifica** e su poi **Impostazioni account**
 
 3. Dal menu a tendina **Azioni account** selezionare **Aggiungi account di posta**
 
@@ -14,4 +14,4 @@ Impostazione E-Mail su Mozilla Thunderbird
 
 6. Impostare il server **SMTP** (seguire la guida presente alla pagina `HowToSmtp </docs/howtosmtp>`_ per utilizare il server smtp.unbit.it)
 
-7. Cliccare su **Riesaminare** e infine su **Fattoì**
+7. Cliccare su **Riesaminare** e infine su **Fatto**
