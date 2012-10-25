@@ -2,11 +2,11 @@
 Impostazione E-Mail su Outlook
 ------------------------------
 
-Aprire Outlook Express e selezionare la voce **Account** dal menù **Strumenti**.
+1. Aprire Outlook Express e selezionare la voce **Account** dal menù **Strumenti**.
 
-Nella finestra che si aprirà selezionare la voce **Posta elettronica** dal menù **Aggiungi**.
+2. Nella finestra che si aprirà selezionare la voce **Posta elettronica** dal menù **Aggiungi**.
 
-Inserire nel campo *"Nome visualizzato"* il vostro nome e cognome, oppure il nome che volete venga visualizzato come mittente.
+3. Inserire nel campo *"Nome visualizzato"* il vostro nome e cognome, oppure il nome che volete venga visualizzato come mittente.
 
 Nel pannello seguente inserite l'indirizzo email completo.
 
