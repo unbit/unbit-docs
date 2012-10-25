@@ -28,7 +28,7 @@ Neofiti
 
  - HowToOutlook2007 (Impostazione E-Mail su Outlook 2007) 
 
- - HowToMail (Impostazione E-Mail su Mail mac)
+ - HowToMail (Impostazione E-Mail su Mail per Mac OSX)
 
  - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird) 
 
