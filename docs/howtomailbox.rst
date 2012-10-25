@@ -4,7 +4,7 @@ Creazione Mailbox e indirizzi e-mail
 
 L'**indirizzo email** e' l'identificativo che sara' utilizzato per inviarti le email (Ex. pippo@pluto.com ).
 
-La **mailbox** invece e' un contenitore in cui vengono salvate le email. Per scaricare la propria posta si legge il contenuto della mailbox a cui possono essere inviate email utilizzando l'indirizzo email associato.
+La **mailbox** invece e' un contenitore in cui vengono salvate le email. **Per scaricare la propria posta si legge il contenuto della mailbox a cui possono essere inviate email utilizzando l'indirizzo email associato.**
 
 Mailbox e indirizzi possono essere creati solo se il dominio è abilitato alla ricezione delle email. Dal pannello: **gestione domini**
 
