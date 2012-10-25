@@ -30,7 +30,7 @@ Neofiti
 
  - `HowToMail </docs/howtomail>`_ (Impostazione E-Mail su Mail per Mac OSX)
 
- - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird) 
+ - `HowToThunderbird </docs/howtothunderbird>`_ (Impostazione E-Mail su Mozilla Thunderbird) 
 
 
 Developer
