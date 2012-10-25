@@ -15,7 +15,7 @@ FAQ
 Unbit
 *****
 
-**Cos'è Unbit?**
+- **Cos'è Unbit?**
 
 Unbit è una piattaforma per la fornitura di servizi internet basata su software opensource. Il nostro obiettivo e' supportare il maggior numero di tecnologie (libere) possibile, fornendo un servizio appetitoso per programmatori, geek, hacker o semplici appassionati. A differenza degli innumerevoli servizi di hosting non ci limitiamo ad istallare software sviluppato da terze parti ma collaboriamo attivamente con la comunita' e sviluppiamo diverse soluzioni 'in casa'.
 
