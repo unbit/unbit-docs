@@ -14,7 +14,7 @@ Impostazione E-Mail su Outlook Express
 
 6. Inserire il nome account (user) e la password che avete scelto nei campi di testo relativi.
 
-7. Premere sul pulsante Fine per salvare le impostazioni.
+7. Premere sul pulsante **Fine** per salvare le impostazioni.
 
 8. Ora l'account appena creato comparirà nella finestra degli **Account Internet**. Cliccare su **Proprietà**. 
 
