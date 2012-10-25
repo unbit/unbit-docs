@@ -32,4 +32,4 @@ Neofiti
 
  - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird)
 
-Ancora dubbi? Prova a leggere le nostre Faq
+Ancora dubbi? Prova a leggere le nostre `Faq <http://wiki.unbit.it/Faq>`_ 
