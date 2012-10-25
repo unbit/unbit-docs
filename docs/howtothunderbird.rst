@@ -4,7 +4,7 @@ Impostazione E-Mail su Mozilla Thunderbird
 
 1. Aprire Mozilla Thunderbird
 
-2. Nel menu in alto cliccare su **Modifica** e su poi **Impostazioni account**
+2. Nel menu in alto cliccare su **Modifica** e su **Impostazioni account**
 
 3. Dal menu a tendina **Azioni account** selezionare **Aggiungi account di posta**
 
