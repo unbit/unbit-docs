@@ -26,7 +26,9 @@ Neofiti
 
  - `HowToOutlookExpress </docs/howtooutlook>`_ (Impostazione E-Mail su Outlook Express)
 
- - HowToOutlook2007 (Impostazione E-Mail su Outlook 2007) 
+ - `HowToOutlook2007 </docs/howtooutlook2007>`_ (Impostazione E-Mail su Outlook 2007)
+ 
+ - `HowToOutlook2010 </docs/howtooutlook2010>`_ (Impostazione E-Mail su Outlook 2010)
 
  - `HowToMail </docs/howtomail>`_ (Impostazione E-Mail su Mail per Mac OSX)
 
