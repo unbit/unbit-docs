@@ -1,8 +1,8 @@
-------------------------------------
-Impostazione E-Mail su Outlook 2007
-------------------------------------
+-----------------------------------------------------------
+Impostazione E-Mail su Outlook 2010 (o versioni precedenti)
+-----------------------------------------------------------
 
-1. Avviare Outlook 2007
+1. Avviare Outlook
 
 2. Scegliere **Impostazioni account** dal menu **Strumenti**.
 
