@@ -37,7 +37,7 @@ La nostra struttura è monitorata 24/24h, il nostro staff di supporto tecnico ri
 
 **Come mai non gestite le attivazioni con delle form online e mi costringete a scrivervi una mail ?**
 
-Perche' vogliamo sapere chi abbiamo di fronte, il mondo e' pieno di maleducati e prepotenti, tu sicuramente non sei uno di loro, ma se il nostro morale e' alto anche il servizio sara' migliore, quindi la nostra politica sara' sempre quella di avere un primo contatto discorsivo con i nuovi clienti. Potra' sembrare una cosa strana, ma reputiamo un valore aggiunto del nostro servizio la tipologia di clientela. Se volete quindi essere nostri clienti, siate gentili ed educati, noi lo saremo il doppio :)
+Perche' vogliamo sapere chi abbiamo di fronte, il mondo e' pieno di maleducati e prepotenti, tu sicuramente non sei uno di loro, ma se il nostro morale e' alto anche il servizio sara' migliore, quindi la nostra politica sara' sempre quella di avere un primo contatto **discorsivo** con i nuovi clienti. Potra' sembrare una cosa strana, ma reputiamo un **valore aggiunto** del nostro servizio la tipologia di clientela. Se volete quindi essere nostri clienti, **siate gentili ed educati**, noi lo saremo il doppio :)
 
 Se un cliente si rivelera' inadeguato alle nostre politiche non esiteremo a rimborsarlo e indirizzarlo altrove. Non e' un favore che facciamo a noi stessi, ma agli altri clienti.
 
@@ -169,7 +169,7 @@ Ogni account Unbit e' un insieme di risorse ben definite e non superabili (a dif
 
 Se vuoi avere dei dati attendibili consulta il nostro staff, effettuare molte connessioni concorrenti in brevi lassi di tempo non e' altro che un DOS/DDOS e il nostro firewall blocchera' gli ip per tanti minuti quante erano le connessioni concorrenti effettuate. Il meccanismo e' molto complesso poiche' deve evitare ad ogni costo i falsi positivi. Se proprio vuoi fare dei test evita di superare le 40 connessioni concorrenti dallo stesso ip.
 
-torna su
+
 
 Mail
 ****
@@ -212,9 +212,9 @@ Certo, puoi configurare i tuoi indirizzi in decine di modalità diverse dal pann
 
 **Come posso configurare un autoresponder?**
 
-E' una delle tecnologie (se cosi' si puo' chiamare) che piu' odiamo in assoluto (e come noi molti altri), soprattutto per il cattivo uso che ne fanno gli utenti violando anche le norme piu' banali della netiquette. Se vuoi puoi sviluppare un tuo autorespnder utilizzando il gateway mail2webapp ma non forniremo alcun supporto.
+E' una delle tecnologie (se cosi' si puo' chiamare) che piu' odiamo in assoluto (e come noi molti altri), soprattutto per il cattivo uso che ne fanno gli utenti violando anche le norme piu' banali della netiquette. Se vuoi puoi sviluppare un tuo autorespnder utilizzando il **gateway mail2webapp** ma non forniremo alcun supporto.
 
-torna su
+
 
 Web
 ***
@@ -233,7 +233,7 @@ Ogni account unbit ha i suoi file nella directory /accounts/<nomeaccount>. La ra
 
 **Dove è finito il www davanti al mio sito?**
 
-È la domanda che ci viene fatta più spesso. è tutto normale, le richieste a www.nomedominio vengono reindirizzate direttamente al nome del dominio. Usare il www è una convenzione, lo staff di unbit ha reputato che fosse meglio avere nomi più corti mantenendo comunque la compatibilità con il classico www, tuttavia i gusti non si discutono, se vuoi che il www davanti al nome del dominio non sparisca in automatico puoi abilitare il checkbox www sul pannello di controllo nella sezione gestione domini.
+È la domanda che ci viene fatta più spesso. è tutto normale, le richieste a www.nomedominio vengono reindirizzate direttamente al nome del dominio. Usare il www è una convenzione, lo staff di unbit ha reputato che fosse meglio avere nomi più corti mantenendo comunque la compatibilità con il classico www, tuttavia i gusti non si discutono, se vuoi che il www davanti al nome del dominio non sparisca in automatico puoi abilitare il checkbox **www** sul pannello di controllo nella sezione gestione domini.
 
 **Cos'è un proxy?**
 
@@ -277,7 +277,7 @@ Assolutamente. Ogni account ftp è chrooted, quindi non può risalire a un livel
 
 Certamente, dal pannello di controllo cerca l'opzione "docroot".
 
-torna su
+
 
 Database
 ********
