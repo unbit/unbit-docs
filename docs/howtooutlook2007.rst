@@ -16,7 +16,7 @@ Impostazione E-Mail su Outlook 2007
 
 7. In **Informazioni utente** inserire **Nome** e **Indirizzo di posta elettronica** 
 
-8. In **Informazioni server**, fare clic sul tipo di account di posta elettronica nella casella **Tipo account**. nella casella **Tipo account** scegliere **POP3** o **IMAP** ed impostare il server **mail.unbit.it**
+8. In **Informazioni server**, nella casella **Tipo account**, scegliere **POP3** o **IMAP** ed impostare il server **mail.unbit.it**
 
 9. In **Informazioni accesso** inserire **Nome utente** e **Password** 
 
