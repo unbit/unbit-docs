@@ -24,7 +24,7 @@ Neofiti
 
  - `HowToSmtp </docs/howtosmtp>`_ (Creazione accesso SMTP)
 
- - `HowToOutlook </docs/howtooutlook>`_ (Impostazione E-Mail su Outlook Express)
+ - `HowToOutlookExpress </docs/howtooutlook>`_ (Impostazione E-Mail su Outlook Express)
 
  - HowToOutlook2007 (Impostazione E-Mail su Outlook 2007) 
 

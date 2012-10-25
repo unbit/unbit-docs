@@ -1,6 +1,6 @@
-------------------------------
-Impostazione E-Mail su Outlook
-------------------------------
+--------------------------------------
+Impostazione E-Mail su Outlook Express
+--------------------------------------
 
 1. Aprire Outlook Express e selezionare la voce **Account** dal menù **Strumenti**.
 
