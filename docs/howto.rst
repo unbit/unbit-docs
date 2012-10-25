@@ -20,7 +20,7 @@ Neofiti
 
 **Gestire l'email su unbit**
 
- - HowtoMailbox (Creazione Mailbox e indirizzi e-mail)
+ - `HowtoMailbox </docs/howtomailbox>`_ (Creazione Mailbox e indirizzi e-mail)
 
  - HowToSmtp (Creazione accesso SMTP)
 
