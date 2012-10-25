@@ -12,7 +12,7 @@ Impostazione E-Mail su MAIL (Mac OSX)
 6. Assegna al tuo account una descrizione
 7. Immetti il server della posta in entrata (**mail.unbit.it**), il **nome utente** e la **password**. Fai clic su **Continua** per proseguire.
 8. immetti le impostazioni di protezione del server della posta in entrata (**SSL**). Fai clic su **Continua** per proseguire.
-9. Immetti i dati del server della posta in uscita.
+9. Immetti i dati del server della posta in uscita. (se utilizzi il serve **smtp.unbit.it** segui la guida presente alla pagina `HowToSmtp </docs/howtosmtp>`_)
 10. Se necessario, seleziona **"Usa autenticazione"** e immetti **nome utente** e **password**. Fai clic su **Continua** per proseguire.
 11. Se richiesto, immetti le impostazioni di protezione del server della posta in uscita. Fai clic su **Continua** per proseguire.
 12. Verifica le impostazioni in **Riepilogo account**. Seleziona l'opzione **"Connetti account"**. Fai clic su **"Crea"** per completare la procedura.
