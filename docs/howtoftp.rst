@@ -2,17 +2,17 @@
 Creazione accesso FTP
 ---------------------
 
-Dal pannello di controllo andare nella sezione Gestione ftp
+Dal pannello di controllo andare nella sezione **Gestione ftp**
 
 Nella parte sinistra vi sono gli accessi ftp attualmente presenti per l'account. 
 
-Nella colonna di destra è possibile creare un nuovo accesso inserendo
+Nella colonna di destra è possibile creare un nuovo accesso inserendo:
 
-**id**: username che viene usato per l'accesso
+- **id**: username che viene usato per l'accesso
 
-**password**: password legata allo username
+- **password**: password legata allo username
 
-**home**: la directory a cui si accedera' attraverso l'accesso ftp.
+- **home**: la directory a cui si accedera' attraverso l'accesso ftp.
 
 Tale directory deve necessariamente esistere all'interno dello spazio ftp affinche' vi si possa accedere. E' buona norma alla creazione del primo accesso ftp, lasciare il campo home vuoto, in modo di avere un accesso ftp a tutti i propri file e directory.
 
