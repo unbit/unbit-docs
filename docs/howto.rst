@@ -31,3 +31,9 @@ Neofiti
  - HowToMail (Impostazione E-Mail su Mail mac)
 
  - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird) 
+
+
+Developer
+**********
+
+ - `HowtoSPF </docs/howtospf>`_ (Sender Policy Framework)
