@@ -18,6 +18,6 @@ Nella colonna di destra è possibile creare un nuovo accesso inserendo:
 
 Un qualsiasi sito ha generalmente come radice **/www/dominio** dove **dominio** è il nome del dominio registrato. Se si vuole quindi creare un accesso al solo spazio di un sito basta impostare il campo **home** a **/www/dominio**.
 
-**'Nel caso in cui si voglia accedere a tutti gli spazi relativi ai propri siti basta impostare la home a /www**
+**Nel caso in cui si voglia accedere a tutti gli spazi relativi ai propri siti basta impostare la home a /www**
 
-'Per poter utilizzare l'accesso creato tramite un qualsiasi programma ftp bisogna inserire come host **ftp.dominio**, e la username e password impostate nel pannello di controllo. 
+Per poter utilizzare l'accesso creato tramite un qualsiasi programma ftp bisogna inserire come host **ftp.dominio**, e la username e password impostate nel pannello di controllo. 
