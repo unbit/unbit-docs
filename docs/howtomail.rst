@@ -11,7 +11,7 @@ Impostazione E-Mail su MAIL (Mac OSX)
 5. Scegli il tipo di account appropriato.
 6. Assegna al tuo account una descrizione
 7. Immetti il server della posta in entrata (**mail.unbit.it**), il **nome utente** e la **password**. Fai clic su **Continua** per proseguire.
-8. immetti le impostazioni di protezione del server della posta in entrata. Fai clic su **Continua** per proseguire.
+8. immetti le impostazioni di protezione del server della posta in entrata (**SSL**). Fai clic su **Continua** per proseguire.
 9. Immetti i dati del server della posta in uscita.
 10. Se necessario, seleziona **"Usa autenticazione"** e immetti **nome utente** e **password**. Fai clic su **Continua** per proseguire.
 11. Se richiesto, immetti le impostazioni di protezione del server della posta in uscita. Fai clic su **Continua** per proseguire.
