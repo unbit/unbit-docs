@@ -1,6 +1,6 @@
 ----------------------
 Creazione accesso SMTP
------------------------
+----------------------
 
 Accedete al vostro pannello di controllo su http://unbit.it
 
