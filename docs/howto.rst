@@ -7,7 +7,7 @@ Quella che segue è la lista delle nostre guide. Il wiki di unbit è in continua
 Unbit
 ******
 
- - `HowToAskInfo </howtoaskinfo>`_ (Come fare per richiedere informazioni, assistenza e altro ad unbit) 
+ - `HowToAskInfo </docs/howtoaskinfo>`_ (Come fare per richiedere informazioni, assistenza e altro ad unbit) 
 
 Neofiti
 ********
