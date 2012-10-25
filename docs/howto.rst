@@ -30,6 +30,4 @@ Neofiti
 
  - HowToMail (Impostazione E-Mail su Mail mac)
 
- - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird)
-
-Ancora dubbi? Prova a leggere le nostre `Faq <http://wiki.unbit.it/Faq>`_ 
+ - HowToThunderbird (Impostazione E-Mail su Mozilla Thunderbird) 
