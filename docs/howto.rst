@@ -16,6 +16,8 @@ Neofiti
 
  - HowtoJabber (Configurare Jabber con la mailbox di Unbit) 
 
+ - HowtoDyndns (come configurare il servizio di dns dinamico) 
+
 **Gestire l'email su unbit**
 
  - HowtoMailbox (Creazione Mailbox e indirizzi e-mail)
