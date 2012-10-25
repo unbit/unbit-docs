@@ -186,7 +186,7 @@ L'SSL (Secure Socket Layer) è un protocollo che permette di crittografare il tr
 
 L'indirizzo del server SMTP è quello che ti viene indicato dal provider che ti fornisce la connessione a Internet. In alternativa puoi richiederci l'attivazione del servizio SMTP AUTH.
 
-**Ricevo un sacco di mail con Subject *****SPAM**** che diavolo succede?**
+**Ricevo un sacco di mail con Subject ===SPAM=== che diavolo succede?**
 
 Puoi stare tranquillo, è solo il nostro servizio antispam che ha riconosciuto una mail come spam e l'ha marchiata.
 
