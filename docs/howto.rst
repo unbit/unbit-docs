@@ -12,21 +12,21 @@ Unbit
 Neofiti
 ********
 
- - `HowtoFtp </docs/howtoftp>`_ (Creazione accesso FTP)
+ - `HowToFtp </docs/howtoftp>`_ (Creazione accesso FTP)
 
- - `HowtoJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit) 
+ - `HowToJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit) 
 
- - `HowtoDyndns </docs/howtodyndns>`_ (come configurare il servizio di dns dinamico) 
+ - `HowToDyndns </docs/howtodyndns>`_ (come configurare il servizio di dns dinamico) 
 
 **Gestire l'email su unbit**
 
- - `HowtoMailbox </docs/howtomailbox>`_ (Creazione Mailbox e indirizzi e-mail)
+ - `HowToMailbox </docs/howtomailbox>`_ (Creazione Mailbox e indirizzi e-mail)
 
  - `HowToSmtp </docs/howtosmtp>`_ (Creazione accesso SMTP)
 
- - HowtoOutlook (Impostazione E-Mail su Outlook Express)
+ - HowToOutlook (Impostazione E-Mail su Outlook Express)
 
- - HowtoOutlook2007 (Impostazione E-Mail su Outlook 2007) 
+ - HowToOutlook2007 (Impostazione E-Mail su Outlook 2007) 
 
  - HowToMail (Impostazione E-Mail su Mail mac)
 
@@ -36,4 +36,4 @@ Neofiti
 Developer
 **********
 
- - `HowtoSPF </docs/howtospf>`_ (Sender Policy Framework)
+ - `HowToSPF </docs/howtospf>`_ (Sender Policy Framework)
