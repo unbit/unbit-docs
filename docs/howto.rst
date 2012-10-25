@@ -22,7 +22,7 @@ Neofiti
 
  - `HowtoMailbox </docs/howtomailbox>`_ (Creazione Mailbox e indirizzi e-mail)
 
- - HowToSmtp (Creazione accesso SMTP)
+ - `HowToSmtp </docs/howtosmtp>`_ (Creazione accesso SMTP)
 
  - HowtoOutlook (Impostazione E-Mail su Outlook Express)
 
