@@ -12,9 +12,9 @@ Nella colonna di destra è possibile creare un nuovo accesso inserendo:
 
 - **password**: password legata allo username
 
-- **home**: la directory a cui si accedera' attraverso l'accesso ftp.
+- **home**: la directory a cui si accedera' attraverso l'accesso ftp
 
-Tale directory deve necessariamente esistere all'interno dello spazio ftp affinche' vi si possa accedere. E' buona norma alla creazione del primo accesso ftp, lasciare il campo **home** vuoto, in modo di avere un accesso ftp a tutti i propri file e directory.
+**Tale directory deve necessariamente esistere all'interno dello spazio ftp affinche' vi si possa accedere**. E' buona norma alla creazione del primo accesso ftp, lasciare il campo **home** vuoto, in modo di avere un accesso ftp a tutti i propri file e directory.
 
 Un qualsiasi sito ha generalmente come radice **/www/dominio** dove **dominio** è il nome del dominio registrato. Se si vuole quindi creare un accesso al solo spazio di un sito basta impostare il campo **home** a **/www/dominio**.
 
