@@ -19,15 +19,15 @@ Unbit
 
 Unbit è una piattaforma per la fornitura di servizi internet basata su software opensource. Il nostro obiettivo e' supportare il maggior numero di tecnologie (libere) possibile, fornendo un servizio appetitoso per programmatori, geek, hacker o semplici appassionati. A differenza degli innumerevoli servizi di hosting non ci limitiamo ad istallare software sviluppato da terze parti ma collaboriamo attivamente con la comunita' e sviluppiamo diverse soluzioni 'in casa'.
 
-**Quali soluzioni avete sviluppato ?**
+- **Quali soluzioni avete sviluppato ?**
 
 Fin dall'inizio abbiamo lavorato per rendere piu' versatile il kernel di Linux in ambienti condivisi. Sul nostro wiki troverai una sezione apposita. L'altro fronte e' stato modificare Apache per permettergli di sfruttare le nuove funzionalita'. Ovviamente il tutto e' "farcito" da una serie di application server per permettere l'esecuzione delle tue applicazioni nel miglior modo possibile.
 
-**Ma quanti siete?**
+- **Ma quanti siete?**
 
 Siamo una piccola societa', pochi ma buoni, e vogliamo rimanere tali. Ecco il perche' della "selezione" dei nostri clienti. In controtendenza con il mercato dei servizi vogliamo puntare sulla qualita' e non sulla quantita'.
 
-**E dove siete?**
+- **E dove siete?**
 
 Le sedi operative sono a Torino e a Roma. I nostri rack sono presso la server farm di INET a Roma.
 
