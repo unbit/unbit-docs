@@ -12,7 +12,7 @@ Unbit
 Neofiti
 ********
 
- - HowtoFtp (Creazione accesso FTP)
+ - `HowtoFtp </docs/howtoftp>`_ (Creazione accesso FTP)
 
  - HowtoJabber (Configurare Jabber con la mailbox di Unbit) 
 
