@@ -14,7 +14,7 @@ Neofiti
 
  - `HowtoFtp </docs/howtoftp>`_ (Creazione accesso FTP)
 
- - HowtoJabber (Configurare Jabber con la mailbox di Unbit) 
+ - `HowtoJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit) 
 
  - HowtoDyndns (come configurare il servizio di dns dinamico) 
 
