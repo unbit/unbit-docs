@@ -7,7 +7,7 @@ Hai necessità di informazioni di ordine tecnico o amministrativo? Ecco come fun
 Quando usare il telefono?
 *************************
 
-Il numero di telefono di Unbit è relativo alla sede operativa di Torino. Per qualsiasi informazione di carattere tecnico o amministrativo, il canale preferenziale è l'email.
+Il numero di telefono di unbit è relativo alla sede operativa di Torino. Per qualsiasi informazione di carattere tecnico o amministrativo, il canale preferenziale è l'email.
 
 Scrivi una email ad info@unbit.it per qualsiasi problematica di ordine tecnico (hai provato a dare un'occhiata alle informazioni presenti sull'`HowTo </docs/howto>`_ prima di scrivere?)
 
