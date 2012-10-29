@@ -93,7 +93,8 @@ $(document).ready(function (){
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
 
 		function unbit_search() {
-			alert($('q').value());
+			alert($('#q').value());
+			return false;
 		}
         });
 });
