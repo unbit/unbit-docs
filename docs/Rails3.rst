@@ -1,0 +1,42 @@
+current page = |PATH_INFO|
+
+.. code-block:: ini
+
+   [uwsgi]
+   ; carico il plugin per ruby 1.9.3
+   plugins = 0:rack193
+   ;impostare il nome del dominio
+   dominio = XXX
+   ; impostare il numero di processi da avviare
+   processi = 2
+   ; scrivi i log nel file specificato
+   logto = ../%(dominio).log
+   ; mi sposto fuori da public
+   chdir = ..
+   ; decommentarlo per andare in produzione
+   env = RAILS_ENV=production
+   ; abilito il master che fa tante cose divertenti tra cui controllare se
+   ; i worker sono in salute
+   master = true
+   ; avvio 4 processi
+   processes = %(processi)
+   ; carico l'applicazione una volta per worker, anziche' all'inizio per poi chiamare
+   ; fork(). Consuma piu' memoria ma e' come funziona l'application server di heroku
+   lazy-apps = true
+   ; quando 'tocco' uno di questi file, riavvia il server
+   touch-reload = reload.txt
+   ; %p viene automaticamente trasformato nel percorso del file di config
+   touch-reload = %p
+   ; do' un nome 'decente' ai processi
+   auto-procname = true
+   procname-prefix-spaced = [%(dominio)]
+   ; esporta le statistiche (formato json) del server
+   ; sul socket 'statistiche.sock'
+   stats = statistiche.sock
+   ; riporto il consumo di memoria dopo ogni richiesta
+   memory-report = true
+   ; carico l'applicazione (usando bundler)
+   rbrequire = bundler/setup
+   rack = config.ru
+
+
