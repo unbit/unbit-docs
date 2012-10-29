@@ -17,6 +17,8 @@
 <script src="/js/jquery.tweet.js" type="text/javascript"></script>
 
 <script type='text/javascript'>
+
+$(document).ready(function (){
     jQuery(function($){
         var options = {
           username: "unbit_it",
@@ -90,6 +92,7 @@
   
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
         });
+});
 </script> 
 </head>
 <body>
@@ -105,8 +108,8 @@
           <a href="/" class="brand">Unbit</a>
           
           <div class="nav-collapse collapse">
-            <form method="post" action="" id="cerca">
-                <input type="text" name="search" value="" placeholder="Cerca" />
+            <form id="cerca">
+                <input type="text" name="q" value="" placeholder="Cerca" />
                 <button type="submit" id="btn_cerca"><i class="icon-search"></i></button>
             </form>
                         
