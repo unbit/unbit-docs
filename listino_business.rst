@@ -25,7 +25,7 @@ Listino Business
 BUSINESS 1.0
 *************
 
-*Offerta base per le aziende. Molto utile come pacchetto iniziale per futuri upgrade .*
+*Offerta base per le aziende. Molto utile come pacchetto iniziale per futuri upgrade.*
 
  - **2** sottodomini
  - **2** Giga di spazio disco
