@@ -92,9 +92,10 @@ $(document).ready(function (){
   
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
 
-		$('#btn_cerca').click(function() {
+		$('#cerca').submit(function() {
 			alert('ciao');
-		};);
+			return false;
+		});
         });
 });
 </script> 
@@ -114,7 +115,7 @@ $(document).ready(function (){
           <div class="nav-collapse collapse">
             <form id="cerca">
                 <input type="text" id="q" name="q" value="" placeholder="Cerca" />
-                <button id="btn_cerca"><i class="icon-search"></i></button>
+                <button type="submit" id="btn_cerca"><i class="icon-search"></i></button>
             </form>
                         
             <ul class="nav">
