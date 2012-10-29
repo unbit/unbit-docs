@@ -2,46 +2,23 @@
 FAQ
 ---
 
-   - Unbit
-
-   - Mail
-
-   - Web
-
-   - Database
-
-   - Programmazione 
-
-Unbit
-*****
-
 - **Cos'è Unbit?**
 
-Unbit è una piattaforma per la fornitura di servizi internet basata su software opensource. Il nostro obiettivo e' supportare il maggior numero di tecnologie (libere) possibile, fornendo un servizio appetitoso per programmatori, geek, hacker o semplici appassionati. A differenza degli innumerevoli servizi di hosting non ci limitiamo ad istallare software sviluppato da terze parti ma collaboriamo attivamente con la comunita' e sviluppiamo diverse soluzioni 'in casa'.
+Unbit è una piattaforma per la fornitura di servizi internet basata su software opensource. 
+Non rientra nella classica concezione di 'hosting' poiche' garantisce un isolamento molto forte dei singoli utenti, ma
+non e' neanche una soluzione 'vps' in quanto il singolo utente non ha privilegi di root. E' molto probabilmente quella
+che si definisce PaaS (Platform As A Service), ma il termine potrebbe essere fuorviante in quanto spesso applicato a contesti
+di cloud computing. Un elemento di forza che amiamo sottolineare e' che Unbit non lavora in regime di overselling, qualsiasi risorsa
+assegnata al cliente e' garantita.
 
-- **Quali soluzioni avete sviluppato ?**
+- **In rete si trovano molti riferimenti ai vostri prodotti (tutti opensource), siete una software house o una societa' di servizi ?**
 
-Fin dall'inizio abbiamo lavorato per rendere piu' versatile il kernel di Linux in ambienti condivisi. Sul nostro wiki troverai una sezione apposita. L'altro fronte e' stato modificare Apache per permettergli di sfruttare le nuove funzionalita'. Ovviamente il tutto e' "farcito" da una serie di application server per permettere l'esecuzione delle tue applicazioni nel miglior modo possibile.
+In un mercato fortemente competitivo come quello dei servizi internet, dove spesso si tende a competere sui prezzi ma non sulla componente tecnica,
+abbiamo deciso di puntare su quello in cui ci sentiamo piu' bravi: sviluppare soluzioni per gli ambienti di deployment piu' disparati.
+Questo implica che potrai costruire la stessa infrastruttura Unbit anche su server esterni, usando i nostri prodotti.
 
-- **Ma quanti siete?**
 
-Siamo una piccola societa', pochi ma buoni, e vogliamo rimanere tali. Ecco il perche' della "selezione" dei nostri clienti. In controtendenza con il mercato dei servizi vogliamo puntare sulla qualita' e non sulla quantita'.
-
-- **E dove siete?**
-
-Le sedi operative sono a Torino e a Roma. I nostri rack sono presso la server farm di INET a Roma.
-
-- **Quanto posso contare su di voi?**
-
-La nostra struttura è monitorata 24/24h, il nostro staff di supporto tecnico risponde alle mail dal lunedì al sabato dalle 8 alle 20 e in tempi brevissimi. È inoltre possibile stipulare contratti di assistenza telefonica. Ci teniamo a sottolineare che il nostro staff di supporto e' formato su ogni singola tecnologia supportata, dai linguaggi di programmazione ai framework.
-
-- **Come mai non gestite le attivazioni con delle form online e mi costringete a scrivervi una mail ?**
-
-Perche' vogliamo sapere chi abbiamo di fronte, il mondo e' pieno di maleducati e prepotenti, tu sicuramente non sei uno di loro, ma se il nostro morale e' alto anche il servizio sara' migliore, quindi la nostra politica sara' sempre quella di avere un primo contatto **discorsivo** con i nuovi clienti. Potra' sembrare una cosa strana, ma reputiamo un **valore aggiunto** del nostro servizio la tipologia di clientela. Se volete quindi essere nostri clienti, **siate gentili ed educati**, noi lo saremo il doppio :)
-
-Se un cliente si rivelera' inadeguato alle nostre politiche non esiteremo a rimborsarlo e indirizzarlo altrove. Non e' un favore che facciamo a noi stessi, ma agli altri clienti.
-
-- **Trovo anacronistico e complicato che gestiate le attivazioni tramite contratti da inviare via fax o via mail in formato pdf**
+- **Come mai devo inviare un contratto anziche' compilare un semplice form ? **
 
 I servizi di Unbit sono esclusivamente pensati per sviluppatori e aziende ed entrambi i target sanno bene quanto sia importante la tutela di un contratto in ambienti lavorativi. Siamo consapevoli che molti potenziali clienti non si avvicinano al servizio spaventati dalla procedura, ma non trattandosi del nostro target siamo fiduciosi che potranno trovare validi fornitori senza problemi. Il nostro e' un servizio di nicchia, e siamo certi che l'unico modo di mantenere i nostri standard qualitativi sempre alti, sia che rimanga tale.
 
@@ -63,23 +40,13 @@ Certo. E' una delle nostre caratteristiche, siamo dei tecnici non dei commercian
 
 - **Uso degli strumenti poco diffusi, potete dare supporto anche a me?**
 
-Certamente, uno degli obiettivi di unbit è abbattere il maggior numero di barriere tecnologiche. Non ci interessano il sistema operativo, gli applicativi o le tue conoscenze, il nostro staff testa i servizi unbit su decine di piattaforme diverse, e nel caso la tua non sia stata presa in considerazione stai certo che rimedieremo nel minor tempo possibile, e ti saremo anche grati!
+Dibende che intendi per strumenti poco diffusi, se ti riferisci al sistema operativo, non farti scrupoli, ne abbiamo visti di tutti i colori ;)
 
-- **Quindi posso usare il mio Mac nuovo fiammante con i vostri servizi?**
-
-Certamente, la metà del nostro staff è felice mac-user da anni.
-
-- **E se uso Linux, FreeBSD, openBSD, netBSD o qualsiasi altro clone UNIX, aiutate anche me?**
-
-Ovvio, la restante metà dello staff di unbit utilizza sistemi open-source e unix-like, puoi stare sicuro che avremo sempre la risposta pronta ad ogni tuo dubbio. Inoltre tutta la struttura server di unbit poggia su piattaforme Linux, FreeBSD e OpenBSD.
-
-- **Ehm, scusate io uso Windows, vi siete dimenticati di me?**
-
-Assolutamente no, diamo ovviamente supporto per la piattaforma Windows. Non aspettatevi pero' troppo entusiasmo da parte dello staff ;)
 
 - **Voglio realizzare un sito o una applicazione, potete aiutarmi**
 
 Unbit prima di fornire servizi, sviluppa software, quindi si', potremo aiutarti, ma non aspettarti prezzi da ortofrutta, non ci svendiamo. MAI.
+In alto a destra sul sito trovi il link a unbit.is che e' la nostra divisione 'creativa'
 
 - **Come faccio a diventare vostro cliente?**
 
@@ -107,11 +74,11 @@ Fino al 2009 ti avremmo risposto di si'. Ora che la nostra piattaforma si e' evo
 
 - **Siamo un'associazione o un team che sviluppa software opensource, potete aiutarci?**
 
-Certo! Unbit si basa interamente su software opensource e buona parte dei prodotti sviluppati internamente (dalle patch per il kernel, agli application server ai moduli apache) vengono rilasciati al pubblico. Supportiamo già diversi gruppi e associazioni. Siamo sempre disposti ad aiutare l'avanzata tecnologica. Chiedete sempre al nostro staff se e' possibile una sponsorizzazione del vostro progetto.
+Certo! Unbit si basa interamente su software opensource e buona parte dei prodotti sviluppati internamente (dalle patch per il kernel, agli application server ai moduli apache) vengono rilasciati al pubblico. Supportiamo già diversi gruppi e associazioni. Chiedete sempre al nostro staff se e' possibile una sponsorizzazione del vostro progetto.
 
 - **Siamo un LUG che agevolazioni possiamo avere?**
 
-Per tutti i LUG (ufficiali) e' possibile richiedere l'attivazione di un profilo developer al costo della sola registrazione del dominio.
+Per tutti i LUG (ufficiali) e' possibile richiedere l'attivazione di un profilo container-80 al costo della sola registrazione del dominio.
 
 - **Avrei bisogno del servizio XYZ, ma non lo vedo in listino, cosa posso fare?**
 
@@ -159,11 +126,9 @@ Delle politiche di marketing piu' in voga non ci interessa nulla. Siamo tecnici,
 
 - **Posso ridistribuire le risorse acquistate tra i domini/sottodomini del mio account**
 
-Si, ti basta specificare al supporto tecnico come vuoi ridistribuire il numero di processi o l'address space, se non sono disponibili le relative funzioni sul pannello di controllo.
+Si,dal pannello di controllo puoi riassegnare container e processi come preferisci.
 
-- **Ho sempre sentito parlare del problema dell'overselling, con la vostra infrastruttura come funziona?**
 
-Ogni account Unbit e' un insieme di risorse ben definite e non superabili (a differenza dei servizi di hosting standard). Cpu,address space,processi, thread, connessioni su socket UNIX/INET, gestione dei segnali, ecc. ecc. sono tutti gestiti accuratamente per ogni account e a livello kernel.Il nostro staff inoltre consulta sempre i sistemisti prima di allocare risorse per verificare che l'hardware sottostante non venga sovraccaricato. Per quanto riguarda la banda, non e' ovviamente possibile procedere nello stesso modo pertanto si effettua un monitoraggio costante per bloccare sul nascere ogni sovraccarico e garantire ai clienti che hanno acquistato banda garantita, il servizio.
 
 - **Stavo testando le performance del mio sito facendo diverse connessioni, e all'improvviso non riesco piu' a collegarmi**
 
