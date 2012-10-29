@@ -1,7 +1,7 @@
 Listino Business
 =================
    
-**Tutte le offerte developer comprendono:**
+**Tutte le offerte business comprendono:**
 
  - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name, .info, .biz, .nl (`verifica altre estensioni e condizioni </listino_estensioni>`_)
  - WebMail per consultare via web (in HTTPS) le proprie caselle di posta
