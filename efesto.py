@@ -76,7 +76,7 @@ class Efesto:
         for ext in self.allowed_ext.keys():
             if "%s.%s" % (self.page, ext) in self.git_index:
                 return self.allowed_ext[ext]("%s.%s" % (self.page, ext))
-        return self.notfound()
+        return self.render_notfound()
 
     def apply_vars(self, body):
         for env in self.env.keys():
@@ -95,7 +95,7 @@ class Efesto:
                 return self.apply_vars(self.repo.get_blob(sha).as_raw_string())
         return ''
 
-    def notfound(self):
+    def render_notfound(self):
         self.start_response('404 Not Found', [('Content-Type','text/html')])
         header = self.get_html_template(self.header)
         footer = self.get_html_template(self.footer)
