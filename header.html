@@ -101,9 +101,10 @@ $(document).ready(function (){
 					}
 					else { 
 						output = '<ul>';
-						for(result in data) {
-							alert(result);
-							output += '<li><a href="/' + result['path'] + '">' + result['path'] + '</a></li>';
+						for(num in data) {
+                                                        var pagename = data[num]['path'];
+							pagename = pagename.substr(0, pagename.lastIndexOf('.'));
+							output += '<li><a href="/' + pagename + '">' + pagename + '</a></li>';
 						}
 						output += '</ul>';
 					}
