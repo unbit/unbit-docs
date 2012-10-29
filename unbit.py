@@ -23,8 +23,8 @@ def application(environ, start_response):
     if environ['PATH_INFO'].startswith('/search'):
         return gw(environ, sr)
     page = ef(environ, sr)
-    if sr.status == 200:
-        uwsgi.cache_update(environ['PATH_INFO'], ''.join(page))
+    #if sr.status == 200:
+    #    uwsgi.cache_update(environ['PATH_INFO'], ''.join(page))
     return page
 
 @cron(-5, -1, -1, -1, -1)
