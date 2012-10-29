@@ -93,7 +93,11 @@ $(document).ready(function (){
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
 
 		$('#cerca').submit(function() {
-			alert($('#q').val());
+			$.getJSON('/search?' + $('#q').val(),
+				function(data) {
+					alert(data);
+				}
+			);
 			return false;
 		});
         });
