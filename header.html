@@ -93,7 +93,7 @@ $(document).ready(function (){
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
 
 		$('#cerca').submit(function() {
-			alert($('#q').value());
+			alert($('#q').val());
 			return false;
 		});
         });
