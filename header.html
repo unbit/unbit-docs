@@ -91,6 +91,10 @@ $(document).ready(function (){
           }).click(stepClick(-1));
   
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
+
+		function unbit_search() {
+			alert($('q').value());
+		}
         });
 });
 </script> 
@@ -108,8 +112,8 @@ $(document).ready(function (){
           <a href="/" class="brand">Unbit</a>
           
           <div class="nav-collapse collapse">
-            <form id="cerca">
-                <input type="text" name="q" value="" placeholder="Cerca" />
+            <form id="cerca" onSubmit="unbit_search()">
+                <input type="text" id="q" name="q" value="" placeholder="Cerca" />
                 <button type="submit" id="btn_cerca"><i class="icon-search"></i></button>
             </form>
                         
