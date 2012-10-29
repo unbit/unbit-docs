@@ -100,6 +100,11 @@ $(document).ready(function (){
 						output = '<p>nessun risultato trovato</p>'
 					}
 					else { 
+						output = '<ul>';
+						for(result in data) {
+							output += '<li>' + result[0] + '</li>';
+						}
+						output += '</ul>';
 					}
 					$('#search_reasults_list').html(output);
 					$('#search_results').modal({});
