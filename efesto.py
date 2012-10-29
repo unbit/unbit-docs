@@ -38,13 +38,12 @@ directives.register_directive('code-block', pygments_directive)
 class Efesto:
 
     def render_html(self, item):
-        self.start_response('404 Not Found', [('Content-Type','text/html')])
+        self.start_response('200 OK', [('Content-Type','text/html')])
         header = self.get_html_template('header.html')
         footer = self.get_html_template('footer.html')
         sha = self.git_index[item][8]
         body = self.apply_vars(self.repo.get_blob(sha).as_raw_string()) 
         return [header, body, footer]
-        pass
 
     def render_rst(self, item):
         self.start_response('200 OK', [('Content-Type','text/html')])
@@ -52,21 +51,22 @@ class Efesto:
         blob = self.repo.get_blob(sha)
         header = self.get_html_template('header.html')
         footer = self.get_html_template('footer.html')
-        body = str(publish_parts(self.apply_vars(blob.as_raw_string()), writer_name='html')['html_body'])
-        return [header, body, footer]
+        body = unicode(publish_parts(self.apply_vars(blob.as_raw_string()), writer_name='html')['html_body']).encode('utf8')
+        return [header, self.prefix, body, self.suffix, footer]
 
-    def __init__(self, path='.'):
+    def __init__(self, path='.',prefix='',suffix=''):
         self.repo = Repo(path)
+        self.prefix = prefix
+        self.suffix = suffix
         self.allowed_ext = {'html':self.render_html, 'rst':self.render_rst}
-        self.git_index = self.repo.open_index()
 
     def __call__(self, environ, start_response):
         self.start_response = start_response
         self.env = environ
-        self.page = self.env['PATH_INFO'][1:]
-        if self.page == '':
-            self.page = 'README'
-        return self.render_page()
+        self.git_index = self.repo.open_index()
+        requested_item = environ['PATH_INFO'][1:].rstrip('/')
+        if requested_item == '': requested_item = 'index'
+        return self.render_page(requested_item, start_response)
 
     def render_page(self):
         for ext in self.allowed_ext.keys():

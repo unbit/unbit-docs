@@ -6,15 +6,94 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="unbit">
-<link rel="shortcut icon" href="http://test.unbit.it/img/unbit_favicon.png">
+<link rel="shortcut icon" href="/img/unbit_favicon.png">
 <link href="http://unbit.github.com/bootstrap/css/bootstrap.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
-<link href='http://test.unbit.it/css/screen.css' rel='stylesheet' type='text/css'>
-<link href="http://test.unbit.it/css/bootstrap-responsive.css" rel="stylesheet" />
-<link rel="stylesheet" href="http://test.unbit.it/css/font-awesome.css">
+<link href='/css/screen.css' rel='stylesheet' type='text/css'>
+<link href="/css/bootstrap-responsive.css" rel="stylesheet" />
+<link rel="stylesheet" href="/css/font-awesome.css">
 
 <script src="http://unbit.github.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/js/jquery.tweet.js" type="text/javascript"></script>
 
+<script type='text/javascript'>
+
+$(document).ready(function (){
+    jQuery(function($){
+        var options = {
+          username: "unbit_it",
+          page: 1,
+          avatar_size: 32,
+          count: 4,
+          loading_text: "loading tweet..."
+        };
+
+        var widget = $("#paging .widget"),
+          next = $("#paging .next"),
+          prev = $("#paging .prev");
+
+        var enable = function(el, yes) {
+          yes ? $(el).removeAttr('disabled') :
+                $(el).attr('disabled', true);
+        };
+
+        var stepClick = function(incr) {
+          return function() {
+            options.page = options.page + incr;
+            enable(this, false);
+            widget.tweet(options);
+          };
+        };
+
+        next.bind("checkstate", function() {
+          enable(this, widget.find("li").length == options.count)
+        }).click(stepClick(1));
+
+        prev.bind("checkstate", function() {
+          enable(this, options.page > 1)
+        }).click(stepClick(-1));
+
+        widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
+      });
+      
+  jQuery(function($){
+          var options = {
+            username: "unbit",
+            page: 1,
+            avatar_size: 32,
+            count: 4,
+            loading_text: "loading tweet..."
+          };
+  
+          var widget = $("#paging2 .widget"),
+            next = $("#paging2 .next"),
+            prev = $("#paging2 .prev");
+  
+          var enable = function(el, yes) {
+            yes ? $(el).removeAttr('disabled') :
+                  $(el).attr('disabled', true);
+          };
+  
+          var stepClick = function(incr) {
+            return function() {
+              options.page = options.page + incr;
+              enable(this, false);
+              widget.tweet(options);
+            };
+          };
+  
+          next.bind("checkstate", function() {
+            enable(this, widget.find("li").length == options.count)
+          }).click(stepClick(1));
+  
+          prev.bind("checkstate", function() {
+            enable(this, options.page > 1)
+          }).click(stepClick(-1));
+  
+          widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
+        });
+});
+</script> 
 </head>
 <body>
 
@@ -27,30 +106,31 @@
             <span class="icon-bar"></span>
           </button>
           <a href="/" class="brand">Unbit</a>
+          
           <div class="nav-collapse collapse">
+            <form id="cerca">
+                <input type="text" name="q" value="" placeholder="Cerca" />
+                <button type="submit" id="btn_cerca"><i class="icon-search"></i></button>
+            </form>
+                        
             <ul class="nav">
               <li class="">
-                <a href="/attivazione_rivenditori/" class="linkFrecciaMenuUp">listino</a>
+                <a href="/listino_container/" class="linkFrecciaMenuUp">listino</a>
               </li>
               <li class="">
-                <a href="/attivazione_rivenditori/" class="linkFrecciaMenuUp">come attivare</a>
+                <a href="/attivazione_servizi/" class="linkFrecciaMenuUp">come attivare</a>
               </li>
               <li class="">
-                <a href="/documentazione_rivenditori/" class="linkFrecciaMenuUp">documenti</a>
+                <a href="/howto" class="linkDivMenuUp">howto</a>
               </li>
               <li class="">
-                <a href="http://wiki.unbit.it/Faq" class="linkFrecciaMenuUp">howto</a>
+                <a href="/faq" class="linkFrecciaMenuUp">faq</a>
               </li>
               <li class="">
-                <a href="/documentazione/" class="linkFrecciaMenuUp">rivenditori</a>
+                <a href="http://unbit.is/" style="color: #B1D535" >unbit.is</a>
               </li>
             </ul>
           </div>
         </div>
     </div>
 </div>
-
-<div class="container" style="margin-top:11px">
-
-<div class="row-fluid">
-    <div class="span12">
