@@ -4,7 +4,7 @@ from uwsgidecorators import cron
 import uwsgi
 
 gw = GitWhoosh('.','indexes')
-ef = Efesto(prefix='<div class="container" style="margin-top:11px">', suffix='</div>')
+ef = Efesto(prefix='<div class="container">', suffix='</div>')
 
 class StartResponseWrapper:
     def __init__(self, original_sr):
