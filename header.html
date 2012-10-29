@@ -95,6 +95,13 @@ $(document).ready(function (){
 		$('#cerca').submit(function() {
 			$.getJSON('/search?' + $('#q').val(),
 				function(data) {
+					var output = '';
+					if (data.length() == 0) {
+						output = '<p>nessun risultato trovato</p>'
+					}
+					else { 
+					}
+					$('#search_reasults_list').html(output);
 					$('#search_results').modal({});
 				}
 			);
