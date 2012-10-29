@@ -39,8 +39,8 @@ class Efesto:
 
     def render_html(self, item):
         self.start_response('200 OK', [('Content-Type','text/html')])
-        header = self.get_html_template('header.html')
-        footer = self.get_html_template('footer.html')
+        header = self.get_html_template(self.header)
+        footer = self.get_html_template(self.footer)
         sha = self.git_index[item][8]
         body = self.apply_vars(self.repo.get_blob(sha).as_raw_string()) 
         return [header, body, footer]
@@ -49,15 +49,18 @@ class Efesto:
         self.start_response('200 OK', [('Content-Type','text/html')])
         sha = self.git_index[item][8]
         blob = self.repo.get_blob(sha)
-        header = self.get_html_template('header.html')
-        footer = self.get_html_template('footer.html')
+        header = self.get_html_template(self.header)
+        footer = self.get_html_template(self.footer)
         body = unicode(publish_parts(self.apply_vars(blob.as_raw_string()), writer_name='html')['html_body']).encode('utf8')
         return [header, self.prefix, body, self.suffix, footer]
 
-    def __init__(self, path='.',prefix='',suffix=''):
+    def __init__(self, path='.',prefix='',suffix='',header='header.html',footer='footer.html', notfound='notfound.html'):
         self.repo = Repo(path)
         self.prefix = prefix
         self.suffix = suffix
+        self.header = header
+        self.footer = footer
+        self.notfound = notfound
         self.allowed_ext = {'html':self.render_html, 'rst':self.render_rst}
 
     def __call__(self, environ, start_response):
@@ -66,7 +69,8 @@ class Efesto:
         self.git_index = self.repo.open_index()
         requested_item = environ['PATH_INFO'][1:].rstrip('/')
         if requested_item == '': requested_item = 'index'
-        return self.render_page(requested_item, start_response)
+        self.page = requested_item
+        return self.render_page()
 
     def render_page(self):
         for ext in self.allowed_ext.keys():
@@ -93,9 +97,9 @@ class Efesto:
 
     def notfound(self):
         self.start_response('404 Not Found', [('Content-Type','text/html')])
-        header = self.get_html_template('header.html')
-        footer = self.get_html_template('footer.html')
-        body = self.get_html_template('notfound.html')
+        header = self.get_html_template(self.header)
+        footer = self.get_html_template(self.footer)
+        body = self.get_html_template(self.notfound)
         if body == '':
             body = '<h1>Not Found</h1>'
         return [header, body, footer]
