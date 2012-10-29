@@ -96,7 +96,7 @@ $(document).ready(function (){
 			$.getJSON('/search?' + $('#q').val(),
 				function(data) {
 					var output = '';
-					if (data.length() == 0) {
+					if (data.length == 0) {
 						output = '<p>nessun risultato trovato</p>'
 					}
 					else { 
