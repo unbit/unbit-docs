@@ -92,10 +92,9 @@ $(document).ready(function (){
   
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
 
-		function unbit_search() {
-			alert($('#q').value());
-			return false;
-		}
+		$('#btn_cerca').click = function() {
+			alert('ciao');
+		};
         });
 });
 </script> 
