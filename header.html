@@ -17,6 +17,8 @@
 <script src="/js/jquery.tweet.js" type="text/javascript"></script>
 
 <script type='text/javascript'>
+
+$(document).ready(function (){
     jQuery(function($){
         var options = {
           username: "unbit_it",
@@ -90,6 +92,7 @@
   
           widget.tweet(options).bind("loaded", function() { next.add(prev).trigger("checkstate"); });
         });
+});
 </script> 
 </head>
 <body>
