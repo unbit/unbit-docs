@@ -102,7 +102,7 @@ $(document).ready(function (){
 					else { 
 						output = '<ul>';
 						for(result in data) {
-							output += '<li>' + result[0] + '</li>';
+							output += '<li><a href="/' + result['path'] + '">' + result['path'] + '</a></li>';
 						}
 						output += '</ul>';
 					}
