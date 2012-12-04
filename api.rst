@@ -12,7 +12,7 @@ Il metodo GET e' usato per ottenere le informazioni
 
 Il metodo POST e' utilizzato per creare nuove risorse
 
-il metodo PUT per crearne di nuove
+il metodo PUT per modificare
 
 
 account
