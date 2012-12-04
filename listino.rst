@@ -1,5 +1,5 @@
 -----------------------
-Listino pacchetti base
+Listini pacchetti base
 -----------------------
 
 `LISTINO CONTAINER </listino_container>`_
@@ -11,7 +11,7 @@ Listino pacchetti base
 `LISTINO BUSINESS </listino_business>`_
 
 ---------------------------
-Listino servizi aggiuntivi
+Listini servizi aggiuntivi
 ---------------------------
 
 `LISTINO PLUGIN </listino_plugin>`_
@@ -21,7 +21,3 @@ Listino servizi aggiuntivi
 
 
 
-Approfondimenti
-*****************
-
-`Attivazione servizi </attivazione_servizi>`_
