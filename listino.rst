@@ -1,20 +1,23 @@
---------
-Listino
---------
+-----------------------
+Listino pacchetti base
+-----------------------
 
 `LISTINO CONTAINER </listino_container>`_
 
 
-**`LISTINO DEVELOPER </listino_developer>`_**
+`LISTINO DEVELOPER </listino_developer>`_
 
 
-**`LISTINO BUSINESS </listino_business>`**
+`LISTINO BUSINESS </listino_business>`_
+
+---------------------------
+Listino servizi aggiuntivi
+---------------------------
+
+`LISTINO PLUGIN </listino_plugin>`_
 
 
-**`LISTINO PLUGIN </listino_plugin>`**
-
-
-**`LISTINO BANDA </listino_banda>`**
+`LISTINO BANDA </listino_banda>`_
 
 
 
