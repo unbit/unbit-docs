@@ -2,7 +2,7 @@
 Listini
 --------
 
-**'LISTINO CONTAINER </listino_container>'**
+'LISTINO CONTAINER </listino_container>'
 
 Per il trasferimento 
 
