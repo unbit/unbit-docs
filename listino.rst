@@ -1,5 +1,5 @@
 --------
-Listini
+Listino
 --------
 
 `LISTINO CONTAINER </listino_container>`_
