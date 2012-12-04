@@ -2,11 +2,11 @@
 Listini
 --------
 
-'LISTINO CONTAINER </listino_container>'
+'LISTINO CONTAINER </listino_container>'_
 
 Per il trasferimento 
 
-**'LISTINO DEVELOPER </listino_developer>'**
+**'LISTINO DEVELOPER </listino_developer>'_**
 
 Per il trasferimento
 
