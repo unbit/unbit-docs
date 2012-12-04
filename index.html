@@ -67,80 +67,14 @@
     <h3 class="title"><i class="icon-bullhorn"></i> Cos'e' ?</h3>
     
     Unbit è una piattaforma per il deploy di applicazioni web dedicata agli sviluppatori e alle aziende del settore.<br/>
-    Una serie di server gestiscono l'avvio, il mantenimento e il monitoraggio delle applicazioni e diverse patch applicate al kernel Linux garantiscono l'isolamento dei processi del singolo utente.
+    Grazie a diversi strati software 
     
     <br/><br/><br/>
-    <h3 class="title"><i class="icon-cogs"></i>Container, uWSGI e UPSTREAM</h3>
-    I container sono la componente kernel su cui viene costruito il sistema di isolamento degli account. uWSGI e' il server
-    che si occupa di gestire le applicazioni. UPSTREAM e' il motore che permette la sincronizzazione dei dati degli account
-    con il webserver e il passaggio delle richieste dinamiche a uWSGI (o all'application server alternativo che deciderai di usare)
+    <h3 class="title"><i class="icon-cogs"></i>uWSGI</h3>
+    uWSGI e' l'application server di default. Prodotto di punta di Unbit, offre un ambiente solido ed estremamente configurabile
+    per il deployment anche in ambienti distribuiti. uWSGI e' un prodotto OpenSource (licenza GPL2), quindi puoi facilmente ricostruire
+    l'ambiente Unbit anche sui tuoi sistemi di sviluppo.
     
-    <div class="accordion" id="accordion2">
-        <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                   Container
-                </a>
-            </div>
-            <div id="collapseOne" class="accordion-body collapse">
-                <div class="accordion-inner">
-                    La gestione a processi e' molto economica, ma richiede una attenta pianificazione delle
-                    risorse dei propri applicativi. Quella a container e' l'esatto opposto: offre una estrema versatilita'
-                    a fronte di un costo maggiore.<br/><br/>
-                    
-                    La prima modalita' richiede che l'utente acquisti un numero preciso di <b>processi</b>, che corrisponde 1:1 con il numero di <a href="http://it.wikipedia.org/wiki/Fork_%28programmazione%29" target="_blank">fork()</a>
-                    che il proprio applicativo effettuera'. Ognuno di questi processi puo' allocare un quantitativo limitato di address space (<a href="http://it.wikipedia.org/wiki/Memoria_virtuale" target="_blank">memoria virtuale</a>).<br/>
-                    Creare piu' processi di quelli acquistati, o allocare in uno di essi piu' aree di memoria di quelle previste, causera' il fallimento dell'operazione
-                    o (in alcuni casi) il blocco dell'applicazione fin quando i processi non saranno riavviati dall'utente. Uno stesso processo (tranne rare eccezioni) non puo' essere condiviso da piu' ambienti (o applicazioni), e in uno stesso ambiente non possono coesistere processi con capacita' di memoria diverse.<br/><br/>
-                    
-                    Un <a href="http://wiki.unbit.it/Container" target="_blank">container</a> e' costituito da una porzione di memoria fisica (dai 20 Megabyte ai 2 Gigabyte) in cui l'utente potra' eseguire tutti i processi che riesce
-                    (a patto che non superino la memoria assegnata). Un container puo' essere condiviso tra vari ambienti e varie applicazioni, e puo' essere "duplicato" su piu' server (nodi) per costruire architetture scalabili.<br/>
-                    <br/>
-                    Oltre al kernel, e' necessario un supporto dello userspace per sfruttare al massimo l'infrastruttura messa a disposizione.
-                </div>
-            </div>
-        </div>
-        <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                    uWSGI
-                </a>
-            </div>
-            <div id="collapseOne" class="accordion-body collapse">
-                <div class="accordion-inner">
-                    <b>uWSGI</b> e' un application server completo per deploy professionali. Include praticamente qualsiasi funzionalita'
-                    possiate immaginare per mantenere in salute i vostri lavori.<br/>Attualmente permette l'esecuzione di applicazioni WSGI, PSGI, Rack, Web3, PHP, CGI e Lua WSAPI.
-                    <br/>Il sito ufficiale di uWSGI (in inglese) e' <a href="http://projects.unbit.it/uwsgi">qui</a>, mentre la pagina di riferimento sul nostro wiki e' <a href="http://wiki.unbit.it/uWSGI">di qua</a>
-                </div>
-            </div>
-        </div>
-        <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-                    UPSTREAM
-                </a>
-            </div>
-            <div id="collapseTwo" class="accordion-body collapse">
-                <div class="accordion-inner">
-                    <b>UPSTREAM</b> e' il motore che si occupa di avviare in automatico le vostre applicazioni web al ricevimento della prima richiesta. Immaginatelo come una shell. Impostate il comando da eseguire
-                    e con quale protocollo (attualmente sono supportati uwsgi, HTTP, HTTP-persistente, FastCGI, SCGI e Biferno) dialoghera' con il webserver. Tutto qui (<a href="http://wiki.unbit.it/Upstream">piu' o meno</a>)
-                </div>
-            </div>
-        </div>
-        <div class="accordion-group">
-            <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-                    Gestione "a processi" (solo utenti esperti)
-                </a>
-            </div>
-            <div id="collapseTwo" class="accordion-body collapse">
-                <div class="accordion-inner">
-                    <b>UPSTREAM</b> e' il motore che si occupa di avviare in automatico le vostre applicazioni web al ricevimento della prima richiesta. Immaginatelo come una shell. Impostate il comando da eseguire
-                    e con quale protocollo (attualmente sono supportati uwsgi, HTTP, HTTP-persistente, FastCGI, SCGI e Biferno) dialoghera' con il webserver. Tutto qui (<a href="http://wiki.unbit.it/Upstream">piu' o meno</a>)
-                </div>
-            </div>
-        </div>
-    </div>
     
     </div>
     
