@@ -4,23 +4,24 @@ Listino
 
 **'LISTINO CONTAINER </listino_container>'**
 
-Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
+Per il trasferimento 
 
-**LISTINO DEVELOPER**
+**'LISTINO DEVELOPER </listino_developer>'**
 
-Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
+Per il trasferimento
 
-**LISTINO BUSINESS**
+**'LISTINO BUSINESS </listino_business>'**
 
-Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
+Per il trasferimento
 
-**LISTINO PLUGIN**
+**'LISTINO PLUGIN </listino_plugin>'**
 
-Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
+Per il trasferimento
 
-**LISTINO BANDA**
+**'LISTINO BANDA </listino_banda>'**
 
-Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo che vi puo' fornire l'attuale Provider
+Per il trasferimento
+
 
 Approfondimenti
 *****************
