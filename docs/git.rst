@@ -37,7 +37,7 @@ Se vuoi dare ai tuoi collaboratori l'accesso al tuo repository ma non a tutto il
 Per farlo ti basterà modificare la stringa della chiave relativa nel campo **Chiavi SSH** del pannello di controllo, che diventerà qualcosa di simile:
 
 .. parsed-literal::
-    **command="git-shell -c \"$SSH_ORIGINAL_COMMAND\"",no-port-forwarding,no-agent-forwarding,no-X11-forwarding,no-pty** ssh-rsa AAAAB[...]
+    **command="git-shell -c \\"$SSH_ORIGINAL_COMMAND\\"",no-port-forwarding,no-agent-forwarding,no-X11-forwarding,no-pty** ssh-rsa AAAAB[...]
 
 In questo modo l'utente che tenterà di accedere con quella specifica chiave avrà accesso soltanto ai repository git mentre gli verrà rifiutato l'accesso alla shell di sistema.
 
