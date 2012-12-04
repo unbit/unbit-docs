@@ -43,7 +43,7 @@ La prima operazione e' **assegnare delle risorse** (generalmente un Container) a
 
 **UPSTREAM** e' lo strato software che si occupa di gestire i processi web (dal semplice script php alla piu' complessa applicazione WSGI).
 
-Le opzioni piu' importanti sono **''upstream''** (ovviamente) che abilita il motore, e **upstream_wizard** e **upstream_cmd** (una esclude l'altra) che istruiscono **UPSTREAM** sul tipo di applicazione da eseguire. Per le configurazioni piu' semplici sono disponibili dei wizard (disponibili sotto la voce **upstream_wizard**), quindi se devi (per esempio) eseguire semplici applicazioni php, **seleziona il wizard che piu' si avvicina alle tue necessita'** (in termini di versione di php) e lascia **upstream_cmd** vuoto.
+Le opzioni piu' importanti sono **upstream** (ovviamente) che abilita il motore, **upstream_wizard** e **upstream_cmd** (una esclude l'altra) che istruiscono **UPSTREAM** sul tipo di applicazione da eseguire. Per le configurazioni piu' semplici sono disponibili dei wizard (disponibili sotto la voce **upstream_wizard**), quindi se devi (per esempio) eseguire semplici applicazioni php, **seleziona il wizard che piu' si avvicina alle tue necessita'** (in termini di versione di php) e lascia **upstream_cmd** vuoto.
 
 **Attendi 30 secondi**, e se tutto e' andato come previsto, il sistema eseguire qualsiasi script php caricato nella docroot. Per caricare file nel tuo account puoi usare **SSH/Sftp** ma e' possibile configurare accessi **FTP/FTP-SSL**. Ti ricordiamo che il protocollo FTP (non FTP-SSL) trasferisce le tue credenziali in chiaro, quindi e' altamente insicuro. Se il tuo client FTP non supporta l'SSL evita
 almeno di salvare le password (specialmente se usi sistemi Windows)
