@@ -1,4 +1,4 @@
-Primo contatto
+Primo Contatto
 ==============
 
 Una volta inviato il contratto e completata la procedura di attivazione riceverai le tue credenziali
@@ -13,10 +13,10 @@ Da questa area sara' possibile modificare la propria password (**ti consigliamo 
 
 In questa sezione e' anche possibile impostare le **quote disco** e le **chiavi ssh**.
 
-I domini
+I Domini
 ========
 
-Generalmente, per accedere alla tua applicazione avrai bisogno di un nome di dominio. Potresti averne acquistato uno direttamente da noi,
+Generalmente, per accedere alla tua applicazione avrai bisogno di un **nome di dominio**. Potresti averne acquistato uno direttamente da noi,
 o potresti aver semplicemente configurato un puntamento Dns, in ogni caso troverai tutti i domini assegnati all'account nella sezione **'Gestione domini'** del pannello di controllo.
 
 Nella schermata di riepilogo sono riportate varie informazioni (oltre al nome):
