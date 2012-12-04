@@ -7,7 +7,7 @@ Per tutti gli account Unbit è disponibile l'accesso tramite protocollo ssh. Avr
 Nel **pannello di controllo**, alla pagina sulle **Informazioni account**, puoi trovare il comando da eseguire per la connessione. Il comando sarà qualcosa come:
 
 .. parsed-literal::
-    ssh -p *PORTA* *ACCOUNT*@*SERVER*.unbit.it
+    ssh -p *PORTA* *ACCOUNT@SERVER*.unbit.it
 
 dove *PORTA*, *ACCOUNT* e *SERVER* dipendono dal tuo account.
 In questo modo potrai accedere utilizzando le credenziali che hai impostato dal pannello di controllo.
@@ -24,7 +24,7 @@ Per creare una chiave privata è sufficiente dare questo comando sul tuo compute
 Questo creerà due file: *unbit* e *unbit.pub* nella directory *.ssh* della tua home. Adesso copia il contenuto della chiave pubblica (*unbit.pub*) nel campo **Chiavi SSH** del pannello di controllo e aspetta 30 minuti, dopodiché potrai collegarti usando questo comando:
 
 .. parsed-literal::
-    ssh -p *PORTA* -i ~/.ssh/unbit *ACCOUNT*@*SERVER*.unbit.it
+    ssh -p *PORTA* -i ~/.ssh/unbit *ACCOUNT@SERVER*.unbit.it
 
 Il comando può risultare lungo da scrivere e da ricordare, quindi ti consigliamo di aggiungere queste righe al file *~/.ssh/config* (se non esiste va creato):
 
