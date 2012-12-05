@@ -7,9 +7,9 @@ Per usufruire del servizio di messaggeria istantanea **'jabber.unbit.it'** puoi 
 Configurazione di Jabber su Messaggi:
 *************************************
 
-Dal menu' **Accounts** > **Configurazione account** > seleziona **Jabber**... 
+Dal menu' **Account** > **Configurazione account** > seleziona **Jabber** 
 
-Nel campo **Nome Utente** inserisci il nome della **mailbox** che vuoi utilizzare seguito da @jabber.unbit.it (es pippo@jabber.unbit.it)
+Nel campo **Nome Utente** inserisci il nome della **mailbox** che vuoi utilizzare seguito da @jabber.unbit.it (es. **pippo@jabber.unbit.it**)
 
 Nel campo **Password** inserisci la password della **mailbox**
 
