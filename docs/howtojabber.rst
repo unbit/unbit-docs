@@ -4,8 +4,8 @@ Configurare jabber con la mailbox di Unbit
 
 Per usufruire del servizio di messaggeria istantanea **'jabber.unbit.it'** puoi utilizzare una qualsiasi delle tue mailbox attive su Unbit. **User e password corrispondono a quelle della tua mailbox**.
 
-Configurazione di Jabber su Messaggi (OS X):
-**********************************
+Configurazione di Jabber su Messaggi:
+*************************************
 
 Dal menu' **Accounts** > **Configurazione account** > seleziona **Jabber**... 
 
