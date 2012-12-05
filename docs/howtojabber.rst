@@ -4,16 +4,16 @@ Configurare jabber con la mailbox di Unbit
 
 Per usufruire del servizio di messaggeria istantanea **'jabber.unbit.it'** puoi utilizzare una qualsiasi delle tue mailbox attive su Unbit. **User e password corrispondono a quelle della tua mailbox**.
 
-Configurazione di Jabber su Fire:
+Configurazione di Jabber su Messaggi (OS X):
 **********************************
 
-Dal menu' **Accounts** > **Edit Accounts** > **Add a new account** seleziona **Jabber Account**... 
+Dal menu' **Accounts** > **Configurazione account** > seleziona **Jabber**... 
 
-Utilizza **user e password della tua mailbox** per configurare i dati di accesso.
+Nel campo **Nome Utente** inserisci il nome della **mailbox** che vuoi utilizzare seguito da @jabber.unbit.it (es pippo@jabber.unbit.it)
 
-Come server imposta **jabber.unbit.it**
+Nel campo **Password** inserisci la password della **mailbox**
 
-Attiva l'opzione **Use SSL** per una maggiore sicurezza. 
+Clicca sul tasto **Fine** 
 
 Configurazione di Jabber su Pidgin:
 ***********************************
