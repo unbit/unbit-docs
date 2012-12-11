@@ -87,4 +87,22 @@ Sei pronto, adesso, per aggiungere questa riga nel campo **upstream_cmd**
 
 **NOTA** Ogni volta che effettuerai modifiche al file ``uwsgi.ini`` o al ``php.ini`` il server verrà riavviato per renderle effettive.
 
+PHP da riga di comando
+----------------------
+
+Puoi usare php anche da riga di comando, collegandoti al server via ssh. Puoi richiamare il binario usando il percorso completo:
+
+.. literal::
+    /opt/unbit/php547/bin/php-cgi
+
+ma ti consigliamo di personalizzare il tuo ambiente di lavoro inserendolo nel tuo path, aggiungendo al file ``~/.bashrc`` questa riga:
+
+.. literal::
+    export PATH=/opt/unbit/php547/bin:$PATH
+
+e ricorda di specificare sempre il file ``php.ini`` nella docroot del dominio per cui stai effettuando operazioni da command line:
+
+.. literal::
+    php-cgi -c ~/www/example.com/php.ini
+
 [1]_ https://github.com/unbit/uwsgi-docs
