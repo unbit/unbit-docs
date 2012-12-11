@@ -21,7 +21,7 @@ In questo metoto avrai il controllo completo sia dell'application server (uWSGI)
 
 Per prima cosa dovrai creare un file di configurazione per uWSGI, che chiameremo ``uwsgi.ini``:
 
-.. literal::
+.. parsed-literal::
     [uwsgi]
     ; Carico il plugin per php 5.4.7
     plugins = 0:php547
@@ -66,13 +66,13 @@ Ti rimando alla documentazione ufficiale di uwsgi [1]_ per la lista completa di 
 
 A questo punto dovrai creare un file ``php.ini`` nella docroot del tuo dominio. La configurazione di base è:
 
-.. literal::
+.. parsed-literal::
     magic_quotes_gpc = Off
     date.timezone = Europe/Rome
 
 Aggiungi poi le estensioni di cui hai bisogno, ad esempio:
 
-.. literal::
+.. parsed-literal::
     extension = mysql.so
     extension = curl.so
 
@@ -80,7 +80,7 @@ Puoi trovare la lista di estensioni presenti sul server al percorso ``/opt/unbit
 
 Sei pronto, adesso, per aggiungere questa riga nel campo **upstream_cmd**
 
-.. literal::
+.. parsed-literal::
     uwsgi --ini uwsgi.ini
 
 30 secondi dopo l'applicazione partirà con le opzioni che hai scelto.
@@ -92,17 +92,17 @@ PHP da riga di comando
 
 Puoi usare php anche da riga di comando, collegandoti al server via ssh. Puoi richiamare il binario usando il percorso completo:
 
-.. literal::
+.. parsed-literal::
     /opt/unbit/php547/bin/php-cgi
 
 ma ti consigliamo di personalizzare il tuo ambiente di lavoro inserendolo nel tuo path, aggiungendo al file ``~/.bashrc`` questa riga:
 
-.. literal::
+.. parsed-literal::
     export PATH=/opt/unbit/php547/bin:$PATH
 
 e ricorda di specificare sempre il file ``php.ini`` nella docroot del dominio per cui stai effettuando operazioni da command line:
 
-.. literal::
+.. parsed-literal::
     php-cgi -c ~/www/example.com/php.ini
 
 [1]_ https://github.com/unbit/uwsgi-docs
