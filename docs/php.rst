@@ -108,4 +108,4 @@ e ricorda di specificare sempre il file ``php.ini`` nella docroot del dominio pe
 .. parsed-literal::
     php-cgi -c ~/www/example.com/php.ini
 
-[1]_ https://github.com/unbit/uwsgi-docs
+.. [1] https://github.com/unbit/uwsgi-docs
