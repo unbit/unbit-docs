@@ -21,7 +21,7 @@ In questo metoto avrai il controllo completo sia dell'application server (uWSGI)
 
 Per prima cosa dovrai creare un file di configurazione per uWSGI, che chiameremo ``uwsgi.ini``:
 
-.. parsed-literal::
+.. code-block:: ini
     [uwsgi]
     ; Carico il plugin per php 5.4.7
     plugins = 0:php547
@@ -66,13 +66,13 @@ Ti rimando alla documentazione ufficiale di uwsgi [1]_ per la lista completa di 
 
 A questo punto dovrai creare un file ``php.ini`` nella docroot del tuo dominio. La configurazione di base è:
 
-.. parsed-literal::
+.. code-block:: ini
     magic_quotes_gpc = Off
     date.timezone = Europe/Rome
 
 Aggiungi poi le estensioni di cui hai bisogno, ad esempio:
 
-.. parsed-literal::
+.. code-block:: ini
     extension = mysql.so
     extension = curl.so
 
