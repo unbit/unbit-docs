@@ -9,29 +9,31 @@ Di norma l'istanza viene installata nella directory ``~/db.mysql`` , ascolterà 
 Per installarla puoi usare come base questo file di configurazione, da salvare col nome ``~/my.cnf``:
 
 .. code-block:: ini
-    [client]
-    socket          = /proc/unbit/db.mysql/mysqld.sock
-    default-character-set=utf8
-    
-    [mysqld_safe]
-    socket          = /proc/unbit/db.mysql/mysqld.sock
 
-    [mysqld]
-    skip-networking
-    pid-file        = /proc/unbit/db.mysql/mysqld.pid
-    socket          = /proc/unbit/db.mysql/mysqld.sock
-    datadir         = /proc/unbit/db.mysql
+   [client]
+   socket          = /proc/unbit/db.mysql/mysqld.sock
+   default-character-set=utf8
+   
+   [mysqld_safe]
+   socket          = /proc/unbit/db.mysql/mysqld.sock
+   
+   [mysqld]
+   skip-networking
+   pid-file        = /proc/unbit/db.mysql/mysqld.pid
+   socket          = /proc/unbit/db.mysql/mysqld.sock
+   datadir         = /proc/unbit/db.mysql
 
-    character-set-server=utf8
-    skip-external-locking
+   character-set-server=utf8
+   skip-external-locking
 
-    query_cache_size = 8M
-    max_connections = 10
+   query_cache_size = 8M
+   max_connections = 10
 
-    [mysqldump]
-    quick
-    quote-names
-    max_allowed_packet      = 16M
+   [mysqldump]
+   quick
+   quote-names
+   max_allowed_packet      = 16M
+
 
 Inizializza quindi l'istanza con:
 
