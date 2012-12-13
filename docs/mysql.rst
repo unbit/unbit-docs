@@ -8,7 +8,7 @@ Di norma l'istanza viene installata nella directory ``~/db.mysql`` , ascolterà 
 
 Per installarla puoi usare come base questo file di configurazione, da salvare col nome ``~/my.cnf``:
 
-.. parsed-literal::
+.. code-block:: ini
     [client]
     socket          = /proc/unbit/db.mysql/mysqld.sock
     default-character-set=utf8
