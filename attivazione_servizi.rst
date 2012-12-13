@@ -34,4 +34,6 @@ Approfondimenti
 
 `Procedure di trasferimento domini </procedure_trasferimento>`_
 
+`Metodi di pagamento </metodi_pagamento>`_
+
 `Disdetta servizi </disdetta_servizi>`_
