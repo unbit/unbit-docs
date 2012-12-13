@@ -23,4 +23,7 @@ Informazioni tecniche di base
  - Ove possibile cerca sempre di utilizzare i package dentro /opt/unbit
  - Prima di inventare qualche soluzione strana di deployment controlla (o chiedi allo staff) se uWSGI non lo fa gia'
  - Usare uWSGI come proxy http e' economico (1 MB a istanza) ed estremamente versatile
- 
+ - Ricordati di usare il comando quota per verificare lo spazio disco in tempo reale (il pannello si aggiorna solo ogni 30 minuti)
+ - Evita di usare il servizio FTP se ci tieni alla sicurezza
+ - Se possibile utilizza sempre un db dedicato se vuoi il massimo delle performance e della versatilita'
+ - Effettuiamo molti backup, ma ti consigliamo di fare sempre una copia dei tuoi file e soprattutto dei tuoi database. Se hai dubbi chiedi allo staff quali sono le tecniche di backup migliori.
