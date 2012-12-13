@@ -2,23 +2,17 @@
 Elenco HowTo
 ------------
 
-Quella che segue è la lista delle nostre guide. Il wiki di unbit è in continua evoluzione. Vorresti aggiungere qualcosa? Hai delle idee per arricchire il nostro wiki? Scrivi una email a wiki@unbit.it o contribuisci in prima persona! :)
+.. note::
+   Ricorda che puoi inviarci pull request da github per migliorare le nostre guide...
 
-Unbit
-******
+Base
+****
 
- - `HowToAskInfo </docs/howtoaskinfo>`_ (Come fare per richiedere informazioni, assistenza e altro ad unbit) 
+ - `HowToFtp </docs/howtoftp>`_ (Gestione accessi FTP/FTPS) 
 
-Neofiti
-********
 
- - `HowToFtp </docs/howtoftp>`_ (Creazione accesso FTP)
-
- - `HowToJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit) 
-
- - `HowToDyndns </docs/howtodyndns>`_ (come configurare il servizio di dns dinamico) 
-
-**Gestire l'email su unbit**
+Email e servizi collegati
+*************************
 
  - `HowToMailbox </docs/howtomailbox>`_ (Creazione Mailbox e indirizzi e-mail)
 
@@ -30,10 +24,8 @@ Neofiti
 
  - `HowToMail </docs/howtomail>`_ (Impostazione E-Mail su Mail per Mac OSX)
 
- - `HowToThunderbird </docs/howtothunderbird>`_ (Impostazione E-Mail su Mozilla Thunderbird) 
-
-
-Developer
-**********
+ - `HowToThunderbird </docs/howtothunderbird>`_ (Impostazione E-Mail su Mozilla Thunderbird)
 
  - `HowToSPF </docs/howtospf>`_ (Sender Policy Framework)
+
+ - `HowToJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit)
