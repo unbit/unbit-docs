@@ -2,13 +2,13 @@ Informazioni tecniche di base
 =============================
 
 .. parsed-literal::
-La home del tuo account e' mappata sulla directory /accounts/<account>, se il tuo account si chiama topogigio, la home corrispondera' ad /accounts/topogigio
+   La home del tuo account e' mappata sulla directory /accounts/<account>, se il tuo account si chiama topogigio, la home corrispondera' ad /accounts/topogigio
   
 .. parsed-literal::
-Un link simbolico /proc/unbit punta sempre alla tua home
+   Un link simbolico /proc/unbit punta sempre alla tua home
 
 .. parsed-literal::
-Ogni account puo' fare il binding sulla porta corrispondente al suo uid sugli indirizzi da 127.0.0.2 a 127.0.0.255
+   Ogni account puo' fare il binding sulla porta corrispondente al suo uid sugli indirizzi da 127.0.0.2 a 127.0.0.255
  
 
  - Ogni account puo' fare il binding sulla rete lan Unbit (per il clustering) sulla porta corrispondente al suo uid sugli indirizzi da 192.168.240.x a 192.168.243.x (il valore di x e' dipendente dal webserver)
