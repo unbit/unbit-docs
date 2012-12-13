@@ -11,3 +11,6 @@ Informazioni tecniche di base
  - Per inviare email dalle applicazioni si puo' utilizzare 127.0.0.1:25 come servizio (il limite e' di 100 email inviate ogni 5 minuti)
  - Le porte TCP/UDP assegnate a un account non sono accessibili dagli altri account
  - Non ci sono limiti sui socket UNIX
+ - Puoi accedere via ssh ad un altro account (ovviamente devi avere chiave/password) usando la rete 192.168.0.x (dove x e' il numero identificativo del server)
+ - Non puoi accedere ai database server condivisi direttamente da remoto (usa i tunnel ssh)
+ - Se devi effettuare transazioni FTP (ma devi proprio), puoi utilizzare il proxy squid in ascolto sull'indirizzo 192.168.0.19 porta 80
