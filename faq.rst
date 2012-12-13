@@ -2,6 +2,10 @@
 FAQ
 ---
 
+Questa sezione riporta le domande piu' frequenti riguardi gli aspetti meno "tecnici" dell'infrastruttura. In particolare
+sui servizi secondari come Email e registrazioni domini. Per tutte le informazioni tecniche, la sezione di riferimento
+e' quella degli `Howto </houto>`_
+
 - **Cos'è Unbit?**
 
 Unbit è una piattaforma per la fornitura di servizi internet basata su software opensource. 
