@@ -55,7 +55,7 @@ Informazioni tecniche di base
    Lo spazio occupato dalla directory /logs non viene conteggiato
 
 .. parsed-literal::
-   **file stderr_log** nella home viene usato come file log di default per le applicazioni
+   il file **stderr_log** nella home viene usato come file log di default per le applicazioni
 
 .. parsed-literal::
    Prima di chiedere assistenza allo staff controlla SEMPRE i file di log
