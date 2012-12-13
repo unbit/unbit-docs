@@ -53,8 +53,8 @@ MAILBOX POP3 / IMAP4
 .. parsed-literal::
    **60,00 € annui**
 
-DATABASE
-*********
+DATABASE CONDIVISI (solo MySQL)
+*******************************
 
 - 1 account aggiuntivo (incluso 1 database) MySql o PostgreSQL
 
@@ -70,11 +70,6 @@ DATABASE
 
 .. parsed-literal::
    **38,00 € annui**
-
-- PostgreSQL Net-Open (accesso esterno al PostgreSQL, 1 account, 1 database)
-
-.. parsed-literal::
-   **36,00 € annui**
 
 - Accesso alla copia di Backup/Dump database giornaliero (30 backup mensili)
 
@@ -135,8 +130,8 @@ SMTP
 .. parsed-literal::
    **60,00 € annui**
 
-PROCESSI CGI/FastCGI/SCGI/SSH/CRON/APPLICATION SERVER /uWSGI/uRack
-*******************************************************************
+PROCESSI (vecchia gestione)
+***************************
 
 *su uno stesso dominio non si possono usare processi con address space differente*
 
@@ -190,8 +185,8 @@ PROCESSI CGI/FastCGI/SCGI/SSH/CRON/APPLICATION SERVER /uWSGI/uRack
 .. parsed-literal::
    **70,00 € annui**
 
-SLOT LISTEN QUEUE
-*****************
+SLOT LISTEN QUEUE (solo configurazioni con webserver Apache)
+************************************************************
 
 - 1 Slot Listen Queue
 
@@ -208,15 +203,15 @@ SLOT LISTEN QUEUE
 .. parsed-literal::
    **100,00 € annui**
 
-PORTA TCP
-*********
+PORTE TCP DEDICATE
+******************
 
-- Porta TCP (su localhost)
+- Porta TCP su 127.0.0.1
 
 .. parsed-literal::
    **10,00 € annui**
 
-- Porta TCP su Lan Unbit (Per clustering)
+- Porta TCP su 192.168.254.x
 
 .. parsed-literal::
    **20,00 € annui**
