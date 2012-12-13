@@ -27,3 +27,5 @@ Informazioni tecniche di base
  - Evita di usare il servizio FTP se ci tieni alla sicurezza
  - Se possibile utilizza sempre un db dedicato se vuoi il massimo delle performance e della versatilita'
  - Effettuiamo molti backup, ma ti consigliamo di fare sempre una copia dei tuoi file e soprattutto dei tuoi database. Se hai dubbi chiedi allo staff quali sono le tecniche di backup migliori.
+ - I file .htaccess sono estremamente inefficienti, se puoi evitarli e' meglio (uWSGI include un rewrite engine molto simile a mod_rewrite)
+ - Il numero di richieste che apache puo' mantenere in coda e' molto limitato (ed e' direttamente proporzionale al numero dei processi e i timeout impostati). Se prevedi di avere un carico elevato e' opportuno utilizzare un altro proxy come nginx o l'http router di uWSGI. Chiedi informazioni allo staff per il setup
