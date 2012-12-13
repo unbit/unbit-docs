@@ -87,4 +87,5 @@ Informazioni tecniche di base
    Il numero di richieste che apache puo' mantenere in coda e' molto limitato (ed e' direttamente proporzionale ai timeout upstream impostati). Se prevedi di avere un carico elevato e' opportuno utilizzare un altro proxy come nginx o l'http router di uWSGI. Chiedi informazioni allo staff per il setup
 
 .. parsed-literal::
-   Fare caching su disco e' inutile (e spesso dannoso), il tuo account Unbit ha molte piu' risorse CPU che I/O. Usa la memoria per il caching. Soluzioni come **mecached** o **redis** sono perfette. Fare caching su db e' INUTILE.
+   Fare caching su disco e' inutile (e spesso dannoso), il tuo account Unbit ha molte piu' risorse CPU che I/O. Usa la memoria per il caching.
+   Soluzioni come **mecached** o **redis** sono perfette. Fare caching su db e' INUTILE.
