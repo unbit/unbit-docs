@@ -8,6 +8,8 @@ Elenco HowTo
 Base
 ****
 
+ - `TechInfo </techinfo>`_ (Informazioni tecniche IMPORTANTISSIME)
+
  - `HowToFtp </docs/howtoftp>`_ (Gestione accessi FTP/FTPS) 
 
  - `API REST </api>`_ (Utilizzo della API Unbit)
