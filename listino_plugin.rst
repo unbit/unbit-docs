@@ -12,7 +12,7 @@ Listino Plugin
 CONTAINER
 **********
 
-- Nuovo Container 
+- Attivazione Nuovo Container 
 
 .. parsed-literal::
    **5,00 € annui**
