@@ -2,8 +2,8 @@
 Elenco HowTo
 ------------
 
-.. note::
-   Ricorda che puoi inviarci pull request da github per migliorare le nostre guide...
+.. parsed-literal::
+   Ricorda che puoi inviarci pull request da https://github.com/unbit/unbit-docs per migliorare le nostre guide...
 
 Base
 ****
