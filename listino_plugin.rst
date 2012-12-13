@@ -20,7 +20,7 @@ CONTAINER
 - 1MB
 
 .. parsed-literal::
-   **1,00 € annui**
+   **1,00 € annuo**
 
 - 50MB
 
