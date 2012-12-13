@@ -14,3 +14,13 @@ Informazioni tecniche di base
  - Puoi accedere via ssh ad un altro account (ovviamente devi avere chiave/password) usando la rete 192.168.0.x (dove x e' il numero identificativo del server)
  - Non puoi accedere ai database server condivisi direttamente da remoto (usa i tunnel ssh)
  - Se devi effettuare transazioni FTP (ma devi proprio), puoi utilizzare il proxy squid in ascolto sull'indirizzo 192.168.0.19 porta 80
+ - Ogni applicazione gira con i privilegi dell'utente, quindi non modificare i permessi (a meno che tu non abbia un buon motivo) che devono essere 640 per i file e 750 per le directory
+ - Se utilizzi come webserver Apache (il default) accertati che la docroot sia sotto la directory /www e che mantenga la acl POSIX www-data (e' il comportamento di default se non si rimuove accidentamente /www)
+ - Lo spazio occupato dalla directory /logs non viene conteggiato
+ - Il file stderr nella home viene usato come file log di default per le applicazioni
+ - Prima di chiedere assistenza allo staff controlla SEMPRE i file di log
+ - Le macchine sono sistemi Linux con kernel a 64bit e user space a 32 (ma e' possibile far girare processi a 64bit senza problemi)
+ - Ove possibile cerca sempre di utilizzare i package dentro /opt/unbit
+ - Prima di inventare qualche soluzione strana di deployment controlla (o chiedi allo staff) se uWSGI non lo fa gia'
+ - Usare uWSGI come proxy http e' economico (1 MB a istanza) ed estremamente versatile
+ 
