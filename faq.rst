@@ -25,9 +25,9 @@ Questo implica che potrai costruire la stessa infrastruttura Unbit anche su serv
 
 I servizi di Unbit sono esclusivamente pensati per sviluppatori e aziende ed entrambi i target sanno bene quanto sia importante la tutela di un contratto in ambienti lavorativi.
 
-- **Sono l'amministratore di una società di servizi su web, vorrei offrire hosting ai miei clienti.***
+- **Rappresento una società di servizi su web, vorrei offrire hosting ai miei clienti.**
 
-La nostra piattaforma e' in continuo sviluppo, preparaci un prospetto delle tue esigenze e ti sapremo sicuramente costruire un preventivo che faccia al caso tuo. Una delle divisioni di Unbit si occupa esclusivamente dei servizi per i rivenditori.
+Preparaci un prospetto delle tue esigenze e proveremo a individuare la migliore soluzione.
 
 - **Non sono molto pratico di internet ma voglio avere un mio sito.**
 
