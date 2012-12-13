@@ -31,7 +31,7 @@ Preparaci un prospetto delle tue esigenze e proveremo a individuare la migliore 
 
 - **Non sono molto pratico di internet ma voglio avere un mio sito.**
 
-La nostra stuttura e' molto complessa e difficilmente usabile da un non tecnico. Tuttavia abbiamo un buon numero di rivenditori che potranno fornirti supporto e fare da tramite con il nostro staff.
+La nostra stuttura e' molto complessa e difficilmente utilizzabile da un non tecnico. Tuttavia abbiamo un buon numero di rivenditori che potranno fornirti supporto e fare da tramite con il nostro staff.
 
 - **Non ho tempo/voglia di leggere tutta la documentazione sui vari servizi, mi spiegate cosa devo fare ?**
 
