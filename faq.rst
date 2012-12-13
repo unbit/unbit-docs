@@ -28,19 +28,15 @@ La nostra piattaforma e' in continuo sviluppo, preparaci un prospetto delle tue 
 
 - **Non sono molto pratico di internet ma voglio avere un mio sito.**
 
-La nostra stuttura e' molto complessa e difficilmente usabile da un non professionista. Tuttavia abbiamo un buon numero di rivenditori che potranno fornirti supporto e fare da tramite con il nostro staff.
+La nostra stuttura e' molto complessa e difficilmente usabile da un non tecnico. Tuttavia abbiamo un buon numero di rivenditori che potranno fornirti supporto e fare da tramite con il nostro staff.
 
 - **Non ho tempo/voglia di leggere tutta la documentazione sui vari servizi, mi spiegate cosa devo fare ?**
 
 Nulla, molto probabilmente non siamo il fornitore adatto a te.
 
-- **Non vi sembra di essere un po' troppo diretti ?**
-
-Certo. E' una delle nostre caratteristiche, siamo dei tecnici non dei commercianti.
-
 - **Uso degli strumenti poco diffusi, potete dare supporto anche a me?**
 
-Dibende che intendi per strumenti poco diffusi, se ti riferisci al sistema operativo, non farti scrupoli, ne abbiamo visti di tutti i colori ;)
+Dipende che intendi per strumenti poco diffusi, se ti riferisci al sistema operativo, non farti scrupoli, ne abbiamo visti di tutti i colori ;)
 
 
 - **Voglio realizzare un sito o una applicazione, potete aiutarmi**
@@ -56,33 +52,11 @@ Leggi attentamente il contratto in ogni suo punto, compilalo (in modo leggibile)
 
 Un account unbit è un identificativo che ti viene assegnato e ti permetterà di gestire tutti i tuoi servizi e di acquistarne di nuovi senza effettuare lunghe procedure.
 
-- **Come mai avete sviluppato un vostro pannello di controllo?**
 
-Per dare il massimo in sicurezza, affidabilità e performance, la struttura di rete unbit è stata costruita utilizzando tecnologie nuovissime, dal clustering alla virtualizzazione, scrivendo tonnellate di codice. Si è reso quindi necessario avere uno strumento apposito che permettesse di gestire questa struttura.
-
-- **Come mai il vostro pannello di controllo cambia così spesso?**
-
-Unbit è in continua evoluzione, ogni nuovo servizio che aggiungiamo o miglioramo viene reso gestibile dal pannello. Saremo però sempre attenti a non cambiarne la dinamica di funzionamento.
-
-- **Ma chi ve lo fa fare di sviluppare tutti questi sistemi, il pacchetto XYZ gia' lo fa!**
-
-Lasciamo questa politica ai nostri concorrenti. Noi siamo principalmente degli sviluppatori e non amiamo darci dei limiti utilizzando software di terze parti con obiettivi diversi dai nostri. Sentirete dirci 'non supportiamo questa tecnologia' solo davanti a software proprietario, tutto il resto DEVE girare sulla nostra piattaforma.E' il nostro obiettivo...ognuno ha i suoi...
-
-- **Posso avere un server tutto mio che possa gestire con il vostro pannello di controllo e che usufruisca della vostra struttura di rete distribuita?**
-
-Fino al 2009 ti avremmo risposto di si'. Ora che la nostra piattaforma si e' evoluta enormemente ci sentiamo di dirti che molto probabilmente non ne hai bisogno. Chiedi informazioni sui "container" Unbit, probabilmente sono la soluzione migliore ai tuoi scopi (e con un costo decisamente inferiore rispetto a un sistema dedicato).
-
-- **Siamo un'associazione o un team che sviluppa software opensource, potete aiutarci?**
-
-Certo! Unbit si basa interamente su software opensource e buona parte dei prodotti sviluppati internamente (dalle patch per il kernel, agli application server ai moduli apache) vengono rilasciati al pubblico. Supportiamo già diversi gruppi e associazioni. Chiedete sempre al nostro staff se e' possibile una sponsorizzazione del vostro progetto.
-
-- **Siamo un LUG che agevolazioni possiamo avere?**
-
-Per tutti i LUG (ufficiali) e' possibile richiedere l'attivazione di un profilo container-80 al costo della sola registrazione del dominio.
 
 - **Avrei bisogno del servizio XYZ, ma non lo vedo in listino, cosa posso fare?**
 
-Scrivi una mail a info@unbit.it , il nostro staff ne valuterà un eventuale inserimento nella piattaforma.
+Scrivi una mail a info@unbit.it, il nostro staff ne valuterà un eventuale inserimento nella piattaforma.
 
 - **Ok, mi avete convinto, voglio diventare vostro cliente, come posso pagare?**
 
@@ -100,10 +74,6 @@ I nostri prezzi sono calcolati in modo tale da sostenere investimenti hardware e
 
 E' una politica di sicuro anti-marketing, ma come spiegato piu' sopra, siamo solo dei tecnici :)
 
-- **Perche' devo firmare un contratto ?**
-
-Perche' ci piace lavorare tranquilli e tutelare sia noi che il cliente. Leggi sempre attentamente il contratto, ti evitera' situazioni spiacevoli. Ricorda che in caso non voglia rinnovare i tuoi servizi dovrai comunicare disdetta entro un mese (punto 7 del contratto), altrimenti si applichera' il tacito rinnovo per tutelare dalle distrazioni chi invece vuole mantenere attivo il servizio. Puoi anche (con un costo aggiuntivo e un canone mensile) sottoscrivere degli SLA sui servizi con costo superiore ai 200 euro annuali.
-
 - **Ho acquistato un' offerta che ora non e' piu' presente in listino, cosa succedera' alla scadenza del servizio ?**
 
 Nulla :) Se si acquista l'offerta XYZ si continuera' a pagare per l'offerta XYZ. Solo in caso vi siano nuove offerte piu' vantaggiose economicamente provvederemo ad avvertire il cliente della possibilita' di un passaggio.
@@ -120,19 +90,9 @@ Il supporto telefonico va inteso come 'canale' di emergenza, in tutte le situazi
 
 Proprio perche' sei un programmatore e non vuoi investire del tempo nell'amministrazione dei sistemi. Lascialo fare a noi, dormi tranquillo, e preoccupati solo di sviluppare il tuo software. Per recuperare qualsiasi disastro ci siamo noi. Inoltre e' molto facile che per avere una sola tecnologia tu abbia acquistato una struttura sovradimensionata. Da noi puoi acquistare solo quello che ti serve. Se invece ti piace anche l'amministrazione di sistema allora e' meglio che continui a divertirti con il tuo VPS :)
 
-- **Chi diavolo gestisce le vostre politiche di marketing ??? il vostro sito e' pieno di parole incomprensibili e non c'e' neanche una donnina poco vestita !!!**
-
-Delle politiche di marketing piu' in voga non ci interessa nulla. Siamo tecnici, riteniamo che a un cliente interessato e competente basti semplicemente leggere la mole di tecnologie supportate per interessarsi al nostro servizio.
-
-- **Posso ridistribuire le risorse acquistate tra i domini/sottodomini del mio account**
+- **Posso ridistribuire le risorse acquistate tra i domini/sottodomini del mio account ?**
 
 Si,dal pannello di controllo puoi riassegnare container e processi come preferisci.
-
-
-
-- **Stavo testando le performance del mio sito facendo diverse connessioni, e all'improvviso non riesco piu' a collegarmi**
-
-Se vuoi avere dei dati attendibili consulta il nostro staff, effettuare molte connessioni concorrenti in brevi lassi di tempo non e' altro che un DOS/DDOS e il nostro firewall blocchera' gli ip per tanti minuti quante erano le connessioni concorrenti effettuate. Il meccanismo e' molto complesso poiche' deve evitare ad ogni costo i falsi positivi. Se proprio vuoi fare dei test evita di superare le 40 connessioni concorrenti dallo stesso ip.
 
 
 
@@ -203,10 +163,6 @@ Ogni account unbit ha i suoi file nella directory /accounts/<nomeaccount>. La ra
 - **Cos'è un proxy?**
 
 Di norma ogni richiesta a un server web viene mappata su un file sul disco rigido. Attivando le funzionalità di proxy il tuo dominio può visualizzare file presi da un altro sito e non dal disco rigido su cui risiedono i tuoi files. Grazie alla funzionalita' proxy e' possibile associare applicativi come Zope o Tomcat al proprio dominio.
-
-- **Che linguaggi di programmazione posso usare con unbit?**
-
-Tantissimi, Unbit strizza l'occhio ai programmatori offrendogli decine di linguaggi e librerie. La maggior parte sono disponibili all'interno della directory /opt/unbit di ogni server, in alternativa puoi scaricare dei pacchetti da copiare in home da http://packages.unbit.it
 
 - **Ho bisogno di altro spazio per il mio sito, cosa posso fare?**
 
