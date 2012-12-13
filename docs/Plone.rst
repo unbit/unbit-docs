@@ -96,6 +96,6 @@ Abilitiamo upstream per il nostro dominio e impostiamo upstream_cmd per lanciare
 .. parsed-literal::
    uwsgi14 plone.ini
 
-A questo punto attendete 30 secondi, visitate il dominio e configurate la vostra prima istanza zope.
+A questo punto attendete 30 secondi, visitate il dominio e configurate la vostra prima istanza Plone.
 
 
