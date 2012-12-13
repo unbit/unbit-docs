@@ -19,6 +19,8 @@ da pannello o via mail e soprattutto, SENZA inviare un nuovo contratto).
 Servizi Aggiuntivi
 -------------------
 
+Se sei gia' cliente Unbit, puoi incrementare le risorse del tuo account semplicemente acquistando nuovi plugin.
+
 `LISTINO PLUGIN </listino_plugin>`_
 
 
