@@ -15,6 +15,8 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 | **Al saldo della stessa verrà avviata la procedura di attivazione del servizio da te richiesto.**
 | **Se il pagamento avviene mezzo bonifico, è necessario indicare nella causale di bonifico il numero della fattura.**
 |
+|   `METODI DI PAGAMENTO </metodi_pagamento>`_
+|
 | Per accelerare la procedura puoi inviaci tramite fax, al n. 011.43.57.238, la ricevuta del bonifico (il pagamento con PayPal risulta immediato). 
 | **NON SONO ACCETTATI MANDATI DI PAGAMENTO**
 |
@@ -33,7 +35,5 @@ Approfondimenti
 `Procedura di registrazione domini </procedure_registrazione>`_
 
 `Procedure di trasferimento domini </procedure_trasferimento>`_
-
-`Metodi di pagamento </metodi_pagamento>`_
 
 `Disdetta servizi </disdetta_servizi>`_
