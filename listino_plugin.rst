@@ -9,6 +9,29 @@ Listino Plugin
    - `metodi di pagamento </metodi_pagamento>`_ 
 
 
+CONTAINER
+**********
+
+- Nuovo Container 
+
+.. parsed-literal::
+   **5,00 € annui**
+
+- 1MB
+
+.. parsed-literal::
+   **1,00 € annui**
+
+- 50MB
+
+.. parsed-literal::
+   **45,00 € annui**
+
+- 100MB
+
+.. parsed-literal::
+   **90,00 € annui**
+
 PUNTAMENTO DNS
 **************
 
