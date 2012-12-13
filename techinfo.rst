@@ -33,7 +33,8 @@ Informazioni tecniche di base
    Non ci sono limiti sui socket UNIX
 
 .. parsed-literal::
-   Puoi accedere via ssh ad un altro account (ovviamente devi avere chiave/password) usando la rete **192.168.0.x** (dove x e' il numero identificativo del server)
+   Puoi accedere via ssh ad un altro account (ovviamente devi avere chiave/password) usando la rete **192.168.0.x** (dove x e' il numero
+   identificativo del server)
  
 .. parsed-literal::
    Non puoi accedere ai database server condivisi direttamente da remoto (usa i tunnel ssh)
@@ -45,7 +46,8 @@ Informazioni tecniche di base
    Ogni applicazione gira con i privilegi dell'utente, quindi non modificare i permessi (a meno che tu non abbia un buon motivo) che devono essere **640** per i file e **750** per le directory
  
 .. parsed-literal::
-   Se utilizzi come webserver Apache (il default) accertati che la docroot sia sotto la directory **/www** e che mantenga la acl POSIX www-data (e' il comportamento di default se non si rimuove accidentamente /www)
+   Se utilizzi come webserver Apache (il default) accertati che la docroot sia sotto la directory **/www** e che mantenga la acl POSIX www-data
+   (e' il comportamento di default se non si rimuove accidentamente /www)
  
 .. parsed-literal::
    Lo spazio occupato dalla directory /logs non viene conteggiato
@@ -78,7 +80,8 @@ Informazioni tecniche di base
    Se possibile utilizza sempre un db dedicato se vuoi il massimo delle performance e della versatilita'
 
 .. parsed-literal::
-   Effettuiamo molti backup, ma ti consigliamo di fare sempre una copia dei tuoi file e soprattutto dei tuoi database. Se hai dubbi chiedi allo staff quali sono le tecniche di backup migliori.
+   Effettuiamo molti backup, ma ti consigliamo di fare sempre una copia dei tuoi file e soprattutto dei tuoi database.
+   Se hai dubbi chiedi allo staff quali sono le tecniche di backup migliori.
 
 .. parsed-literal::
    I file .htaccess sono estremamente inefficienti, se puoi evitarli e' meglio (uWSGI include un rewrite engine molto simile a mod_rewrite)
