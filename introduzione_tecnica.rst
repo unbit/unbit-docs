@@ -45,7 +45,7 @@ La prima operazione e' **assegnare delle risorse** (generalmente un Container) a
 
 Le opzioni piu' importanti sono **upstream** (ovviamente) che abilita il motore, **upstream_wizard** e **upstream_cmd** (una esclude l'altra) che istruiscono **UPSTREAM** sul tipo di applicazione da eseguire. Per le configurazioni piu' semplici sono disponibili dei wizard (disponibili sotto la voce **upstream_wizard**), quindi se devi (per esempio) eseguire semplici applicazioni php, **seleziona il wizard che piu' si avvicina alle tue necessita'** (in termini di versione di php) e lascia **upstream_cmd** vuoto.
 
-**Attendi 30 secondi**, e se tutto e' andato come previsto, il sistema eseguira' qualsiasi script php caricato nella docroot. Per caricare file nel tuo account puoi usare **SSH/Sftp** ma e' possibile configurare accessi **FTP/FTP-SSL**. Ti ricordiamo che il protocollo FTP (non FTP-SSL) trasferisce le tue credenziali in chiaro, quindi e' altamente insicuro. Se il tuo client FTP non supporta l'SSL evita
+**Attendi 30 secondi**, e se tutto e' andato come previsto, il sistema eseguira' qualsiasi script php caricato nella docroot. Per caricare file nel tuo account puoi usare `SSH/SSFTP </docs/ssh>`_ ma e' possibile configurare accessi **FTP/FTP-SSL**. Ti ricordiamo che il protocollo FTP (non FTP-SSL) trasferisce le tue credenziali in chiaro, quindi e' altamente insicuro. Se il tuo client FTP non supporta l'SSL evita
 almeno di salvare le password (specialmente se usi sistemi Windows)
 
 
