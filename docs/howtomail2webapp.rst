@@ -6,15 +6,15 @@ Il **Gateway** Mail2WebApp ti permette di associare uno script web a una mailbox
 
 Questo script verra' lanciato alla ricezione di ogni singola mail, passandogli 2 parametri tramite metodo POST:
 
-**mailbox**=> contiene il nome della mailbox
+**mailbox** => contiene il nome della mailbox
 
-**mail**=> contiene il corpo della mail comprensivo di header e allegati (formato mime)
+**mail** => contiene il corpo della mail comprensivo di header e allegati (formato mime)
 
 Puoi utilizzare questa funzionalita' per sviluppare diverse soluzioni, dai ticketing system al parsing delle risposte inviate via posta elettronica alla semplice archiviazione su database dei messaggi.
 
 Se, per esempio, volessimo archiviare le email in arrivo in un database, è sufficiente creare uno script (per questo esempio utilizziamo PHP4), che contiene le istruzioni necessarie. Mettiamo lo script in una **directory presente in un dominio dell'account**.
 
-Per questo esempio chiamiamo lo script 'insert_mail.php', nella dir 'webapp' sotto il nostro dominio (howto.unbit.it/webapp/insert_mail.php)
+Per questo esempio chiamiamo lo script 'insert_mail.php', nella dir 'webapp' sotto il nostro dominio
 
 I nomi sono indicativi, per i vostri file potete utilizzare quelli che preferite.
 
