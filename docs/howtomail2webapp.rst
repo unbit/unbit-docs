@@ -20,7 +20,8 @@ I nomi sono indicativi, per i vostri file potete utilizzare quelli che preferite
 
 Lo script contiene queste istruzioni: 
 
-.. <?php
+.. parsed-literal:: 
+   <?php
    ## inserire istruzioni per connessione al database ##
    $mailbox = $_POST['mailbox'];
    $mail = $_POST['mail'];
