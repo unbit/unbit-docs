@@ -80,9 +80,12 @@
     
     <br/><br/><br/>
     <h3 class="title"><i class="icon-cogs"></i>uWSGI</h3>
-    Il progetto <a href="http://uwsgi-docs.readthedocs.org/">uWSGI</a> e' il cuore di Unbit.<br/> E' il server di default per le applicazioni WSGI, Rack, PSGI, PHP, CGI, Lua-WSAPI e Go.<br/>
+    Il progetto <a href="http://uwsgi-docs.readthedocs.org/">uWSGI</a> e' il cuore di Unbit.<br/><br/>
+    
+    E' il server di default per le applicazioni WSGI, Rack, PSGI, PHP, CGI, Lua-WSAPI e Go.<br/>
     Fornisce inoltre i proxy e i load-balancer per tutta l'infrastruttra, nonche' le funzionalita' di monitoraggio ormai necessarie in ogni applicazione
-   di rete.<br/>
+   di rete.<br/><br/>
+   
     Prodotto di punta di Unbit, offre un ambiente solido ed estremamente configurabile anche in soluzioni distribuite.<br/>
     uWSGI e' un prodotto OpenSource (licenza GPL2), quindi potrai facilmente ricostruire
     l'ambiente Unbit sui tuoi sistemi di sviluppo.<br/>
@@ -133,7 +136,7 @@
     <h3 class="title"><i class="icon-list-ul"></i>Tecnologie suppotate e consumi</h3>
     Prima di scegliere un servizio, verifica i requisiti dei software che intendi utilizzare. Se non trovi un applicativo necessario al tuo deploy nella lista, contatta subito info@unbit.it
     <br/>
-    Per ogni software sono riportati i requisiti di memoria minimi (ove facilmente prevedibili/misurabili) e il metodo di deploy consigliato.
+    Per ogni software sono riportati i requisiti di memoria minimi (ove facilmente prevedibili/misurabili) e diversi link utili.
     <br/>
     <br/>
     
@@ -141,17 +144,17 @@
     <table class="table table-striped">
     
     <tr>
-            <th>software</th><th>requisiti container</th><th>modalita' consigliate per deploy</th>
+            <th>software</th><th>requisiti container</th><th>link</th>
     </tr>
     
-    <tr><td><b>Django</b></td><td>80 MB, (circa 40 MB per processo, 8MB per ogni thread)</td><td>uWSGI preforked, uWSGI threaded</td></tr>
+    <tr><td><b>Django</b></td><td>80 MB, (circa 40 MB per processo, 8MB per ogni thread)</td><td>howto Unbit, sito ufficiale</td></tr>
     <tr><td><b>RubyOnRails 2.x</b></td><td>80 MB, (circa 70 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
     <tr><td><b>RubyOnRails 3.x</b></td><td>90 MB, (circa 80 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
     <tr><td><b>Flask</b></td><td>30 MB, (circa 20 MB per processo, 8MB per ogni thread)</td><td>uWSGI preforked, uWSGI threaded</td></tr>
     <tr><td><b>Sinatra</b></td><td>40 MB, (circa 30 MB per processo)</td><td>uWSGI preforked, urack.rb, fastcgi, unicorn</td></tr>
     <tr><td><b>Tomcat</b></td><td>300 MB, 1 porta TCP su localhost</td><td>-</td></tr>
     <tr><td><b>Jetty</b></td><td>160 MB, 1 porta TCP su localhost</td><td>-</td></tr>
-    <tr><td><b>node.js</b></td><td>40 MB</td><td>-</td></tr>
+    <tr><td><b>node.js</b></td><td>40 MB</td><td>sito ufficiale</td></tr>
     <tr><td><b>Web2py</b></td><td>40 MB, (circa 30 MB per processo)</td><td>uWSGI preforked</td></tr>
     <tr><td><b>Zope</b></td><td>250 MB, 1 porta TCP su localhost</td><td>-</td></tr>
     <tr><td><b>memcached</b></td><td>(8+dimensione cache) MB</td><td>uWSGI daemon</td></tr>
