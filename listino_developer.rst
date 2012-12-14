@@ -6,6 +6,7 @@ Listino Developer
 Tutte le offerte developer comprendono:
 
  - 1 Puntamento DNS
+ - Gestione DNS dinamici
  - Accesso SSH
  - Controllo del proprio account via interfaccia web e api REST
  - Gestione Processi via web/api (con invio di segnali UNIX/Posix)
