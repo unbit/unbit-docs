@@ -9,7 +9,7 @@ Informazioni tecniche di base
    Un link simbolico **/proc/unbit** punta sempre alla tua home
 
 .. parsed-literal::
-   Ogni account puo' fare il binding sulla porta corrispondente al suo uid sugli indirizzi da **127.0.0.2** a **127.0.0.255**
+   Ogni account puo' fare il binding sulla porta TCP/UDP corrispondente al suo uid sugli indirizzi da **127.0.0.2** a **127.0.0.255**
 
 .. parsed-literal::
    Ogni account puo' fare il binding sulla rete lan Unbit (per il clustering) sulla porta corrispondente al suo uid sugli indirizzi
