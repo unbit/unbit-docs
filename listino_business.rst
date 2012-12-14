@@ -1,5 +1,10 @@
 Listino Business
 =================
+
+Le offerte di tipo Business danno priorita' ai servizi accessori di Unbit (email, registrazione domini) e offrono piu' spazio disco
+rispetto alla dimensione del container. Se si intende acquistare un servizio piu' vicino all'hosting classico, questa e' probabilmente la migliore
+scelta.
+
    
 **Tutte le offerte business comprendono:**
 
@@ -7,10 +12,10 @@ Listino Business
  - WebMail per consultare via web (in HTTPS) le proprie caselle di posta
  - Gestione granulare degli accessi FTP
  - Gestione accessi alle statistiche web
- - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
+ - Controllo del proprio account via interfaccia web e api REST
  - Gestione DNS dinamici
  - Gestione Processi via web (con invio di segnali UNIX/Posix)
- - Accesso SSH (necessari almeno 6 processi o un container per l'utilizzo)
+ - Accesso SSH
  - Servizio SMTP locale per invio mail da applicazioni web (max 100 mail per 5 minuti)
  - `Gateway mailbox2webapp <http://wiki.unbit.it/HowtoMail2WebApp>`_ per richiamare applicazioni web alla ricezione di una mail
  - Assistenza via email sulle tecnologie supportate e sulle configurazioni di base
@@ -22,34 +27,28 @@ Listino Business
    - `metodi di pagamento </metodi_pagamento>`_               
    - `riepilogo servizi e limiti </limits>`_    
 
-BUSINESS 1.0
+BUSINESS 1.1
 *************
 
-*Offerta base per le aziende. Molto utile come pacchetto iniziale per futuri upgrade.*
-
- - **2** sottodomini
  - **2** Giga di spazio disco
- - **6** processi da 64MB di address space
- - **20** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **1** database condiviso MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
- - **20** accessi smtp
+ - **1** Container da 80 MB
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **1** database condiviso MySQL
+ - **10** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **91,00 € annui**         
+   **99,00 € annui**         
 
-BUSINESS 2.0
+BUSINESS 2.1
 *************
 
-*Per chi ha necessita' di accesso ssh ma non di risorse aggiuntive.*
 
- - **2** sottodomini
- - **3** Giga di spazio disco
- - **6** processi da 64MB di address space
- - **6** processi da 48MB di address space (consigliati per cron e ssh)
+ - **4** Giga di spazio disco
+ - **1** Container da 80 MB
  - **30** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **2** database condiviso MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
+ - **1** database condiviso MySQL
  - **30** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
@@ -57,38 +56,28 @@ BUSINESS 2.0
 .. parsed-literal::
    **176,00 € annui**
 
-BUSINESS 3.0
+BUSINESS 3.1
 *************
 
-*Include banda minima garantita 64Kbit/s*
-
-- **5** sottodomini
-- **4** Giga di spazio disco
-- **6** processi da 64MB di address space
-- **6** processi da 48MB di address space (consigliati per cron e ssh)
+- **10** Giga di spazio disco
+- **1** Container da 80 MB
 - **40** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **2** database condivisi MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
+- **1** database condiviso MySQL
 - **40** accessi smtp
-- **Banda minima garantita 64Kbit/s**
 
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
    **240,00 € annui**
 
-BUSINESS 4.0
+BUSINESS 4.1
 *************
 
-*Include banda minima garantita 128Kbit/s*
-
-- **5** sottodomini
-- **4** Giga di spazio disco
-- **6** processi da 64MB di address space
-- **6** processi da 48MB di address space (consigliati per cron e ssh)
-- **40** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
-- **2** database condivisi MySQL/PostgreSQL (specificare quale dei due in fase di richiesta attivazione)
-- **40** accessi smtp
-- **Banda minima garantita 128Kbit/s**
+- **30** Giga di spazio disco
+- **1** Container da 80 MB
+- **80** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+- **1** database condiviso MySQL
+- **80** accessi smtp
 
 `Riepilogo servizi e limiti </limits>`_
 
