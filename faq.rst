@@ -4,7 +4,7 @@ FAQ
 
 Questa sezione riporta le domande piu' frequenti riguardo gli aspetti meno "tecnici" dell'infrastruttura. In particolare
 sui servizi secondari come email e registrazioni domini. Per tutte le informazioni tecniche, la sezione di riferimento
-e' quella degli `Howto </houto>`_
+e' quella degli `Howto </howto>`_
 
 - **Cos'è Unbit?**
 
