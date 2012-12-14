@@ -8,13 +8,13 @@ da pannello o via mail e **SENZA** inviare un nuovo contratto). Un nuovo contrat
 richieda la **registrazione/trasferimento di un dominio**.
 
 
-`LISTINO CONTAINER </listino_container>`_
+`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori) 
 
 
-`LISTINO DEVELOPER </listino_developer>`_
+`LISTINO DEVELOPER </listino_developer>`_ (offerte per solo deployment)
 
 
-`LISTINO BUSINESS </listino_business>`_
+`LISTINO BUSINESS </listino_business>`_ (offerte con priorita' sui servizi accessori, piu' vicine all'hosting classico)
 
 -------------------
 Servizi Aggiuntivi
