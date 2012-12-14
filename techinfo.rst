@@ -42,7 +42,8 @@ Informazioni tecniche di base
    Non puoi accedere ai database server condivisi direttamente da remoto (usa i tunnel ssh)
 
 .. parsed-literal::
-   Se devi effettuare transazioni FTP dalla tua applicazione (ma devi proprio), puoi utilizzare il proxy squid in ascolto sull'indirizzo 192.168.0.19 porta 80
+   Se devi effettuare transazioni FTP dalla tua applicazione (ma devi proprio), puoi utilizzare il proxy squid in ascolto
+   sull'indirizzo 192.168.0.19 porta 80
  
 .. parsed-literal::
    Ogni applicazione gira con i privilegi dell'utente, quindi non modificare i permessi (a meno che tu non abbia un buon motivo) che devono essere **640** per i file e **750** per le directory
