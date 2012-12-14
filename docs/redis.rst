@@ -25,6 +25,7 @@ Per entrambe le soluzioni è necessario usare uWSGI versione 1.4 o superiore.
 Nel file ``uwsgi.ini`` aggiungi questa riga:
 
 .. code-block:: ini
+
     attach-daemon = /opt/unbit/redis2417/bin/redis-server /proc/unbit/db.redis/redis.conf
 
 "Smart" mode
@@ -33,6 +34,7 @@ Nel file ``uwsgi.ini`` aggiungi questa riga:
 Nel file ``uwsgi.ini`` aggiungi questa riga:
 
 .. code-block:: ini
+
     smart-attach-daemon = /proc/unbit/db.redis/redis.pid /opt/unbit/redis2417/bin/redis-server /proc/unbit/db.redis/redis.conf
 
 e nel file ``redis.conf`` modifica questo per rendere redis un demone indipendente:
