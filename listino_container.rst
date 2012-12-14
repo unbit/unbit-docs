@@ -30,7 +30,7 @@ CONTAINER-80
  - **1** Giga di spazio disco
  - **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **4** accessi smtp
- - **1** database MySQL
+ - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -45,7 +45,7 @@ CONTAINER-120
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **6** accessi smtp
- - **1** database MySQL
+ - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -60,7 +60,7 @@ CONTAINER-160
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **6** accessi smtp
- - **1** database MySQL
+ - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
 
