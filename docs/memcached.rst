@@ -16,7 +16,7 @@ Avvio del'istanza
 
 Per avviare l'istanza avrai due opzioni. Nella prima memcached rimarrà in esecuzione soltanto fin quando sarà in esecuzione l'istanza di uWSGI che lo ha lanciato, svuotando così la cache ad ogni riavvio dell'applicazione, mentre nella seconda questo continuerà a funzionare anche quando uWSGI verrà fermato.
 
-*NOTA* Per entrambe le soluzioni è necessario usare uWSGI versione 1.4 o superiore.
+**NOTA** Per entrambe le soluzioni è necessario usare uWSGI versione 1.4 o superiore.
 
 "Dumb" mode
 -----------
@@ -39,6 +39,10 @@ Nel file ``uwsgi.ini`` aggiungi questa riga:
     smart-attach-daemon = /proc/unbit/tmp/memcached.pid memcached -m 64 -l 127.0.0.2 -p **UID** -U 0 -d -P /proc/unbit/tmp/memcached.pid
 
 dove **UID** corrisponde all'uid del tuo account.
+
+Unix Socket
+-----------
+Per utilizzare soltanto i socket unix per comunicare con memcached è sufficiente sostituire, per entrambe le configurazioni viste sopra, ``-l 127.0.0.2`` e ``-U 0`` con ``-s /proc/unbit/tmp/memcached.sock``
 
 A questo punto sei pronto per avviarlo, impostando il campo **upstream_cmd** del pannello di controllo a questo valore:
 
