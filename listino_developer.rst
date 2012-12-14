@@ -8,6 +8,7 @@ Tutte le offerte developer comprendono:
  - 1 Puntamento DNS
  - Gestione DNS dinamici
  - Accesso SSH
+ - Supporto Cron (via uWSGI o cron daemon)
  - Controllo del proprio account via interfaccia web e api REST
  - Gestione Processi via web/api (con invio di segnali UNIX/Posix)
  - Servizio SMTP locale per invio email dalle applicazioni (max 100 email ogni 5 minuti)
