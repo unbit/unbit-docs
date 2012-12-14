@@ -17,7 +17,7 @@ scelta.
  - Gestione Processi via web (con invio di segnali UNIX/Posix)
  - Accesso SSH
  - Servizio SMTP locale per invio mail da applicazioni web (max 100 mail per 5 minuti)
- - `Gateway mailbox2webapp <http://wiki.unbit.it/HowtoMail2WebApp>`_ per richiamare applicazioni web alla ricezione di una mail
+ - `Gateway mailbox2webapp </howtomail2webapp>`_ per richiamare applicazioni web alla ricezione di una mail
  - Assistenza via email sulle tecnologie supportate e sulle configurazioni di base
 
 .. parsed-literal::
