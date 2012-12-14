@@ -9,7 +9,7 @@ Per installarlo nel tuo account puoi usare come base i file di configurazione uf
 Configurazione
 --------------
 
-Le direttive da personalizzare saranno quelle sull'utilizzo della memoria, a seconda delle dimensioni del tuo container, e quelle per il bind che può essere effettuato su socket unix o su una delle interfacce locali tre 127.0.0.2 e 255 , sulla porta corrispondente allo uid del tuo accountcorrispondente allo uid del tuo account..
+Le direttive da personalizzare saranno quelle sull'utilizzo della memoria, a seconda delle dimensioni del tuo container, e quelle per il bind che può essere effettuato su socket unix o su una delle interfacce locali tre 127.0.0.2 e 255 , sulla porta corrispondente allo uid del tuo account.
 
 Se vuoi creare un cluster su più account puoi sfruttare una delle interfacce in ascolto sulla rete interna di Unbit: da 192.168.240.x a 192.168.253.x (dove x dipende dal server).
 
