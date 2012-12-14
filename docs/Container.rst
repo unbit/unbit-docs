@@ -3,13 +3,13 @@ I Container Unbit
 
 Un Container e' costituito da una quantita' limitata (generalmente tra gli 80MB e i 2GB) di memoria fisica gestita tramite i control groups (cgroups) di Linux e alcuni namespace.
 
-Un namespace e' una risorsa dedicata al Container non ereditata dal sistema principale.
+Un namespace e' una risorsa dedicata al Container non ereditata dal sistema principale (e quindi non condivisa con gli utenti del sistema).
 
 Ogni container ha le seguenti caratteristiche slegate dal sistema:
 
-uts (hostname, machine...)
+ - uts (hostname, machine...)
 
-ipc (shared memory, semafori, code posix...)
+ - ipc (shared memory, semafori, code posix...)
 
 Per quanto riguarda la cpu, ogni container ha la stessa quota (generalmente viene garantito l'1% a carico massimo), e non e' possibile modificarla proprio per evitare che un utente ne possa danneggiare un altro.
 
