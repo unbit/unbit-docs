@@ -4,7 +4,7 @@ Listino Container
 Tutte le offerte container comprendono:
 
  - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
- - Controllo del proprio account via interfaccia web e api REST/XML-RPC/SOAP
+ - Controllo del proprio account via interfaccia web e api REST
  - Gestione Processi via web/api (con invio di segnali UNIX/Posix)
  - Accesso SSH
  - Supporto Cron (via uWSGI o cron daemon)
