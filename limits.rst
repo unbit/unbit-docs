@@ -5,6 +5,8 @@ Riepilogo servizi e limiti
 `clicca qui per una rapida introduzione alla gestione delle risorse <http://wiki.unbit.it/Risorse>`_
 
 
+dimensione container, spazio disco, registrazione dominio, sottodomini, mailbox, accessi smtp, database condivisi
+
 +---------------------+--------------+-----------+-------------+----------------------+----------+--------------+--------------------+
 |                     | spazio disco |  mailbox  | sottodomini | processi             | tcp port | accessi smtp | database condivisi |
 +---------------------+--------------+-----------+-------------+----------------------+----------+--------------+--------------------+
