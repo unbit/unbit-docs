@@ -33,3 +33,5 @@ Email e servizi collegati
  - `HowToSPF </docs/howtospf>`_ (Sender Policy Framework)
 
  - `HowToJabber </docs/howtojabber>`_ (Configurare Jabber con la mailbox di Unbit)
+ 
+ - `HowToMail2WebApp </docs/howtomail2webapp>`_ (Associare uno script web a una mailbox)
