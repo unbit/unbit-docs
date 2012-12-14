@@ -12,7 +12,7 @@ Informazioni tecniche di base
    Ogni account puo' fare il binding sulla porta TCP/UDP corrispondente al suo uid sugli indirizzi da **127.0.0.2** a **127.0.0.255**
 
 .. parsed-literal::
-   Ogni account puo' fare il binding sulla rete lan Unbit (per il clustering) sulla porta corrispondente al suo uid sugli indirizzi
+   Ogni account puo' fare il binding sulla rete lan Unbit (per il clustering) sulla porta TCP/UDP corrispondente al suo uid sugli indirizzi
    da **192.168.240.x** a **192.168.243.x** (il valore di x e' dipendente dal webserver)
  
 .. parsed-literal::
