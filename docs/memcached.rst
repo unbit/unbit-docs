@@ -2,7 +2,7 @@
 Memcached
 ---------
 
-Memcached è un demone pensato per alleviare il carico sul database per applicazioni web dinamiche.
+Memcached è un demone pensato per alleviare il carico sul database per applicazioni web dinamiche. Ed è open source, quindi ovviamente gira su Unbit!
 
 Configurazione
 --------------
