@@ -15,6 +15,7 @@ Per prima cosa crea la directory dove risiederanno i database:
 Puoi usare come base questo file di configurazione, da salvare col nome ``~/db.couch/couch.ini``:
 
 .. code-block:: ini
+
     [couchdb]
     database_dir = /proc/unbit/db.couch/data
     view_index_dir = /proc/unbit/db.couch/data
