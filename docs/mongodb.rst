@@ -36,7 +36,7 @@ Ricordiamo che il bind può essere effettuato su socket unix o su una delle inte
 
 Le ultime 3 opzioni del file di configurazione sono necessarie soltanto se hai bisogno della persistenza dei dati. Se questa non è importante è raccomandabile non inserirle per avere performance migliori.
 
-Avvio del'istanza
+Avvio dell'istanza
 -----------------
 
 Per avviare l'istanza avrai due opzioni. Nella prima mongodb rimarrà in esecuzione soltanto fin quando sarà in esecuzione l'istanza di uWSGI che lo ha lanciato, mentre nella seconda questo continuerà a funzionare anche quando uWSGI verrà fermato.
