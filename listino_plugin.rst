@@ -32,6 +32,14 @@ CONTAINER
 .. parsed-literal::
    **90,00 € annui**
 
+REGISTRAZIONE/TRASFERIMENTO DOMINIO
+***********************************
+
+- Registrazione/Trasferimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (verifica altre estensioni e *condizioni)
+
+.. parsed-literal::
+   **14,00 € annui**
+
 PUNTAMENTO DNS
 **************
 
