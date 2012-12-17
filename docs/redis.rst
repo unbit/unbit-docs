@@ -2,7 +2,7 @@
 Redis
 -----
 
-Redis è un avanzato database che utilizza lo schema chiave-valore.
+Redis è un in-memory key-value store
 
 Per installarlo nel tuo account puoi usare come base i file di configurazione ufficiali per `Redis 2.4`_ e `Redis 2.6`_, da copiare in ``~/db.redis/redis.conf``.
 
@@ -13,8 +13,8 @@ Le direttive da personalizzare saranno quelle sull'utilizzo della memoria, a sec
 
 Se vuoi creare un cluster su più account puoi sfruttare una delle interfacce in ascolto sulla rete interna di Unbit: da 192.168.240.x a 192.168.253.x (dove x dipende dal server).
 
-Avvio dell'istanza
------------------
+Avvio dell'istanza come demone collegato a un'applicazione
+----------------------------------------------------------
 
 Per avviare l'istanza avrai due opzioni. Nella prima il server di redis rimarrà in esecuzione soltanto fin quando sarà in esecuzione l'istanza di uWSGI che lo ha lanciato, mentre nella seconda questo continuerà a funzionare anche quando uWSGI verrà riavviato.
 Per entrambe le soluzioni è necessario usare uWSGI versione 1.4 o superiore.
