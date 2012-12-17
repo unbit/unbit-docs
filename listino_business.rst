@@ -8,7 +8,7 @@ scelta.
    
 **Tutte le offerte business comprendono:**
 
- - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name, .info, .biz, .nl (`verifica altre estensioni e condizioni </listino_estensioni>`_)
+ - Registrazione e mantenimento dominio .com, .it, .net, .org, .eu, .info, .biz (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it )
  - WebMail per consultare via web (in HTTPS) le proprie caselle di posta
  - Gestione granulare degli accessi FTP
  - Gestione accessi alle statistiche web
