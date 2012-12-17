@@ -35,7 +35,7 @@ CONTAINER
 REGISTRAZIONE/TRASFERIMENTO DOMINIO
 ***********************************
 
-- Registrazione/Trasferimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (verifica altre estensioni e *condizioni)
+- Registrazione/Trasferimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
 
 .. parsed-literal::
    **14,00 € annui**
