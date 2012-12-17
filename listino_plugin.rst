@@ -79,7 +79,7 @@ MAILBOX POP3 / IMAP4
 DATABASE CONDIVISI (solo MySQL)
 *******************************
 
-- 1 account aggiuntivo (incluso 1 database) MySql o PostgreSQL
+- 1 account aggiuntivo (incluso 1 database) MySql
 
 .. parsed-literal::
    **22,00 € annui**
