@@ -39,8 +39,8 @@ Ricordiamo che il bind può essere effettuato su socket unix o su una delle inte
 
 **NOTA** Appena couchdb viene avviato la password specificata nella sezione ``[admins]`` della configurazione viene crittata automaticamente.
 
-Avvio dell'istanza
------------------
+Avvio dell'istanza come demone aggiuntivo di un'applicazione
+------------------------------------------------------------
 
 Per avviare l'istanza avrai due opzioni. Nella prima couchdb rimarrà in esecuzione soltanto fin quando sarà in esecuzione l'istanza di uWSGI che lo ha lanciato, mentre nella seconda questo continuerà a funzionare anche quando uWSGI verrà fermato.
 
