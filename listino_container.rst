@@ -55,7 +55,7 @@ CONTAINER-120
 CONTAINER-160
 *************
 
- - **120** MB `container </Container>`_
+ - **160** MB `container </Container>`_
  - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
