@@ -2,7 +2,7 @@
 GIT
 ---
 
-È possibile sfruttare il sistema di controllo delle versioni *git* [1]_ controllandolo via ssh [2]_ .
+È possibile sfruttare il sistema di controllo delle versioni `git <http://git-scm.com>`_ controllandolo via `ssh </docs/ssh>`_ .
 Di seguito presentiamo una breve guida per iniziare con *git*. Il prompt **local$** indica un comando da eseguire sul computer locale, mentre **unbit$** segnala che il comando è da inviare al server unbit via ssh.
 
 Per prima cosa dovrai creare un repository vuoto:
@@ -41,5 +41,3 @@ Per farlo ti basterà modificare la stringa della chiave relativa nel campo **Ch
 
 In questo modo l'utente che tenterà di accedere con quella specifica chiave avrà accesso soltanto ai repository git mentre gli verrà rifiutato l'accesso alla shell di sistema.
 
-.. [1] http://git-scm.com/
-.. [2] http://test2.unbit.it/docs/ssh
