@@ -48,4 +48,8 @@ Le opzioni piu' importanti sono **upstream** (ovviamente) che abilita il motore,
 **Attendi 30 secondi**, e se tutto e' andato come previsto, il sistema eseguira' qualsiasi script php caricato nella docroot. Per caricare file nel tuo account puoi usare `SSH/SFTP </docs/ssh>`_ ma e' possibile configurare accessi `FTP/FTP-SSL </docs/howtoftp>`_. Ti ricordiamo che il protocollo FTP (non FTP-SSL) trasferisce le tue credenziali in chiaro, quindi e' altamente insicuro. Se il tuo client FTP non supporta l'SSL evita
 almeno di salvare le password (specialmente se usi sistemi Windows)
 
+E ora ?
+=======
+
+Procedi alla sezione `Howto </howto>`_
 
