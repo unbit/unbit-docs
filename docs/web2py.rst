@@ -1,1 +1,2 @@
-howto in preparazione
+Deploy di applicazioni Web2py
+=============================
