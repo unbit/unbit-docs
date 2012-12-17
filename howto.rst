@@ -15,6 +15,34 @@ Base
  - `HowToFtp </docs/howtoftp>`_ (Gestione accessi FTP/FTPS) 
 
 
+Tecnologie supportate
+*********************
+
+ - `PHP </docs/php>`_ (Istruzioni per il deploy)
+ 
+ - `Django </docs/Django>`_ (Istruzioni per il deploy)
+ 
+ - `Plone </docs/Plone>`_ (Istruzioni per il deploy)
+ 
+ - `Rails </docs/Rails3>`_ (Istruzioni per il deploy)
+ 
+ - `CouchDB </docs/couchdb>`_ (Installazione di un'istanza personalizzata)
+ 
+ - `GIT </docs/git>`_ (Uso del distributed version control system)
+ 
+ - `MariaDB </docs/mariadb>`_ (Installazione di un'stanza personalizzata)
+ 
+ - `Memcached </docs/memcached>`_ (Installazione di un'istanza personalizzata)
+ 
+ - `MongoDB </docs/mongodb>`_ (Installazione di un'istanza personalizzata)
+ 
+ - `MySQL </docs/mysql>`_ (Installazione di un'istanza personalizzata)
+ 
+ - `PostgreSQL </docs/postgresql>`_ (Installazione di un'istanza personalizzata)
+
+ - `Redis </docs/Redis>`_ (Installazione di un'istanza personalizzata)
+
+
 Email e servizi collegati
 *************************
 
