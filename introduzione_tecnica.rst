@@ -4,7 +4,7 @@ Primo Contatto
 Una volta inviato il contratto e completata la procedura di attivazione riceverai le tue credenziali
 per il pannello di controllo.
 
-Il pannello e' un client per la nostra Api, quindi **ricorda sempre che potrai automatizzare le varie operazioni**.
+Il pannello e' un client per la nostra `api </api>`_, quindi **ricorda sempre che potrai automatizzare le varie operazioni**.
 
 
 Dopo il login, la prima sezione disponibile sara' quella con le informazioni dell'account.
