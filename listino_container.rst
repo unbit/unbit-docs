@@ -3,7 +3,7 @@ Listino Container
 
 Tutte le offerte container comprendono:
 
- - Registrazione e mantenimento dominio .com, .it, .net, .org, .de, .name*, .info, .biz, .nl* (`verifica altre estensioni e *condizioni </listino_estensioni_domini>`_)
+ - Registrazione e mantenimento dominio .com, .it, .net, .org, .eu, .info, .biz, (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it )
  - Controllo del proprio account via interfaccia web e api REST
  - Gestione Processi via web/api (con invio di segnali UNIX/Posix)
  - Accesso SSH
