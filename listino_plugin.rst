@@ -35,7 +35,7 @@ CONTAINER
 REGISTRAZIONE/TRASFERIMENTO DOMINIO
 ***********************************
 
-- Registrazione/Trasferimento dominio .com, .it, .net, .org, .eu, .info, .biz, .de (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it ) compresa gestione DNS
+- Registrazione/Trasferimento dominio .com, .it, .net, .org, .eu, .info, .biz (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it ) compresa gestione DNS
 
 .. parsed-literal::
    **14,00 € annui**
