@@ -36,7 +36,7 @@ Ricordiamo che il bind può essere effettuato su socket unix o su una delle inte
 
 Le ultime 3 opzioni del file di configurazione sono necessarie soltanto se hai bisogno di un sistema di journaling (rende piu' affidabile l'istanza in caso di crash). Se questa non è importante è raccomandabile non inserirle per avere performance migliori.
 
-Avvio dell'istanza come demone aggiuntivo di un applicazione
+Avvio dell'istanza come demone aggiuntivo di un'applicazione
 ------------------------------------------------------------
 
 Per avviare l'istanza avrai due opzioni. Nella prima mongodb rimarrà in esecuzione soltanto fin quando sarà in esecuzione l'istanza di uWSGI che lo ha lanciato, mentre nella seconda questo continuerà a funzionare anche quando uWSGI verrà fermato.
