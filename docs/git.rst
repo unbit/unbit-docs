@@ -41,5 +41,3 @@ Per farlo ti basterà modificare la stringa della chiave relativa nel campo **Ch
 
 In questo modo l'utente che tenterà di accedere con quella specifica chiave avrà accesso soltanto ai repository git mentre gli verrà rifiutato l'accesso alla shell di sistema.
 
-.. [1] http://git-scm.com/
-.. [2] http://test2.unbit.it/docs/ssh
