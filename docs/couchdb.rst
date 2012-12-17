@@ -2,7 +2,8 @@
 CouchDB
 =======
 
-CouchDB è un database non relazionale pensato espressamente per il web. Ed è open source, quindi ovviamente gira su Unbit!
+CouchDB è un database non relazionale basato su documenti. Si controlla via protocollo HTTP e fornisce una comoda interfaccia web.
+E' scritto in Erlang.
 
 Configurazione
 --------------
@@ -12,11 +13,14 @@ Per prima cosa crea la directory dove risiederanno i database:
 .. parsed-literal::
     mkdir -p ~/db.couch/data
 
-Puoi usare come base questo file di configurazione, da salvare col nome ``~/db.couch/couch.ini``:
+Sara' poi necessario creare un file di configurazione.
+
+Puoi usare come base questo file ini, da salvare col nome ``~/db.couch/couch.ini``:
 
 .. code-block:: ini
 
     [couchdb]
+    ; /proc/unbit punta sempre alla propria home
     database_dir = /proc/unbit/db.couch/data
     view_index_dir = /proc/unbit/db.couch/data
     uri_file = /proc/unbit/db.couch/couch.uri
