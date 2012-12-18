@@ -1,7 +1,10 @@
 Contattare l'assistenza Unbit
 =============================
 
-Tutte le richieste di assistenza possono essere effettuate via mail all'indirizzo info@unbit.it
+Tutte le richieste di assistenza possono essere effettuate via mail all'indirizzo 
+
+.. parsed-literal::
+  info@unbit.it
 
 Per velocizzare la procedura dovresti sempre includere il nome dell'account nel subject della mail.
 
@@ -20,13 +23,17 @@ Se hai bisogno di una copertura piu' ampia ti preghiamo di contattarci per stipu
 
 In caso di emergenza (o semplicemente per sollecitare una risposta a una mail gia' inviata) e' possibile inviare un sms al numero
 
-**3456208774**
+.. parsed-literal::
+   **3456208774**
 
 Nel messaggio e' obbligatorio riportare il nome dell'account altrimenti sara' ignorato
 
 Se non ottieni risposta a una tua richiesta entro 8 ore di preghiamo di reinviarla.
 
-Per contattare l'amministrazione in merito a fatture, pagamenti, insoluti ecc. ecc. l'indirizzo di riferimento e' amministrazione@unbit.it
+Per contattare l'amministrazione in merito a fatture, pagamenti, insoluti ecc. ecc. l'indirizzo di riferimento e'
+
+.. parsed-literal::
+   amministrazione@unbit.it
 
 Ti ricordiamo che il numero di telefono riportato in fattura e' della sede commerciale di Torino, quindi e' inutile contattarlo
 per problematiche tecniche o amministrative, e soprattutto e' inutile insistere :)
