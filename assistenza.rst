@@ -26,6 +26,8 @@ In caso di emergenza (o semplicemente per sollecitare una risposta a una mail gi
 .. parsed-literal::
    **3456208774**
 
+**ATTENZIONE**: il numero telefonico è abilitato a ricevere **soltanto sms**
+
 Nel messaggio e' obbligatorio riportare il nome dell'account altrimenti sara' ignorato
 
 Se non ottieni risposta a una tua richiesta entro 8 ore di preghiamo di reinviarla.
