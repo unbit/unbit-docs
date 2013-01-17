@@ -94,4 +94,4 @@ Informazioni tecniche di base
 
 .. parsed-literal::
    Fare caching su disco e' inutile (e spesso dannoso), il tuo account Unbit ha molte piu' risorse CPU che I/O. Usa la memoria per il caching.
-   Soluzioni come **mecached** o **redis** sono perfette. Fare caching su db e' INUTILE.
+   Soluzioni come **memcached** o **redis** sono perfette. Fare caching su db e' INUTILE.
