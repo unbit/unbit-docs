@@ -16,4 +16,6 @@ Sul vostro client di posta va aggiunto un nuovo SMTP inserendo come dati:
 
 - **TLS o SSL** come connessione sicura dell'smtp
 
+- **Porta**: 465
+
 **Ricordate che l'accesso smtp è utilizzabile solo da un indirizzo, non è possibile associarlo ad indirizzi diversi dallo username che avete scelto**
