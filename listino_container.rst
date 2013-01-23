@@ -25,7 +25,7 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
 CONTAINER-80
 ************
 
- - **80** MB `container </Container>`_
+ - **80** MB `container </docs/Container>`_
  - **1** sottodominio
  - **1** Giga di spazio disco
  - **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -40,7 +40,7 @@ CONTAINER-80
 CONTAINER-120
 *************
 
- - **120** MB `container </Container>`_
+ - **120** MB `container </docs/Container>`_
  - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -55,7 +55,7 @@ CONTAINER-120
 CONTAINER-160
 *************
 
- - **160** MB `container </Container>`_
+ - **160** MB `container </docs/Container>`_
  - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -71,7 +71,7 @@ CONTAINER-160
 CONTAINER-200
 *************
 
- - **200** MB `container </Container>`_
+ - **200** MB `container </docs/Container>`_
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -86,7 +86,7 @@ CONTAINER-200
 CONTAINER-300
 *************
 
- - **300** MB `container </Container>`_
+ - **300** MB `container </docs/Container>`_
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -100,7 +100,7 @@ CONTAINER-300
 CONTAINER-400
 *************
 
- - **400** MB `container </Container>`_
+ - **400** MB `container </docs/Container>`_
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -114,7 +114,7 @@ CONTAINER-400
 CONTAINER-500
 *************
 
- - **500** MB `container </Container>`_
+ - **500** MB `container </docs/Container>`_
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -129,7 +129,7 @@ CONTAINER-500
 CONTAINER-600
 *************
 
- - **600** MB `container </Container>`_
+ - **600** MB `container </docs/Container>`_
  - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -144,7 +144,7 @@ CONTAINER-600
 CONTAINER-700
 *************
 
- - **700** MB `container </Container>`_
+ - **700** MB `container </docs/Container>`_
  - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
@@ -159,7 +159,7 @@ CONTAINER-700
 CONTAINER-800
 *************
 
- - **800** MB `container </Container>`_
+ - **800** MB `container </docs/Container>`_
  - **8** sottodomini
  - **10** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
