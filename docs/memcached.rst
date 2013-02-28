@@ -36,13 +36,13 @@ Nel file ``uwsgi.ini`` aggiungi questa riga:
 
 .. code-block:: ini
 
-    smart-attach-daemon = /proc/unbit/tmp/memcached.pid memcached -m 64 -l 127.0.0.2 -p **UID** -U 0 -d -P /proc/unbit/tmp/memcached.pid
+    smart-attach-daemon = /proc/unbit/pids/memcached.pid memcached -m 64 -l 127.0.0.2 -p **UID** -U 0 -d -P /proc/unbit/pids/memcached.pid
 
 dove **UID** corrisponde all'uid del tuo account.
 
 Unix Socket
 -----------
-Per utilizzare soltanto i socket unix per comunicare con memcached è sufficiente sostituire, per entrambe le configurazioni viste sopra, ``-l 127.0.0.2`` e ``-U 0`` con ``-s /proc/unbit/tmp/memcached.sock``
+Per utilizzare soltanto i socket unix per comunicare con memcached è sufficiente sostituire, per entrambe le configurazioni viste sopra, ``-l 127.0.0.2`` e ``-U 0`` con ``-s /proc/unbit/sockets/memcached.sock``
 
 A questo punto sei pronto per avviarlo, impostando il campo **upstream_cmd** del pannello di controllo a questo valore:
 
