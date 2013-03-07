@@ -108,4 +108,21 @@ e ricorda di specificare sempre il file ``php.ini`` nella docroot del dominio pe
 .. parsed-literal::
     php-cgi -c ~/www/example.com/php.ini
 
+PEAR
+----
+
+Per utilizzare i moduli PEAR va configurato l'ambiente da riga di comando. Ecco qualche riga per configurare le directory predefinite:
+
+.. parsed-literal::
+
+    pear config-set php_dir /proc/unbit/share/pear
+    pear config-set doc_dir /proc/unbit/lib/php/doc
+    pear config-set test_dir /proc/unbit/lib/php/test
+
+Fatto questo le estensioni potranno essere installate semplicemente con:
+
+.. parsed-literal::
+    
+    pear install NomeEstensione
+
 .. [1] https://github.com/unbit/uwsgi-docs
