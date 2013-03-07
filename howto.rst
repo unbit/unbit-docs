@@ -42,6 +42,8 @@ Tecnologie supportate
 
  - `Redis </docs/Redis>`_ (Installazione di un'istanza personalizzata)
 
+ - `Solr </docs/Solr>`_ (Installazione di un'istanza personalizzata)
+
 
 Email e servizi collegati
 *************************
