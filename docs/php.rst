@@ -115,6 +115,7 @@ Per utilizzare i moduli PEAR va configurato l'ambiente da riga di comando. Ecco 
 
 .. parsed-literal::
 
+    pear config-set bin_dir /opt/unbit/php547/bin
     pear config-set php_dir /proc/unbit/share/pear
     pear config-set doc_dir /proc/unbit/lib/php/doc
     pear config-set test_dir /proc/unbit/lib/php/test
