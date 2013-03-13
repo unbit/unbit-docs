@@ -79,3 +79,51 @@ Potrai anche riavviare autonomamente il server, i nostri sistemi si occuperanno 
 .. parsed-literal::
     mysqladmin -S ~/db.mysql/mysqld.sock -u root -p shutdown
 
+**Raccomandato** Esegui un backup periodico dei tuoi database.
+Puoi utilizzare lo script incluso qui sotto per farlo:
+
+.. code-block:: perl
+
+    #!/usr/bin/env perl
+
+    use strict;
+    use warnings;
+    use DBI ;
+    use DateTime ;
+
+    ######### Configura il backup
+    #
+    my %cfg = (
+            username  => 'root',                             # Utente amministratore
+            password  => '',                                 # Password per l'utente root
+            'socket'  => '/proc/unbit/db.mysql/mysqld.sock', # Percorso del socket
+            version   => '5523',                             # Versione del server mysql in uso
+            mycnf     => '/proc/unbit/my.cnf',               # Percorso del file my.cnf
+            backupDir => '/proc/unbit/backup_mysql/',        # Directory dove salvare i backup (slash finale importante)
+    );
+
+    ######### Cambia qui sotto solo se sai cosa stai facendo
+    #
+    my $binDir = "/opt/unbit/mysql" . $cfg{'version'} . "/bin/";
+    #
+    umask 0027;
+
+    ######### Non cambiare qui sotto
+
+    mkdir $cfg{'backupDir'} unless -d $cfg{'backupDir'};
+
+    my $dbh = DBI->connect( "dbi:mysql:database=mysql;mysql_socket=" . $cfg{'socket'}, $cfg{'username'}, $cfg{'password'} );
+    my $sth = $dbh->prepare( "SHOW DATABASES" );
+
+    if ( $sth->execute >=1 ) {
+            my $dt = DateTime->now;
+            my $day =  $dt->day_of_month;
+            while( my $row = $sth->fetchrow_hashref ) {
+                    my $db = $row->{Database};
+                    next if $db eq 'information_schema';
+                    next if $db eq 'performance_schema';
+                    mkdir $cfg{'backupDir'} . $db unless -d $cfg{'backupDir'} . $db;
+                    my $cmd = $binDir . "mysqldump --defaults-file=" . $cfg{'mycnf'} . " -u " . $cfg{'username'} . " -p". $cfg{'password'} . " " . $db . " | bzip2 -9 > " . $cfg{'backupDir'} . $db . "/" . $day . ".bz2";
+                    system ( $cmd );
+            }
+    }
