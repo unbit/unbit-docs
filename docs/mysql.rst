@@ -79,6 +79,9 @@ Potrai anche riavviare autonomamente il server, i nostri sistemi si occuperanno 
 .. parsed-literal::
     mysqladmin -S ~/db.mysql/mysqld.sock -u root -p shutdown
 
+Backup
+------
+
 **Raccomandato** Esegui un backup periodico dei tuoi database.
 Puoi utilizzare lo script incluso qui sotto per farlo:
 
