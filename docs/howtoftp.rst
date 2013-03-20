@@ -36,7 +36,7 @@ e ricavare la chiave pubblica nel formato RFC4716:
 
 .. parsed-literal::
 
-    ssh-keygen -e -f ~/.ssh/unbit
+    ssh-keygen -e -f ~/.ssh/unbit.pub
 
 L'output di questo comando è quello che vorrai inserire nel campo **sftp keys**
 
