@@ -23,7 +23,7 @@ Per la tua istanza puoi usare come base questo file di configurazione, da salvar
 .. parsed-literal::
     listen_addresses = ''           
     max_connections = 10
-    unix_socket_directory = '~/db.pg'
+    unix_socket_directory = '/proc/unbit/db.pg'
     shared_buffers = 16MB
     work_mem = 8MB
     datestyle = 'iso, dmy'
