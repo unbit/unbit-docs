@@ -56,7 +56,7 @@ Configurare il dominio (Apache)
 
 Sul pannello di controllo assegnate il container al dominio per visualizzare le opzioni UPSTREAM.
 
-Settate la docroot in una directory (all'intrno di /www) che conterra' i vostri file statici. Puo' anche essere una directory vuota, l'importante e' che esista.
+Settate la docroot in una directory (all'interno di /www) che conterra' i vostri file statici. Puo' anche essere una directory vuota, l'importante e' che esista.
 
 Abilitate il checkbox **upstream** e impostate **upstream_cmd** a 
 
