@@ -9,12 +9,12 @@ Di norma l'istanza viene installata nella directory ``~/db.pg`` , ascolterà su 
 Per prima cosa dovrai inizializzare l'istanza con questo comando:
 
 .. parsed-literal::
-    /opt/unbit/postgresql921/bin/initdb -A md5 -U postgres -W -D db.pg -E UTF-8
+    /opt/unbit/postgresql924/bin/initdb -A md5 -U postgres -W -D db.pg -E UTF-8
 
 **NOTA** In questi esempi viene usata la versione 9.2.1 di postgresql, ma i comandi sono validi per tutte le versioni, sarà sufficiente adattare i path. Per comodità puoi aggiungere questa riga al file ``~/.bashrc``:
 
 .. parsed-literal::
-    export PATH=/opt/unbit/postgresql921/bin/:$PATH
+    export PATH=/opt/unbit/postgresql924/bin/:$PATH
 
 Dal prossimo login potrai richiamare semplicemente il comando (*psql* , *pg_dump* ecc...) senza il bisogno di specificare il percorso completo.
 
