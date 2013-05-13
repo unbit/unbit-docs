@@ -29,7 +29,7 @@ CONTAINER-80
  - **1** sottodominio
  - **1** Giga di spazio disco
  - **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **4** accessi smtp
+ - **4** accessi smtp (NON per invii newsletter)
  - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
@@ -44,7 +44,7 @@ CONTAINER-120
  - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **6** accessi smtp
+ - **6** accessi smtp (NON per invii newsletter)
  - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
@@ -59,7 +59,7 @@ CONTAINER-160
  - **2** sottodomini
  - **1** Giga di spazio disco
  - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **6** accessi smtp
+ - **6** accessi smtp (NON per invii newsletter)
  - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
@@ -75,7 +75,7 @@ CONTAINER-200
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -90,7 +90,7 @@ CONTAINER-300
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -104,7 +104,7 @@ CONTAINER-400
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -118,7 +118,7 @@ CONTAINER-500
  - **8** sottodomini
  - **2** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
  - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
@@ -133,7 +133,7 @@ CONTAINER-600
  - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
  - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
@@ -148,7 +148,7 @@ CONTAINER-700
  - **8** sottodomini
  - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
  - **1** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
@@ -163,7 +163,7 @@ CONTAINER-800
  - **8** sottodomini
  - **10** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
  - **2** porta TCP
 
 `Riepilogo servizi e limiti </limits>`_
