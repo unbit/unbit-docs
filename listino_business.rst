@@ -34,7 +34,7 @@ BUSINESS 1.1
  - **1** Container da 80 MB
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **1** database condiviso MySQL
- - **10** accessi smtp
+ - **10** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -49,7 +49,7 @@ BUSINESS 2.1
  - **1** Container da 80 MB
  - **30** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **1** database condiviso MySQL
- - **30** accessi smtp
+ - **30** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -63,7 +63,7 @@ BUSINESS 3.1
 - **1** Container da 80 MB
 - **40** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
 - **1** database condiviso MySQL
-- **40** accessi smtp
+- **40** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -77,7 +77,7 @@ BUSINESS 4.1
 - **1** Container da 80 MB
 - **80** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
 - **1** database condiviso MySQL
-- **80** accessi smtp
+- **80** accessi smtp (NON per invii newsletter)
 
 `Riepilogo servizi e limiti </limits>`_
 
