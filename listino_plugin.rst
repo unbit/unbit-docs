@@ -15,7 +15,7 @@ CONTAINER
 - Attivazione Nuovo Container 
 
 .. parsed-literal::
-   **5,00 € annui**
+   **5,00 € una tantum**
 
 - 1MB
 
