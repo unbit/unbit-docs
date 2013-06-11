@@ -55,6 +55,9 @@ Informazioni tecniche di base
  
 .. parsed-literal::
    Lo spazio occupato dalla directory /logs non viene conteggiato
+   
+.. parsed-literal::
+   La directory /logs non e' scrivibile (e' dedicata al webserver apache)
 
 .. parsed-literal::
    il file **stderr_log** nella home viene usato come file log di default per le applicazioni
