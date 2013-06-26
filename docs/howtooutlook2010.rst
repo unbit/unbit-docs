@@ -18,10 +18,12 @@ Impostazione E-Mail su Outlook 2010 (o versioni precedenti)
 
 8. In **Informazioni server**, nella casella **Tipo account**, scegliere **POP3** o **IMAP** ed impostare il server **mail.unbit.it** (la porta per POP3 e' la 995, per IMAP e' la 993. Attivare sempre protezione SSL)
 
-9. In **Informazioni accesso** inserire **Nome utente** e **Password** 
+9. Se si utilizza **IMAP** Cliccare sulla scheda **Impostazioni avanzate**. Inserire **INBOX** nel campo **Percorso cartella radice** e cliccare sul pulsante **Ok**
 
-10. Fare clic su **Prova impostazioni account**.
+10. In **Informazioni accesso** inserire **Nome utente** e **Password** 
 
-11. Fare clic su **Altre impostazioni** per visualizzare la finestra di dialogo **Impostazioni posta elettronica Internet** e modificare ulteriormente l'account di posta elettronica.
+11. Fare clic su **Prova impostazioni account**.
 
-12. Scegliere **Avanti**, quindi **Fine**.
+12. Fare clic su **Altre impostazioni** per visualizzare la finestra di dialogo **Impostazioni posta elettronica Internet** e modificare ulteriormente l'account di posta elettronica.
+
+13. Scegliere **Avanti**, quindi **Fine**.
