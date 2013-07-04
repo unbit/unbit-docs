@@ -11,7 +11,7 @@ Per prima cosa dovrai inizializzare l'istanza con questo comando:
 .. parsed-literal::
     /opt/unbit/postgresql924/bin/initdb -A md5 -U postgres -W -D db.pg -E UTF-8
 
-**NOTA** In questi esempi viene usata la versione 9.2.1 di postgresql, ma i comandi sono validi per tutte le versioni, sarà sufficiente adattare i path. Per comodità puoi aggiungere questa riga al file ``~/.bashrc``:
+**NOTA** In questi esempi viene usata la versione 9.2.4 di postgresql, ma i comandi sono validi per tutte le versioni, sarà sufficiente adattare i path. Per comodità puoi aggiungere questa riga al file ``~/.bashrc``:
 
 .. parsed-literal::
     export PATH=/opt/unbit/postgresql924/bin/:$PATH
