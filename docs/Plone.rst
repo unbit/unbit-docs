@@ -94,7 +94,7 @@ mentre se si vuole utilizzare https
 Abilitiamo upstream per il nostro dominio e impostiamo upstream_cmd per lanciare uwsgi (almeno versione 1.4) con il nostro file di configurazione
 
 .. parsed-literal::
-   uwsgi14 plone.ini
+   uwsgi plone.ini
 
 A questo punto attendete 30 secondi, visitate il dominio e configurate la vostra prima istanza Plone.
 
