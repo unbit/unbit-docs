@@ -4,7 +4,7 @@ Creazione accesso SMTP
 
 Accedete al vostro pannello di controllo su http://unbit.it
 
-Selezionate la sezione **Smtp**
+Selezionate la sezione **Gestione SMTP**
 
 Inserite un indirizzo e-mail valido **precedentemente creato sul vostro account**, ed una password 
 
