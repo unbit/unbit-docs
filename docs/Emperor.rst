@@ -44,3 +44,20 @@ Un esempio di file vassal per un'applicazione php può essere:
 È importante notare che impostiamo il socket unix su cui il vassal resterà in ascolto. Questo sarà necessario per associare il vassal ad un dominio tramite Proxy_.
 
 .. _Proxy: http://unbit.it/docs/Proxy
+
+Demoni
+******
+
+È possibile far partire demoni sfruttando le direttive **attach-daemon** o **smart-attach-daemon** di uWSGI. Questo è il metodo raccomandato di avviare programmi esterni all'applicazione come MySQL, PostgreSQL ecc.
+
+Un file vassal per avviare MySQL è semplicemente questo:
+
+.. code-block:: ini
+
+    [uwsgi]
+    smart-attach-daemon = /proc/unbit/db.mysql/mysqld.pid /opt/unbit/mysql5523/bin/mysqld --defaults-file=/proc/unbit/my.cnf
+
+La differenza fra **attach-daemon** o **smart-attach-daemon** consiste nel fatto che nel primo caso il demone resta in esecuzione soltanto finché esiste il vassal che lo ha generato, mentre nel caso di smart-attach-daemon il demone continua a girare anche se il vassal viene riavviato o ucciso.
+
+**NOTA**: Soltanto **smart-attach-daemon** richiede il pid file come primo parametro.
+
