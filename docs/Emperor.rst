@@ -39,7 +39,6 @@ Un esempio di file vassal per un'applicazione php può essere:
     for = .php .php4 .php5 .php3 .inc
       static-skip-ext = %(_)
       php-allowed-ext = %(_)
-      php-index = index%(_)
     endfor =
 
 È importante notare che impostiamo il socket unix su cui il vassal resterà in ascolto. Questo sarà necessario per associare il vassal ad un dominio tramite Proxy_.
