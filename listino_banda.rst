@@ -3,7 +3,7 @@ Listino Banda Aggiuntiva
 -------------------------
 
 .. parsed-literal::
-   Tutti i prezzi sono da intendersi IVA 21% esclusa.
+   Tutti i prezzi sono da intendersi IVA 22% esclusa.
    Tutti i plugin sono applicabili ai servizi.                                               
    
    - `come attivare la banda aggiuntiva </attivazione_plugin>`_ 
