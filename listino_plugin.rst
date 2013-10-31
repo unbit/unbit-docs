@@ -2,7 +2,7 @@
 Listino Plugin
 ---------------
 .. parsed-literal::
-   Tutti i prezzi sono da intendersi IVA 21% esclusa.
+   Tutti i prezzi sono da intendersi IVA 22% esclusa.
    Tutti i plugin sono applicabili ai servizi.                                               
    
    - `come attivare i plugin </attivazione_plugin>`_ 
