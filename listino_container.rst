@@ -16,7 +16,7 @@ Per le offerte superiori (o per chi vuole usare PostgreSQL o altri db engine) e'
 Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi puo' essere usato in ogni offerta.*
 
 .. parsed-literal::
-   Tutti i prezzi sono da intendersi IVA 21% esclusa.
+   Tutti i prezzi sono da intendersi IVA 22% esclusa.
                                                       
    - `come attivare il servizio </attivazione_servizi>`_ 
    - `metodi di pagamento </metodi_pagamento>`_               
