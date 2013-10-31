@@ -14,7 +14,7 @@ Tutte le offerte developer comprendono:
  - Servizio SMTP locale per invio email dalle applicazioni (max 100 email ogni 5 minuti)
 
 .. parsed-literal::
-   Tutti i prezzi sono da intendersi IVA 21% esclusa.
+   Tutti i prezzi sono da intendersi IVA 22% esclusa.
                                                       
    - `come attivare il servizio </attivazione_servizi>`_ 
    - `metodi di pagamento </metodi_pagamento>`_               
