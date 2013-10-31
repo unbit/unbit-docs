@@ -21,7 +21,7 @@ scelta.
  - Assistenza via email sulle tecnologie supportate e sulle configurazioni di base
 
 .. parsed-literal::
-   Tutti i prezzi sono da intendersi IVA 21% esclusa.
+   Tutti i prezzi sono da intendersi IVA 22% esclusa.
                                                       
    - `come attivare il servizio </attivazione_servizi>`_ 
    - `metodi di pagamento </metodi_pagamento>`_               
