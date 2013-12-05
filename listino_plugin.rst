@@ -130,8 +130,8 @@ SOTTODOMINI
 .. parsed-literal::
    **40,00 € annui**
 
-GESTORE MAILING-LIST / NEWSLETTER
-**********************************
+GESTORE MAILING-LIST
+*********************
 
 - 1 lista Mailman max 10000 iscritti
 
