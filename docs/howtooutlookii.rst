@@ -10,7 +10,7 @@ Impostazione E-Mail su Outlook Express
 
 4. Nel pannello seguente inserite l'indirizzo email completo.
 
-5. Nel pannello seguente è necessario selezionare la voce IMAP4 dal menù a tendina in alto. Nel campo di testo che indica il Server di posta in arrivo scrivere **mail.unbit.it**. Nel campo di testo che indica il Server di posta in uscita indicare **smtp.unbit.it**_
+5. Nel pannello seguente è necessario selezionare la voce IMAP4 dal menù a tendina in alto. Nel campo di testo che indica il Server di posta in arrivo scrivere **mail.unbit.it**. Nel campo di testo che indica il Server di posta in uscita indicare **smtp.unbit.it**.
 
 6. Inserire il nome account (user) e la password che avete scelto nei campi di testo relativi.
 
