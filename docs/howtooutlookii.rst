@@ -10,7 +10,7 @@ Impostazione E-Mail su Outlook Express
 
 4. Nel pannello seguente inserite l'indirizzo email completo.
 
-5. Nel pannello seguente è necessario selezionare la voce IMAP4 dal menù a tendina in alto. Nel campo di testo che indica il Server di posta in arrivo scrivere mail.unbit.it. Nel campo di testo che indica il Server di posta in uscita indicare il server SMTP del provider che vi fornisce la connessione ad internet (es: smpt.fastwebnet.it, smtp.email.it, ecc... ) oppure il server smtp.unbit.it dopo aver configurato l'apposito accesso `HowToSmtp </docs/howtosmtp>`_
+5. Nel pannello seguente è necessario selezionare la voce IMAP4 dal menù a tendina in alto. Nel campo di testo che indica il Server di posta in arrivo scrivere **mail.unbit.it**. Nel campo di testo che indica il Server di posta in uscita indicare **smtp.unbit.it**_
 
 6. Inserire il nome account (user) e la password che avete scelto nei campi di testo relativi.
 
@@ -20,6 +20,8 @@ Impostazione E-Mail su Outlook Express
 
 9. Inserire nei campi di testo il nome, la società, e l'indirizzo per le risposte, che desidarate visualizzare.
 
-10. Ora selezionate il pannello **Impostazioni avanzate**. Da qui si imposta la connessione protetta **SSL**. Cliccate sulla voce **"Il server necessita di una connessione protetta (SSL)"**. La porta per il server di posta in entrata e' la numero **993**. 
+10. Ora selezionate il pannello **Impostazioni avanzate**. Da qui si imposta la connessione protetta **SSL**. Cliccate sulla voce **"Il server necessita di una connessione protetta (SSL)"** sia per SMTP che per IMAP. La porta per il server di posta in entrata e' la numero **993**. La porta per il server SMTP e' la numero **465**. 
+
+11. Ora selezionate il pannello **server** e spuntate la voce **Autenticazione del server necessaria** sotto **server della posta in uscita**
 
 11. Cliccare su **Applica** e poi su **OK**. Uscire dal pannello Account Internet. Il settaggio della posta è concluso.
