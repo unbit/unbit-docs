@@ -22,6 +22,6 @@ Impostazione E-Mail su Outlook Express
 
 10. Ora selezionate il pannello **Impostazioni avanzate**. Da qui si imposta la connessione protetta **SSL**. Cliccate sulla voce **"Il server necessita di una connessione protetta (SSL)"** sia per SMTP che per IMAP. La porta per il server di posta in entrata e' la numero **993**. La porta per il server SMTP e' la numero **465**. 
 
-11. Ora selezionate il pannello **server** e spuntate la voce **Autenticazione del server necessaria** sotto **server della posta in uscita**
+11. Ora selezionate il pannello **server** e spuntate la voce **Autenticazione del server necessaria** sotto **Server della posta in uscita**
 
-11. Cliccare su **Applica** e poi su **OK**. Uscire dal pannello Account Internet. Il settaggio della posta è concluso.
+12. Cliccare su **Applica** e poi su **OK**. Uscire dal pannello Account Internet. Il settaggio della posta è concluso.
