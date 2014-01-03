@@ -8,7 +8,8 @@ Di norma l'istanza viene installata nella directory ``~/db.mysql`` , ascolterà 
 
 Per installarla puoi usare come base questo file di configurazione, da salvare col nome ``~/my.cnf``:
 
-.. parsed-literal::
+.. code-block:: ini
+
     [client]
     socket          = /proc/unbit/db.mysql/mysqld.sock
     default-character-set=utf8
@@ -33,12 +34,29 @@ Per installarla puoi usare come base questo file di configurazione, da salvare c
     quote-names
     max_allowed_packet      = 16M
 
+Per fare il bind sulla porta dedicata all'account è possibile eliminare la voce **skip-networking** dalla sezione [mysqld] e sostituirla con:
+
+.. code-block:: ini
+
+    bind-address = 127.0.0.2
+    port = UID
+    
+dove **UID** sarà lo user id dell'account, reperibile con il comando ``id`` dalla shell.
+
+L'indirizzo su cui fare il bind può essere uno qualsiasi della classe 127.0.0.0/24 tranne 127.0.0.1 .
+
 Inizializza quindi l'istanza con:
 
 .. parsed-literal::
     /opt/unbit/mysql5523/scripts/mysql_install_db --basedir=/opt/unbit/mysql5523 --defaults-file=~/my.cnf
 
-A questo punto contatta il nostro staff per avere indicazioni sul metodo migliore per avviarlo.
+Per avviarla configura l'`Emperor <https://unbit.it/docs/Emperor>`_ per il container a cui sarà associata l'istanza e crea un file vassal come questo:
+
+.. code-block:: ini
+
+    [uwsgi]
+    smart-attach-daemon = /proc/unbit/db.mysql/mysqld.pid /opt/unbit/mysql5523/bin/mysqld --defaults-file=/proc/unbit/my.cnf
+
 Una volta avviato il server assicurati di settare la password di root:
 
 .. parsed-literal::
