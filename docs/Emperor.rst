@@ -11,6 +11,8 @@ Abilitare l'Emperor
 
 Per abilitare la funzione è sufficiente andare nella sezione **Container** del pannello di controllo e alla voce Emperor inserire il nome della directory dove si troveranno i file dei *vassals*.
 
+La directory si intende relativa alla home dell'account, quindi per indicare /accounts/*nomeutente*/**vassals** basterà inserire **vassals**
+
 Dopo aver cliccato sul bottone **modifica** e aspettato 30 secondi l'Emperor sarà pronto a caricare i vassals.
 
 Creare un file vassal
