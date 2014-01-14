@@ -20,7 +20,8 @@ Dal prossimo login potrai richiamare semplicemente il comando (*psql* , *pg_dump
 
 Per la tua istanza puoi usare come base questo file di configurazione, da salvare col nome ``~/db.pg/postgresql.conf``:
 
-.. parsed-literal::
+.. code-block:: ini
+
     listen_addresses = ''           
     max_connections = 10
     unix_socket_directory = '/proc/unbit/db.pg'
@@ -33,7 +34,14 @@ Per la tua istanza puoi usare come base questo file di configurazione, da salvar
     lc_time = 'it_IT.utf8'                          
     default_text_search_config = 'pg_catalog.italian'
 
-A questo punto contatta il nostro staff per avere indicazioni sul metodo migliore per avviarla.
+Per avviarla configura l'`Emperor <https://unbit.it/docs/Emperor>`_ per il container a cui sarà associata l'istanza e crea un file vassal come questo:
+
+.. code-block:: ini
+
+    [uwsgi]
+    pg = /proc/unbit/db.pg
+    smart-attach-daemon = %(pg)/postmaster.pid /opt/unbit/postgresql924/bin/postgres -D %(pg)
+
 Una volta avviato il server assicurati di settare la password per l'utente postgres. Per farlo dovrai momentaneamente concedere l'accesso senza password modificando il file ``~/db.pg/pg_hba.conf``. Trova questa linea:
 
 .. parsed-literal::
