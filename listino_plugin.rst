@@ -161,61 +161,6 @@ SMTP
 .. parsed-literal::
    **60,00 € annui**
 
-PROCESSI (vecchia gestione)
-***************************
-
-*su uno stesso dominio non si possono usare processi con address space differente*
-
-- 1 processo con 48 MB di address space
-
-.. parsed-literal::
-   **7,00 € annui**
-
-- 1 processo con 64 MB di address space
-
-.. parsed-literal::
-   **11,00 € annui**
-
-- 1 processo con 96 MB di address space
-
-.. parsed-literal::
-   **17,00 € annui**
-
-- 1 processo con 128 MB di address space
-
-.. parsed-literal::
-   **30,00 € annui**
-
-- 4 processi con 48 MB di address space
-
-.. parsed-literal::
-   **22,00 € annui**
-
-- 4 processi con 64 MB di address space
-
-.. parsed-literal::
-   **30,00 € annui**
-
-- 6 processi con 48 MB di address space
-
-.. parsed-literal::
-   **30,00 € annui**
-
-- 3 processi con 96 MB di address space
-
-.. parsed-literal::
-   **45,00 € annui**
-
-- 6 processi con 64 MB di address space
-
-.. parsed-literal::
-   **40,00 € annui**
-
-- 6 processi con 96 MB di address space
-
-.. parsed-literal::
-   **70,00 € annui**
-
 SLOT LISTEN QUEUE (solo configurazioni con webserver Apache)
 ************************************************************
 
