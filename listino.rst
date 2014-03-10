@@ -10,7 +10,7 @@ Un nuovo contratto e' necessario soltanto nel caso in cui si
 richieda la **registrazione/trasferimento di un dominio**.
 
 
-`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: Apache + uWSGI, Datacenter: INET [Italia]) 
+`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia]) 
 
 
 `LISTINO DEVELOPER </listino_developer>`_ (offerte per solo deployment, Architettura: Apache + uWSGI, Datacenter: INET [Italia])
