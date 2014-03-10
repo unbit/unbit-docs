@@ -179,19 +179,6 @@ SLOT LISTEN QUEUE (solo configurazioni con webserver Apache)
 .. parsed-literal::
    **100,00 € annui**
 
-PORTE TCP DEDICATE
-******************
-
-- Porta TCP su 127.0.0.1
-
-.. parsed-literal::
-   **10,00 € annui**
-
-- Porta TCP su 192.168.254.x
-
-.. parsed-literal::
-   **20,00 € annui**
-
 HTTPS
 ******
 
