@@ -4,7 +4,8 @@ Listino uwsgi.it SSD
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
    
 .. parsed-literal::
-   **Per richiedere l'attivazione dei pacchetti uwsgi.it SSD non e' necessario l'invio del contratto. Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
+   **Per richiedere l'attivazione dei pacchetti uwsgi.it SSD non e' necessario l'invio del contratto. 
+   Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
  
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
