@@ -31,7 +31,7 @@ BUSINESS 1.1
 *************
 
  - **2** Giga di spazio disco
- - **1** Container da 80 MB
+ - **1** Container da 120 MB
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **1** database condiviso MySQL
  - **10** accessi smtp (NON per invii newsletter)
@@ -46,7 +46,7 @@ BUSINESS 2.1
 
 
  - **4** Giga di spazio disco
- - **1** Container da 80 MB
+ - **1** Container da 120 MB
  - **30** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **1** database condiviso MySQL
  - **30** accessi smtp (NON per invii newsletter)
@@ -60,7 +60,7 @@ BUSINESS 3.1
 *************
 
 - **10** Giga di spazio disco
-- **1** Container da 80 MB
+- **1** Container da 120 MB
 - **40** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
 - **1** database condiviso MySQL
 - **40** accessi smtp (NON per invii newsletter)
@@ -74,7 +74,7 @@ BUSINESS 4.1
 *************
 
 - **30** Giga di spazio disco
-- **1** Container da 80 MB
+- **1** Container da 120 MB
 - **80** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
 - **1** database condiviso MySQL
 - **80** accessi smtp (NON per invii newsletter)
