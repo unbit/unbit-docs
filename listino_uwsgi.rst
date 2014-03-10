@@ -16,7 +16,7 @@ Listino uwsgi.it
 1G_20G
 *******
 
- - **1** Container da 1 Giga di memoria
+ - **1** Giga di memoria
  - **20** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
@@ -27,7 +27,7 @@ Listino uwsgi.it
 2G_40G
 *******
 
- - **1** Container da 2 Giga di memoria
+ - **2** Giga di memoria
  - **40** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
@@ -38,7 +38,7 @@ Listino uwsgi.it
 4G_80G
 *******
 
- - **1** Container da 4 Giga di memoria
+ - **4** Giga di memoria
  - **80** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
@@ -49,7 +49,7 @@ Listino uwsgi.it
 8G_160G
 ********
 
- - **1** Container da 8 Giga di memoria
+ - **8** Giga di memoria
  - **160** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
@@ -60,7 +60,7 @@ Listino uwsgi.it
 10G_160G
 *********
 
- - **1** Container da 10 Giga di memoria
+ - **10** Giga di memoria
  - **160** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
@@ -71,7 +71,7 @@ Listino uwsgi.it
 16G_320G
 *********
 
- - **1** Container da 16 Giga di memoria
+ - **16** Giga di memoria
  - **320** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
