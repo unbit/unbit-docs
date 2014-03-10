@@ -22,21 +22,6 @@ Sqlite, essendo basato su file, non necessita di requisiti particolari, quindi p
    - `metodi di pagamento </metodi_pagamento>`_               
    - `riepilogo servizi e limiti </limits>`_             
 
-CONTAINER-80
-************
-
- - **80** MB `container </docs/Container>`_
- - **1** sottodominio
- - **1** Giga di spazio disco
- - **4** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **4** accessi smtp (NON per invii newsletter)
- - **1** database MySQL su server condiviso
-
-`Riepilogo servizi e limiti </limits>`_
-
-.. parsed-literal::
-   **90,00 € annui**
-
 CONTAINER-120
 *************
 
@@ -50,7 +35,7 @@ CONTAINER-120
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **130,00 € annui**
+   **90,00 € annui**
 
 CONTAINER-160
 *************
@@ -65,7 +50,7 @@ CONTAINER-160
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **170,00 € annui**
+  **130,00 € annui**
 
 
 CONTAINER-200
@@ -80,7 +65,7 @@ CONTAINER-200
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **210,00 € annui**
+  **170,00 € annui**
 
 
 CONTAINER-300
@@ -95,7 +80,7 @@ CONTAINER-300
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **310,00 € annui**
+  **210,00 € annui**
 
 CONTAINER-400
 *************
@@ -109,7 +94,7 @@ CONTAINER-400
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **410,00 € annui**
+  **310,00 € annui**
 
 CONTAINER-500
 *************
@@ -123,7 +108,7 @@ CONTAINER-500
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **510,00 € annui**
+  **410,00 € annui**
 
 CONTAINER-600
 *************
@@ -137,7 +122,7 @@ CONTAINER-600
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **590,00 € annui**
+  **510,00 € annui**
 
 CONTAINER-700
 *************
@@ -151,7 +136,7 @@ CONTAINER-700
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **690,00 € annui**
+  **590,00 € annui**
 
 CONTAINER-800
 *************
@@ -165,4 +150,4 @@ CONTAINER-800
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-  **790,00 € annui**
+  **690,00 € annui**
