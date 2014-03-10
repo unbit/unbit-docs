@@ -22,7 +22,7 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **360,00 € annui** (memoria: 300,00 € - spazio disco: 60,00 €)
+   **310,00 € annui** (memoria: 250,00 € - spazio disco: 60,00 €)
 
 2G_8G
 ******
@@ -33,7 +33,7 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **660,00 € annui** (memoria: 576,00 € - spazio disco: 84,00 €)
+   **564,00 € annui** (memoria: 480,00 € - spazio disco: 84,00 €)
 
 4G_16G
 *******
@@ -44,7 +44,7 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **1080,00 € annui** (memoria: 960,00 € - spazio disco: 120,00 €)
+   **920,00 € annui** (memoria: 800,00 € - spazio disco: 120,00 €)
    
 8G_32G
 *******
@@ -55,7 +55,7 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **2040,00 € annui** (memoria: 1800,00 € - spazio disco: 240,00 €)
+   **1740,00 € annui** (memoria: 1500,00 € - spazio disco: 240,00 €)
    
 10G_32G
 ********
@@ -66,7 +66,7 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **2280,00 € annui** (memoria: 2040,00 € - spazio disco: 240,00 €)
+   **1940,00 € annui** (memoria: 1700,00 € - spazio disco: 240,00 €)
    
 16G_64G
 ********
@@ -77,4 +77,4 @@ Tutte le offerte uwsgi.it SSD comprendono:
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **3600,00 € annui** (memoria: 3120,00 € - spazio disco: 480,00 €)
+   **3080,00 € annui** (memoria: 2600,00 € - spazio disco: 480,00 €)
