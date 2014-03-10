@@ -16,7 +16,7 @@ Listino uwsgi.it SSD
 1G_4G
 ******
 
- - **1** Container da 1 Giga di memoria
+ - **1** Giga di memoria
  - **4** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
@@ -27,7 +27,7 @@ Listino uwsgi.it SSD
 2G_8G
 ******
 
- - **1** Container da 2 Giga di memoria
+ - **2** Giga di memoria
  - **8** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
@@ -38,7 +38,7 @@ Listino uwsgi.it SSD
 4G_16G
 *******
 
- - **1** Container da 4 Giga di memoria
+ - **4** Giga di memoria
  - **16** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
@@ -49,7 +49,7 @@ Listino uwsgi.it SSD
 8G_32G
 *******
 
- - **1** Container da 8 Giga di memoria
+ - **8** Giga di memoria
  - **32** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
@@ -60,7 +60,7 @@ Listino uwsgi.it SSD
 10G_32G
 ********
 
- - **1** Container da 10 Giga di memoria
+ - **10** Giga di memoria
  - **32** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
@@ -71,7 +71,7 @@ Listino uwsgi.it SSD
 16G_64G
 ********
 
- - **1** Container da 16 Giga di memoria
+ - **16** Giga di memoria
  - **64** Giga di spazio disco SSD
 
 `Riepilogo servizi e limiti </limits>`_
