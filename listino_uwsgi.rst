@@ -48,7 +48,7 @@ Tutte le offerte developer comprendono:
    **900,00 € annui** (memoria: 800,00 € - spazio disco 100,00 €)
    
 8G_160G
-*******
+********
 
  - **1** Container da 8 Giga
  - **160** Giga di spazio disco
@@ -59,7 +59,7 @@ Tutte le offerte developer comprendono:
    **1700,00 € annui** (memoria: 1500,00 € - spazio disco 200,00 €)
    
 10G_160G
-*******
+*********
 
  - **1** Container da 10 Giga
  - **160** Giga di spazio disco
@@ -70,7 +70,7 @@ Tutte le offerte developer comprendono:
    **1900,00 € annui** (memoria: 1700,00 € - spazio disco 200,00 €)
    
 16G_320G
-*******
+*********
 
  - **1** Container da 16 Giga
  - **320** Giga di spazio disco
