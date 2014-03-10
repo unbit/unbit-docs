@@ -24,7 +24,7 @@ DEVELOPER 2
 ***********
 
  - **2** sottodomini (con eventuale puntamento DNS)
- - **1** Container da 80 MB
+ - **1** Container da 120 MB
  - **1** Giga di spazio disco
  - **1** database condiviso MySQL
 
@@ -37,7 +37,7 @@ DEVELOPER 3
 ***********
 
  - **4** sottodomini (con eventuale puntamento DNS)
- - **1** Container da 80 MB
+ - **1** Container da 120 MB
  - **2** Giga di spazio disco
  - **1** database condiviso MySQL
  
@@ -51,7 +51,7 @@ DEVELOPER 4
 ***********
 
  - **10** sottodomini (con eventuale puntamento DNS)
- - **1** Container da 120 MB
+ - **1** Container da 160 MB
  - **4** Giga di spazio disco
 
 `Riepilogo servizi e limiti </limits>`_
