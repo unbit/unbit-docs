@@ -1,7 +1,7 @@
 Listino uwsgi.it
 =================
 .. parsed-literal::
-   XXX
+   Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
    
 Tutte le offerte uwsgi.it comprendono:
 
