@@ -24,8 +24,8 @@ Per prima cosa dovrai creare un file di configurazione per uWSGI, che chiameremo
 .. code-block:: ini
 
     [uwsgi]
-    ; Carico il plugin per php 5.4.7
-    plugins = 0:php547
+    ; Carico il plugin per php 5.4.25
+    plugins = 0:php5425
     ; Imposto il nome del dominio
     dominio = sql.mirko.unbit.it
     ; Imposto il numero di processi da avviare...
