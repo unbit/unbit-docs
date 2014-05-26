@@ -36,3 +36,31 @@ Se il quarto argomento della funzione (l'indirizzo ip) viene lasciato vuoto, il 
 - Ovviamente il servizio non funziona su reti dietro NAT (fastweb)
 
 - I record MX del dominio non vengono modificati, se si vuole utilizzare la propria macchina come server di posta si puo' configurare un catchalll dalla gestione email sul pannello di controllo 
+
+In Ruby
+*******
+La medesima procedura utilizzando ruby (1.9.3):
+
+.. parsed-literal::
+   require 'xmlrpc/client'
+   require 'open-uri'
+   
+   user = "user"
+   password = "password"
+   dominio = "dominio"
+   ip = open('http://whatismyip.akamai.com').read
+   cert_filename = "ca_base64.crt"
+   
+   server = XMLRPC::Client.new_from_hash({:host =>'soap.unbit.it', 
+                               :path => '/dom/api',
+                               :port => 8192,
+                               :use_ssl => true})
+   
+   server.instance_variable_get(:@http).verify_mode = OpenSSL::SSL::VERIFY_PEER
+   server.instance_variable_get(:@http).ca_file = File.join(File.dirname(__FILE__), cert_filename)
+   
+   puts server.call("SetDyndnsIp", user, password, dominio, ip)
+   
+Lo script e' in grado di verificare il certificato presentato tramite SSL. Suppone l'esistenza di un file di nome "ca_base64.crt", nella stessa cartella dello script, contenente il certificato della CA di Unbit salvato con encoding base64.
+
+Per ottenere il certificato aprire con il browser l'indirizzo https://soap.unbit.it:8192/dom/api, richiedere la visualizzazione dello stesso e salvarlo. Per la procedura esatta fare riferimento alla guida del browser prescelto.
