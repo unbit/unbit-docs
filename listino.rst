@@ -18,9 +18,6 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia]) 
 
 
-`LISTINO DEVELOPER </listino_developer>`_ (offerte per solo deployment, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia])
-
-
 `LISTINO BUSINESS </listino_business>`_ (offerte con priorita' sui servizi accessori, piu' vicine all'hosting classico, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia])
 
 -------------------
