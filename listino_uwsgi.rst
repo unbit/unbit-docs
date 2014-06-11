@@ -18,7 +18,7 @@ Listino uwsgi.it
 
  - **1** Giga di memoria
  - **20** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -30,7 +30,7 @@ Listino uwsgi.it
 
  - **2** Giga di memoria
  - **40** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -42,7 +42,7 @@ Listino uwsgi.it
 
  - **4** Giga di memoria
  - **80** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -54,7 +54,7 @@ Listino uwsgi.it
 
  - **8** Giga di memoria
  - **160** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -66,7 +66,7 @@ Listino uwsgi.it
 
  - **10** Giga di memoria
  - **160** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -78,7 +78,7 @@ Listino uwsgi.it
 
  - **16** Giga di memoria
  - **320** Giga di spazio disco
- - **1** Tera di traffico mensile
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
