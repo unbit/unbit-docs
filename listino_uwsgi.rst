@@ -18,6 +18,7 @@ Listino uwsgi.it
 
  - **1** Giga di memoria
  - **20** Giga di spazio disco
+ - **1** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
