@@ -26,10 +26,10 @@ CONTAINER-120
 *************
 
  - **120** MB `container </docs/Container>`_
- - **2** sottodomini
- - **1** Giga di spazio disco
- - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **6** accessi smtp (NON per invii newsletter)
+ - **10** sottodomini
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp (NON per invii newsletter)
  - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
@@ -41,10 +41,10 @@ CONTAINER-160
 *************
 
  - **160** MB `container </docs/Container>`_
- - **2** sottodomini
- - **1** Giga di spazio disco
- - **6** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
- - **6** accessi smtp (NON per invii newsletter)
+ - **10** sottodomini
+ - **2** Giga di spazio disco
+ - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
+ - **10** accessi smtp (NON per invii newsletter)
  - **1** database MySQL su server condiviso
 
 `Riepilogo servizi e limiti </limits>`_
@@ -57,8 +57,8 @@ CONTAINER-200
 *************
 
  - **200** MB `container </docs/Container>`_
- - **8** sottodomini
- - **2** Giga di spazio disco
+ - **20** sottodomini
+ - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -72,8 +72,8 @@ CONTAINER-300
 *************
 
  - **300** MB `container </docs/Container>`_
- - **8** sottodomini
- - **2** Giga di spazio disco
+ - **20** sottodomini
+ - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -86,8 +86,8 @@ CONTAINER-400
 *************
 
  - **400** MB `container </docs/Container>`_
- - **8** sottodomini
- - **2** Giga di spazio disco
+ - **20** sottodomini
+ - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -100,8 +100,8 @@ CONTAINER-500
 *************
 
  - **500** MB `container </docs/Container>`_
- - **8** sottodomini
- - **2** Giga di spazio disco
+ - **20** sottodomini
+ - **4** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -114,8 +114,8 @@ CONTAINER-600
 *************
 
  - **600** MB `container </docs/Container>`_
- - **8** sottodomini
- - **4** Giga di spazio disco
+ - **20** sottodomini
+ - **8** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -128,8 +128,8 @@ CONTAINER-700
 *************
 
  - **700** MB `container </docs/Container>`_
- - **8** sottodomini
- - **4** Giga di spazio disco
+ - **20** sottodomini
+ - **8** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
@@ -142,8 +142,8 @@ CONTAINER-800
 *************
 
  - **800** MB `container </docs/Container>`_
- - **8** sottodomini
- - **10** Giga di spazio disco
+ - **20** sottodomini
+ - **20** Giga di spazio disco
  - **10** caselle di posta con illimitati alias accessibili via POP3, POP3s, IMAP4, IMAP4s con gestione blacklist, filtri antispam e quota
  - **10** accessi smtp (NON per invii newsletter)
 
