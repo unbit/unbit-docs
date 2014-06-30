@@ -4,7 +4,6 @@ Listino Plugin
 .. parsed-literal::
    I plugin aggiuntivi sono validi solo per il datacenter **INET**
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
-   Tutti i plugin sono applicabili ai servizi.                                               
    
    - `come attivare i plugin </attivazione_plugin>`_ 
    - `metodi di pagamento </metodi_pagamento>`_ 
