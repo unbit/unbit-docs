@@ -9,7 +9,7 @@ Per il trasferimento di un dominio .it sara' necessario comunicarci l'AuthInfo c
 **TRASFERIMENTO ALTRI DOMINI**
 
 Affinché la richiesta di trasferimento possa avvenire è necessario che il dominio sia in stato **ACTIVE** o di **OK** (a seconda dell'estensione del dominio) e non in stato di **LOCK** o **clientTransferProhibited**.
-Se si tratta di un dominio .COM .NET .ORG .INFO .BIZ .NAME, è necessario, inoltre, farsi fornire dall'attuale maintainer che gestisce il dominio il codice denominato AUTH CODE per poter procedere all'accettazione del trasferimento.
+Se si tratta di un dominio .COM .NET .ORG .INFO .BIZ .NAME .EU, è necessario, inoltre, farsi fornire dall'attuale maintainer che gestisce il dominio il codice denominato AUTH CODE per poter procedere all'accettazione del trasferimento.
 Per modificare lo stato del dominio e farvi fornire l'**AUTH CODE** dovete rivolgervi al vostro maintainer prima di richiedere il trasferimento su Unbit.
 Se si tratta di un dominio **.NAME** con il **MAIL FORWARD** attivo è necessario chiederne la rimozione all'attuale maintainer prima che venga inoltrata la richiesta di trasferimento.
 
