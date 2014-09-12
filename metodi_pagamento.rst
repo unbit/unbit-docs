@@ -27,7 +27,7 @@ Metodi di pagamento
    IBAN: IT76C0690601003000000002748
 
    Codice BIC: BREUITM1 (necessario per operazioni internazionali)
-   Swift: BLOPIT22XXXX (necessario per operazioni internazionali)
+   Swift: BLOPIT22XXX (necessario per operazioni internazionali)
 
    E' necessario indicare nella causale di bonifico il numero della fattura
 
