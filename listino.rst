@@ -27,7 +27,7 @@ Se sei gia' cliente Unbit, puoi incrementare le risorse del tuo account semplice
 `LISTINO PLUGIN </listino_plugin>`_
 
 
-`LISTINO BANDA </listino_banda>`_
+`LISTINO BANDA </listino_banda>`_ (solo datacenter INET)
 
 
 
