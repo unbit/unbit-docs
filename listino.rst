@@ -15,7 +15,7 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO uwsgi.it SSD </listino_uwsgissd>`_ (offerte per solo deployment basate su progetto uwsgi.it su storage a stato solido, Architettura: **uWSGI**, Datacenter: **HETZNER** [Germania] / **OVH** [Francia])
 
 
-`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia] **DEPRECATO, attivabile fino a gennaio 2015**) 
+`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia]) **DEPRECATO, attivabile fino a gennaio 2015**
 
 
 -------------------
