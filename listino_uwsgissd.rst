@@ -1,6 +1,10 @@
 Listino uwsgi.it SSD
 ====================
 .. parsed-literal::
+   uwsgi.it e’ una piattaforma open source, puoi contribuire allo sviluppo del progetto o conoscerne tutte le caratteristiche a questa url: 
+   https://github.com/unbit/uwsgi.it/
+
+.. parsed-literal::
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
    
 .. parsed-literal::
