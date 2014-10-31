@@ -89,4 +89,4 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **3080,00 € annui** (memoria: 2600,00 € - spazio disco: 480,00 €)
-   oppure **308,00 € annui** (memoria: 260,00 € - spazio disco: 48,00 €)
+   oppure **308,00 € mensili** (memoria: 260,00 € - spazio disco: 48,00 €)
