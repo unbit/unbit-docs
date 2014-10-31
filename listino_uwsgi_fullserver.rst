@@ -2,7 +2,7 @@ Listino uwsgi.it FULL server
 ============================
 .. parsed-literal::
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
-   Per utilizzare la api full-server di uwsgi.it puoi seguire questi quickstart: https://github.com/unbit/uwsgi.it/blob/master/FullServerCustomerQuickstart.md
+   Per utilizzare la api full-server di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/FullServerCustomerQuickstart.md
    
 .. parsed-literal::
    **Per richiedere l'attivazione dei pacchetti uwsgi.it FULL server non e' necessario l'invio del contratto. 
