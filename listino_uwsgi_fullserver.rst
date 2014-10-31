@@ -2,6 +2,7 @@ Listino uwsgi.it FULL server
 ============================
 .. parsed-literal::
    Le offerte FULL server ti permettono di avere un intero server a tua disposizione su cui attivare e modificare container in autonomia.
+   
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
    Per utilizzare la api full-server di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/FullServerCustomerQuickstart.md
    
