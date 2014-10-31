@@ -24,6 +24,7 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **300,00 € annui** (memoria: 250,00 € - spazio disco: 50,00 €)
+   oppure **30,00 € mensili** (memoria: 25,00 € - spazio disco: 5,00 €)
 
 2G_40G
 *******
@@ -36,6 +37,7 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **550,00 € annui** (memoria: 480,00 € - spazio disco: 70,00 €)
+   opppure **55,00 € mensili** (memoria: 48,00 € - spazio disco: 7,00 €)
 
 4G_80G
 *******
@@ -48,6 +50,7 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **900,00 € annui** (memoria: 800,00 € - spazio disco: 100,00 €)
+   oppure **90,00 € mensili** (memoria: 80,00 € - spazio disco: 10,00 €)
    
 8G_160G
 ********
@@ -60,6 +63,7 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **1700,00 € annui** (memoria: 1500,00 € - spazio disco: 200,00 €)
+   oppure **170,00 € mensili** (memoria: 150,00 € - spazio disco: 20,00 €)
    
 10G_160G
 *********
@@ -72,6 +76,7 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **1900,00 € annui** (memoria: 1700,00 € - spazio disco: 200,00 €)
+   oppure **190,00 € mensili** (memoria: 170,00 € - spazio disco: 20,00 €)
    
 16G_320G
 *********
@@ -84,3 +89,4 @@ Listino uwsgi.it
 
 .. parsed-literal::
    **3000,00 € annui** (memoria: 2600,00 € - spazio disco: 400,00 €)
+   oppure **300,00 € mensili** (memoria: 260,00 € - spazio disco: 40,00 €)
