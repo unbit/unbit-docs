@@ -24,6 +24,7 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **310,00 € annui** (memoria: 250,00 € - spazio disco: 60,00 €)
+   oppure **31,00 € mensili** (memoria: 25,00 € - spazio disco: 6,00 €)
 
 2G_8G
 ******
@@ -35,7 +36,8 @@ Listino uwsgi.it SSD
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **564,00 € annui** (memoria: 480,00 € - spazio disco: 84,00 €)
+   **560,00 € annui** (memoria: 480,00 € - spazio disco: 80,00 €)
+   oppure **56,00 € mensili** (memoria: 48,00 € - spazio disco: 8,00 €)
 
 4G_16G
 *******
@@ -48,6 +50,7 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **920,00 € annui** (memoria: 800,00 € - spazio disco: 120,00 €)
+   oppure **92,00 € mensili** (memoria: 80,00 € - spazio disco: 12,00 €)
    
 8G_32G
 *******
@@ -60,6 +63,7 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **1740,00 € annui** (memoria: 1500,00 € - spazio disco: 240,00 €)
+   oppure **174,00 € mensili** (memoria: 150,00 € - spazio disco: 24,00 €)
    
 10G_32G
 ********
@@ -72,6 +76,7 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **1940,00 € annui** (memoria: 1700,00 € - spazio disco: 240,00 €)
+   oppure **194,00 € mensili** (memoria: 170,00 € - spazio disco: 24,00 €)
    
 16G_64G
 ********
@@ -84,3 +89,4 @@ Listino uwsgi.it SSD
 
 .. parsed-literal::
    **3080,00 € annui** (memoria: 2600,00 € - spazio disco: 480,00 €)
+   oppure **308,00 € annui** (memoria: 260,00 € - spazio disco: 48,00 €)
