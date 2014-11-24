@@ -52,8 +52,8 @@ Listino uwsgi.it FULL server
    **4200,00 € annui**
    oppure **420,00 € mensili**
 
-30G_1800Gx
-**********
+30G_1800G_X
+***********
 
  - **30** Giga di memoria
  - **1800** Giga di spazio disco
@@ -66,8 +66,8 @@ Listino uwsgi.it FULL server
    **4600,00 € annui**
    oppure **460,00 € mensili**
 
-30G_220Gx
-*********
+30G_220G_X
+**********
 
  - **30** Giga di memoria
  - **220** Giga di spazio disco SSD
