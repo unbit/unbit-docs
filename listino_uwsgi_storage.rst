@@ -41,4 +41,4 @@ Listino uwsgi.it Storage
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   *100,00 € mensili**
+   **100,00 € mensili**
