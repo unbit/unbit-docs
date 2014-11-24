@@ -28,7 +28,8 @@ Listino uwsgi.it Storage
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **60,00 € mensili**
+   **600,00 € annui**
+   oppure **60,00 € mensili**
    
 500M_2T
 ********
@@ -41,4 +42,5 @@ Listino uwsgi.it Storage
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **100,00 € mensili**
+   **1000,00 € annui**
+   oppure **100,00 € mensili**
