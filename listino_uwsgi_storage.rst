@@ -6,6 +6,9 @@ Listino uwsgi.it Storage
 
 .. parsed-literal::
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
+
+.. parsed-literal::
+   Ogni container ha un backup giornaliero incrementale ruotato ogni 30 giorni (puoi quindi risalire fino a 30 giorni prima) 
    
 .. parsed-literal::
    **Per richiedere l'attivazione dei pacchetti uwsgi.it non e' necessario l'invio del contratto. 
