@@ -27,7 +27,7 @@ Listino uwsgi.it FULL server
  - **30** Giga di memoria
  - **1800** Giga di spazio disco
  - **20** Terabyte di traffico mensile
- - Categoria CPU **I7**
+ - Categoria CPU **I7** 8 core
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -41,7 +41,7 @@ Listino uwsgi.it FULL server
  - **30** Giga di memoria
  - **220** Giga di spazio disco SSD
  - **20** Terabyte di traffico mensile
- - Categoria CPU **I7**
+ - Categoria CPU **I7** 8 core
 
 `Riepilogo servizi e limiti </limits>`_
 
