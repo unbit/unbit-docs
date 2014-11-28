@@ -15,6 +15,9 @@ Listino uwsgi.it
    Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
  
 .. parsed-literal::
+   I pacchetti uwsgi.it possono essere acquistati anche per uno o piu' mesi oltre che annualmente
+ 
+.. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
                                                       
    - `metodi di pagamento </metodi_pagamento>`_
