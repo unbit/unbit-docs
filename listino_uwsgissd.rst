@@ -13,6 +13,9 @@ Listino uwsgi.it SSD
 .. parsed-literal::
    **Per richiedere l'attivazione dei pacchetti uwsgi.it SSD non e' necessario l'invio del contratto. 
    Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
+
+.. parsed-literal::
+   I pacchetti uwsgi.it possono essere acquistati anche su base mensile oltre che annualmente
  
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
