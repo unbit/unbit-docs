@@ -17,6 +17,9 @@ Listino uwsgi.it FULL server
 .. parsed-literal::
    **Per richiedere l'attivazione dei pacchetti uwsgi.it FULL server non e' necessario l'invio del contratto. 
    Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
+   
+.. parsed-literal::
+   I pacchetti uwsgi.it FULL Server possono essere acquistati anche su base semestrale oltre che annualmente
  
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
