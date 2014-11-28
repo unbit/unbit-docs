@@ -15,7 +15,7 @@ Listino uwsgi.it SSD
    Accertati soltanto di avere almeno un dominio su cui mappare le tue applicazioni**
 
 .. parsed-literal::
-   I pacchetti uwsgi.it possono essere acquistati anche su base mensile oltre che annualmente
+   I pacchetti uwsgi.it SSD possono essere acquistati anche su base mensile oltre che annualmente
  
 .. parsed-literal::
    Tutti i prezzi sono da intendersi IVA 22% esclusa.
