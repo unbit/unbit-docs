@@ -7,6 +7,10 @@ Verifica la disponibilità del dominio (nel caso di una nuova registrazione) o l
 Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le sue parti:
 
     `DOWNLOAD CONTRATTO SERVIZI </dnl/contratto_hosting.pdf>`_
+    
+Per l'attivazione dei servizi **uwsgi.it** e' richiesto il contratto soltanto per i nuovi clienti:
+
+    `DOWNLOAD CONTRATTO SERVIZI UWSGI.IT </dnl/contratto_uwsgi_it.pdf>`_
 
 | Invia il contratto e la documentazione aggiuntiva in formato **PDF** a info@unbit.it o via PEC all'indirizzo unbit@legalmail.it
 | **(ATTENZIONE: in formato digitale viene accettato unicamente il formato PDF. Non verranno accettati .jpg, .doc, ecc...)**
