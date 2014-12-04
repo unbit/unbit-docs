@@ -8,7 +8,7 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 
     `DOWNLOAD CONTRATTO SERVIZI </dnl/contratto_hosting.pdf>`_
     
-Per l'attivazione dei servizi **uwsgi.it** e' richiesto il contratto soltanto per i nuovi clienti:
+Per l'attivazione dei servizi **uwsgi.it** non e’ necessario inviare un contratto, tuttavia per situazioni particolari (acquisti di grossi volumi, SLA …) e’ disponibile un documento di base:
 
     `DOWNLOAD CONTRATTO SERVIZI UWSGI.IT </dnl/contratto_uwsgi_it.pdf>`_
 
