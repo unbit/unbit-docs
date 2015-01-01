@@ -1,5 +1,21 @@
+----------------------------
+Attivazione Servizi uwsgi.it
+----------------------------
+
+Se sei un nuovo cliente, invia una mail a info@unbit.it con le informazioni fiscali della tua azienda (o sul tipo di attivita' che svolgi in caso di libero professionista), il tipo di tecnologie che intenderai utilizzare e a quale offerta sei interessato, sarai ricontattato da un commerciale (o da un tecnico) il prima possibile.
+
+Per noi e' molto importante selezionare la clientela ed eventualmente indirizzarla verso la soluzione migliore.
+
+Dopo la prima attivazione potrai richiedere nuovi servizi direttamente da api/pannello o via mail.
+
+Per l'attivazione dei servizi **uwsgi.it** non e’ necessario inviare un contratto, tuttavia per situazioni particolari (acquisti di grossi volumi, SLA …) e’ disponibile un documento di base:
+
+    `DOWNLOAD CONTRATTO SERVIZI UWSGI.IT </dnl/contratto_uwsgi_it.pdf>`_
+
+In caso di acquisto di "Full Server" consigliamo caldamente la stipula del contratto (puoi inviare il contratto in formato **PDF** a info@unbit.it o via PEC all'indirizzo unbit@legalmail.it)
+
 --------------------
-Attivazione Servizi
+Registrazione domini
 --------------------
 
 Verifica la disponibilità del dominio (nel caso di una nuova registrazione) o lo status del dominio (nel caso di un trasferimento).
@@ -8,11 +24,8 @@ Scarica il contratto per la fornitura di servizi Unbit e compilalo in tutte le s
 
     `DOWNLOAD CONTRATTO SERVIZI </dnl/contratto_hosting.pdf>`_
     
-Per l'attivazione dei servizi **uwsgi.it** non e’ necessario inviare un contratto, tuttavia per situazioni particolari (acquisti di grossi volumi, SLA …) e’ disponibile un documento di base:
 
-    `DOWNLOAD CONTRATTO SERVIZI UWSGI.IT </dnl/contratto_uwsgi_it.pdf>`_
-
-| Invia il contratto e la documentazione aggiuntiva in formato **PDF** a info@unbit.it o via PEC all'indirizzo unbit@legalmail.it
+| Invia il contratto e l'eventuale documentazione aggiuntiva ( necessaria per alcune estensioni geografiche) in formato **PDF** a info@unbit.it o via PEC all'indirizzo unbit@legalmail.it
 | **(ATTENZIONE: in formato digitale viene accettato unicamente il formato PDF. Non verranno accettati .jpg, .doc, ecc...)**
 |
 | **Al momento della ricezione del contratto (correttamente compilato), riceverai fattura alla mail amministrativa.** 
