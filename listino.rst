@@ -21,9 +21,9 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO uwsgi.it Storage </listino_uwsgi_storage>`_ (offerte per deployment di storage-applications basate su progetto uwsgi.it, Architettura: uWSGI, Datacenter: HETZNER [Germania])
 
 
--------------------
+-----------------------------------------------------------------------------------------------------------------
 Servizi Aggiuntivi (solo per vecchia piattaforma unbit.it, non sono necessari per i container basati su uwsgi.it)
--------------------
+-----------------------------------------------------------------------------------------------------------------
 
 `LISTINO PLUGIN </listino_plugin>`_
 
