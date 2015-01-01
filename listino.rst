@@ -21,14 +21,9 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO uwsgi.it Storage </listino_uwsgi_storage>`_ (offerte per deployment di storage-applications basate su progetto uwsgi.it, Architettura: uWSGI, Datacenter: HETZNER [Germania])
 
 
-`LISTINO CONTAINER </listino_container>`_ (offerte per deployment e servizi accessori, Architettura: **Apache + uWSGI**, Datacenter: **INET** [Italia]) **DEPRECATO, attivabile fino a gennaio 2015**
-
-
 -------------------
-Servizi Aggiuntivi
+Servizi Aggiuntivi (solo per vecchia piattaforma unbit.it, non sono necessari per i container basati su uwsgi.it)
 -------------------
-
-Se sei gia' cliente Unbit, puoi incrementare le risorse del tuo account semplicemente acquistando nuovi plugin.
 
 `LISTINO PLUGIN </listino_plugin>`_
 
