@@ -66,10 +66,11 @@
     <div class="span8">
     <h3 class="title"><i class="icon-bullhorn"></i> Cos'e' ?</h3>
     
-    Unbit è una piattaforma per il deploy di applicazioni web dedicata agli sviluppatori e alle aziende del settore.<br/>
-    E' basata sulla tecnologia dei <a href="/docs/Container">Container Linux</a>, e su diversi prodotti Open Source.<br/>
+    unbit.it è una piattaforma per il deploy di applicazioni web dedicata agli sviluppatori e alle aziende del settore.<br/>
+    E' basata sulla tecnologia <a href="https://github.com/unbit/uwsgi.it">uwsgi.it</a> che combina i container Linux con la piattaforma di hosting
+    multilinguaggio <a href="https://github.com/unbit/uwsgi">uWSGI</a>.
     
-    Un Container e' costituito da un quantitativo di memoria ram, una quota disco e da uno strato applicativo che semplifica
+    Un container e' costituito da un quantitativo di memoria ram, una quota disco e da uno strato applicativo che semplifica
     le procedure di gestione dei servizi e il loro monitoraggio, inoltre offre un livello versatilita' e sicurezza maggiore rispetto ai classici sistemi di hosting
     condiviso.
     
@@ -77,29 +78,26 @@
     
     <br/><br/><br/>
     <h3 class="title"><i class="icon-cogs"></i>uWSGI</h3>
-    Il progetto <a href="http://uwsgi-docs.readthedocs.org/">uWSGI</a> e' il cuore di Unbit.<br/><br/>
+    Il progetto <a href="http://uwsgi-docs.readthedocs.org/">uWSGI</a> e' il cuore di unbit.<br/><br/>
     
     E' il server di default per le applicazioni WSGI, Rack, PSGI, PHP, CGI, Lua-WSAPI e Go.<br/>
     Fornisce inoltre i proxy e i load-balancer per tutta l'infrastruttra, nonche' le funzionalita' di monitoraggio ormai necessarie in ogni applicazione
    di rete.<br/><br/>
    
     Prodotto di punta di Unbit, offre un ambiente solido ed estremamente configurabile anche in soluzioni distribuite.<br/>
-    uWSGI e' un prodotto OpenSource (licenza GPL2), quindi potrai facilmente ricostruire
-    l'ambiente Unbit sui tuoi sistemi di sviluppo.<br/>
+    uWSGI e' un prodotto OpenSource (licenza GPL2).<br/>
     
     
     <br/><br/><br/>
     <h3 class="title"><i class="icon-cogs"></i>uwsgi.it</h3>
-    Il progetto <a href="https://github.com/unbit/uwsgi.it">uwsgi.it</a> e' la nostra nuova piattaforma di hosting realizzata
+    Il progetto <a href="https://github.com/unbit/uwsgi.it">uwsgi.it</a> e' la nostra piattaforma di hosting realizzata
     specificatamente per le applicazioni di nuova generazione basate su Python, Perl, Ruby, Lua, Go, Node, Java...<br/><br/>
     
-    E' realizzata su uWSGI (ovviamente) e completamente opensource. La configurazione avviene tramite una semplice api HTTP/REST (per la quale sono disponibili un fronted HTML5 su <a href="https://uwsgi.it">https://uwsgi.it</a> e wrapper per vari linguaggi) e
-    offre funzionalita' non presenti nei nostri servizi classici.<br/><br/>
-    
-    Abbiamo rimosso completamente i servizi ormai considerati legacy (come gli ftp server)
-    e a parita' di costo offre fino al quadruplo delle risorse (su server di nuova generazione).<br/><br/>
+    E' basata su uWSGI (ovviamente) e completamente opensource. La configurazione avviene tramite una semplice api HTTP/REST (per la quale sono disponibili un fronted HTML5 su <a href="https://uwsgi.it">https://uwsgi.it</a> e wrapper per vari linguaggi)
     
     E' indipendente dal datacenter, quindi potrai creare sistemi ad alta affidabilita' o disaster recovery con poche righe di configurazione.<br/>Quando attivi un container uwsgi.it puoi scegliere in quale datacenter attivarlo tra quelli disponibili elencati sul listino (ti basta comunicarlo allo staff).<br/><br/>
+    
+    Se disponi gia' di hardware o di server dedicati (anche su cloud), puoi delegarne la gestione al nostro staff che provvedera' a configurare i tuoi server come nodi della nostra infrastruttura uwsgi.it.
     
     Un semplice quickstart e' disponibile a questa url: <a href="https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md">https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md</a>
     
