@@ -28,7 +28,7 @@ Listino uwsgi.it Storage
 
  - **500** Mega di memoria
  - **1** Tera di spazio disco
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
  - Categoria CPU **I7** quad core
 
 `Riepilogo servizi e limiti </limits>`_
@@ -42,7 +42,7 @@ Listino uwsgi.it Storage
 
  - **500** Mega di memoria
  - **2** Tera di spazio disco
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
  - Categoria CPU **I7** quad core
 
 `Riepilogo servizi e limiti </limits>`_
