@@ -28,7 +28,7 @@ Listino uwsgi.it SSD
 
  - **1** Giga di memoria
  - **4** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -41,7 +41,7 @@ Listino uwsgi.it SSD
 
  - **2** Giga di memoria
  - **8** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -54,7 +54,7 @@ Listino uwsgi.it SSD
 
  - **4** Giga di memoria
  - **16** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -67,7 +67,7 @@ Listino uwsgi.it SSD
 
  - **8** Giga di memoria
  - **32** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -80,7 +80,7 @@ Listino uwsgi.it SSD
 
  - **10** Giga di memoria
  - **32** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
@@ -93,7 +93,7 @@ Listino uwsgi.it SSD
 
  - **16** Giga di memoria
  - **64** Giga di spazio disco SSD
- - **1** Terabyte di traffico mensile
+ - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
