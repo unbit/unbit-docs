@@ -20,17 +20,6 @@ L'assistenza via mail e' garantita dal lunedi' al venerdi' dalle 8:00 alle 20:00
 
 Se hai bisogno di una copertura piu' ampia ti preghiamo di contattarci per stipulare un contratto di assistenza personalizzato.
 
-In caso di emergenza (o semplicemente per sollecitare una risposta a una mail gia' inviata) e' possibile inviare un sms al numero
-
-.. parsed-literal::
-   **3456208774**
-
-**ATTENZIONE**: il numero telefonico è abilitato a ricevere **soltanto sms**
-
-Nel messaggio e' obbligatorio riportare il nome dell'account altrimenti sara' ignorato
-
-Se non ottieni risposta a una tua richiesta entro 24 ore di preghiamo di reinviarla.
-
 Per contattare l'amministrazione in merito a fatture, pagamenti, insoluti ecc. ecc. l'indirizzo di riferimento e'
 
 .. parsed-literal::
