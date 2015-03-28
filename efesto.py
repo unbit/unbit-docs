@@ -38,17 +38,17 @@ directives.register_directive('code-block', pygments_directive)
 class Efesto:
 
     def render_html(self, item):
-        self.start_response('200 OK', [('Content-Type','text/html')])
+        self.start_response('200 OK', [('Content-Type','text/html; charset=utf-8')])
         header = self.get_html_template(self.header)
         footer = self.get_html_template(self.footer)
         sha = self.git_index[item][8]
-        body = self.apply_vars(self.repo.get_blob(sha).as_raw_string()) 
+        body = self.apply_vars(self.repo[sha].as_raw_string()) 
         return [header, body, footer]
 
     def render_rst(self, item):
-        self.start_response('200 OK', [('Content-Type','text/html')])
+        self.start_response('200 OK', [('Content-Type','text/html; charset=utf-8')])
         sha = self.git_index[item][8]
-        blob = self.repo.get_blob(sha)
+        blob = self.repo[sha]
         header = self.get_html_template(self.header)
         footer = self.get_html_template(self.footer)
         body = unicode(publish_parts(self.apply_vars(blob.as_raw_string()), writer_name='html')['html_body']).encode('utf8')
@@ -92,11 +92,11 @@ class Efesto:
             item = ("%s/%s" % (path, html))[1:]
             if item in self.git_index:
                 sha = self.git_index[item][8]
-                return self.apply_vars(self.repo.get_blob(sha).as_raw_string())
+                return self.apply_vars(self.repo[sha].as_raw_string())
         return ''
 
     def render_notfound(self):
-        self.start_response('404 Not Found', [('Content-Type','text/html')])
+        self.start_response('404 Not Found', [('Content-Type','text/html; charset=utf-8')])
         header = self.get_html_template(self.header)
         footer = self.get_html_template(self.footer)
         body = self.get_html_template(self.notfound)
