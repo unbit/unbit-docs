@@ -9,3 +9,9 @@ Titolare del trattamento dei dati personali è unBit S.a.s., in persona del suo 
 Responsabili del trattamento dei dati personali effettuato da unBit S.a.s. è:
 
 1) Responsabile pro-tempore della Direzione Amministrazione e Finanza (attualmente, Mauro Allietta); 
+
+--------------
+Uso Dei Cookie
+--------------
+
+Questo sito utilizza esclusivamente i cookie tecnici richiesti dal servizio google analytics
