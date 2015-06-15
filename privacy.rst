@@ -14,4 +14,8 @@ Responsabili del trattamento dei dati personali effettuato da unBit S.a.s. è:
 Uso Dei Cookie
 --------------
 
-Questo sito non fa uso di cookie, ci spiace.
+Unbit.it utilizza solo due cookie per l'autenticazione, entrambi relativi al dominio manage.unbit.it.
+
+Si tratta quindi di cookie tecnici necessari al funzionamento dei servizi offerti.
+
+Non sono presenti cookie di profilazione.
