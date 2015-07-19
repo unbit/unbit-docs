@@ -22,6 +22,23 @@ Listino uwsgi.it
                                                       
    - `metodi di pagamento </metodi_pagamento>`_
    - `riepilogo servizi e limiti </limits>`_
+  
+
+512M_10G
+********
+
+Attenzione, si sconsiglia il deploy di un database server in questa tipologia di container per via
+della limitata memoria a disposizione.
+
+ - **512** Mega di memoria
+ - **10** Giga di spazio disco
+ - **2** Terabyte di traffico mensile
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **170,00 € annui** (memoria: 145,00 € - spazio disco: 25,00 €)
+   oppure **17,00 € mensili** (memoria: 14,50 € - spazio disco: 2,50 €)
 
 1G_20G
 *******
