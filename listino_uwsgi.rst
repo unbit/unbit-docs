@@ -8,7 +8,10 @@ Listino uwsgi.it
    Per utilizzare la api di uwsgi.it puoi seguire questo quickstart: https://github.com/unbit/uwsgi.it/blob/master/CustomerQuickstart.md 
    
 .. parsed-literal::
-   Ogni container ha un backup giornaliero incrementale ruotato ogni 30 giorni (puoi quindi risalire fino a 30 giorni prima) 
+   Ogni container ha un backup giornaliero incrementale ruotato ogni 30 giorni (puoi quindi risalire fino a 30 giorni prima)
+
+.. parsed-literal::
+   Per utilizzare un container uwsgi.it e' necessaria almeno una chiave ssh per accedere alla sua shell
    
 .. parsed-literal::
    **Per richiedere l'attivazione dei pacchetti uwsgi.it non e' necessario l'invio del contratto. 
