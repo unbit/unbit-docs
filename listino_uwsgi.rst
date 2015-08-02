@@ -27,13 +27,13 @@ Listino uwsgi.it
    - `riepilogo servizi e limiti </limits>`_
   
 
-512M_10G
+500M_10G
 ********
 
 Attenzione, si sconsiglia il deploy di un database server in questa tipologia di container per via
 della limitata memoria a disposizione.
 
- - **512** Mega di memoria
+ - **500** Mega di memoria
  - **10** Giga di spazio disco
  - **2** Terabyte di traffico mensile
 
