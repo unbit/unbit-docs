@@ -9,44 +9,15 @@ Listino Plugin
    - `metodi di pagamento </metodi_pagamento>`_ 
 
 
-CONTAINER
-**********
-
-- Attivazione Nuovo Container 
-
-.. parsed-literal::
-   **5,00 € una tantum**
-
-- 1MB
-
-.. parsed-literal::
-   **1,00 € annuo**
-
-- 50MB
-
-.. parsed-literal::
-   **45,00 € annui**
-
-- 100MB
-
-.. parsed-literal::
-   **90,00 € annui**
 
 REGISTRAZIONE/TRASFERIMENTO DOMINIO
 ***********************************
 
-- Registrazione/Trasferimento dominio .com, .it, .net, .org, .eu, .info, .biz (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it ) compresa gestione DNS
+- Registrazione/Trasferimento dominio .com, .it, .net, .org, .eu, .biz (per disponibilita' e prezzi di altre estensioni contattare info@unbit.it ) compresa gestione DNS
 
 .. parsed-literal::
    **14,00 € annui**
 
-PUNTAMENTO DNS
-**************
-
-- Puntamento DNS
-
-.. parsed-literal::
-   **4,00 € annui**
 
 SPAZIO DISCO
 *************
@@ -97,38 +68,7 @@ DATABASE CONDIVISI (solo MySQL)
 .. parsed-literal::
    **17,00 € annui**
 
-- MySql Cluster (accesso esterno al MySql, 1 account, 1 database)
 
-.. parsed-literal::
-   **38,00 € annui**
-
-- Accesso alla copia di Backup/Dump database giornaliero (30 backup mensili)
-
-.. parsed-literal::
-   **5,00 € annui (per database)**
-
-SOTTODOMINI
-************
-
-- Set 5 sottodomini
-
-.. parsed-literal::
-   **15,00 € annui**
-
-- Set 10 sottodomini
-
-.. parsed-literal::
-   **20,00 € annui**
-
-- Set 20 sottodomini
-
-.. parsed-literal::
-   **30,00 € annui**
-
-- Sottodominio Wildcard
-
-.. parsed-literal::
-   **40,00 € annui**
 
 SMTP
 ****
@@ -153,28 +93,4 @@ SMTP
 .. parsed-literal::
    **60,00 € annui**
 
-SLOT LISTEN QUEUE (solo configurazioni con webserver Apache)
-************************************************************
 
-- 1 Slot Listen Queue
-
-.. parsed-literal::
-   **5,00 € annui**
-
-- 10 Slot Listen Queue
-
-.. parsed-literal::
-   **40,00 € annui**
-
-- 30 Slot Listen Queue
-
-.. parsed-literal::
-   **100,00 € annui**
-
-HTTPS
-******
-
-- Proxy HTTPS (compreso IP dedicato e certificato SSL Geotrust)
-
-.. parsed-literal::
-   **180,00 € annui**
