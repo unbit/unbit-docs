@@ -1,18 +1,6 @@
 --------------------
 Metodi di pagamento
 --------------------
-.. parsed-literal::
-   **Bonifico Bancario o Postagiro sul conto BancoPosta**
-
-   intestato a: Unbit Sas di Allietta Mauro e De Ioris Roberto & C
-   conto n: 000080278138
-   ABI: 07601
-   CAB: 03200
-   CIN: X
-
-   IBAN: IT41X0760103200000080278138
-
-   E' necessario indicare nella causale di bonifico il numero della fattura
 
 .. parsed-literal::
    **Bonifico bancario**
