@@ -27,12 +27,12 @@ Listino uwsgi.it FULL server
    - `metodi di pagamento </metodi_pagamento>`_
    - `riepilogo servizi e limiti </limits>`_
 
-30G_1800G
+30G_2800G
 **********
 
  - **30** Giga di memoria
  - **1800** Giga di spazio disco
- - **20** Terabyte di traffico mensile
+ - **30** Terabyte di traffico mensile
  - Categoria CPU **I7** 8 core
 
 `Riepilogo servizi e limiti </limits>`_
@@ -41,12 +41,12 @@ Listino uwsgi.it FULL server
    **4000,00 € annui**
    oppure **400,00 € mensili**
 
-30G_220G
+30G_480G
 *********
 
  - **30** Giga di memoria
- - **220** Giga di spazio disco SSD
- - **20** Terabyte di traffico mensile
+ - **480** Giga di spazio disco SSD
+ - **30** Terabyte di traffico mensile
  - Categoria CPU **I7** 8 core
 
 `Riepilogo servizi e limiti </limits>`_
