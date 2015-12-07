@@ -27,11 +27,11 @@ Listino uwsgi.it FULL server
    - `metodi di pagamento </metodi_pagamento>`_
    - `riepilogo servizi e limiti </limits>`_
 
-30G_2800G
+30G_3800G
 **********
 
  - **30** Giga di memoria
- - **1800** Giga di spazio disco
+ - **3800** Giga di spazio disco
  - **30** Terabyte di traffico mensile
  - Categoria CPU **I7** 8 core
 
