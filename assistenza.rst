@@ -25,5 +25,5 @@ Per contattare l'amministrazione in merito a fatture, pagamenti, insoluti ecc. e
 .. parsed-literal::
    amministrazione@unbit.it
 
-Ti ricordiamo che il numero di telefono riportato in fattura e' della sede commerciale di Torino, quindi e' inutile contattarlo
+Ti ricordiamo che il numero di telefono riportato in fattura e' della sede commerciale di Roma, quindi e' inutile contattarlo
 per problematiche tecniche o amministrative, e soprattutto e' inutile insistere :)
