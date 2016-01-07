@@ -12,9 +12,6 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO uwsgi.it </listino_uwsgi>`_ (offerte per solo deployment basate su progetto uwsgi.it, Architettura: **uWSGI**, Datacenter: **HETZNER** [Germania] / **OVH** [Francia]) 
 
 
-`LISTINO uwsgi.it SSD </listino_uwsgissd>`_ (offerte per solo deployment basate su progetto uwsgi.it su storage a stato solido, Architettura: **uWSGI**, Datacenter: **HETZNER** [Germania] / **OVH** [Francia])
-
-
 `LISTINO uwsgi.it Full server </listino_uwsgi_fullserver>`_ (offerte per server completi con gestione autonoma dei container e delle loro risorse, Architettura: **uWSGI**, Datacenter: **HETZNER** [Germania])
 
 
