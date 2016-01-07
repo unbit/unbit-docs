@@ -27,13 +27,10 @@ Listino uwsgi.it
    - `riepilogo servizi e limiti </limits>`_
   
 
-500M_10G
+1G_10G
 ********
 
-Attenzione, si sconsiglia il deploy di un database server in questa tipologia di container per via
-della limitata memoria a disposizione.
-
- - **500** Mega di memoria
+ - **1** Giga di memoria
  - **10** Giga di spazio disco
  - **2** Terabyte di traffico mensile
 
@@ -43,10 +40,10 @@ della limitata memoria a disposizione.
    **170,00 € annui** (memoria: 145,00 € - spazio disco: 25,00 €)
    oppure **17,00 € mensili** (memoria: 14,50 € - spazio disco: 2,50 €)
 
-1G_20G
+2G_20G
 *******
 
- - **1** Giga di memoria
+ - **2** Giga di memoria
  - **20** Giga di spazio disco
  - **2** Terabyte di traffico mensile
 
@@ -56,67 +53,29 @@ della limitata memoria a disposizione.
    **300,00 € annui** (memoria: 250,00 € - spazio disco: 50,00 €)
    oppure **30,00 € mensili** (memoria: 25,00 € - spazio disco: 5,00 €)
 
-2G_40G
+
+4G_40G
 *******
 
- - **2** Giga di memoria
+ - **4** Giga di memoria
  - **40** Giga di spazio disco
  - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **550,00 € annui** (memoria: 480,00 € - spazio disco: 70,00 €)
-   opppure **55,00 € mensili** (memoria: 48,00 € - spazio disco: 7,00 €)
+   **500,00 € annui** (memoria: 400,00 € - spazio disco: 100,00 €)
+   opppure **50,00 € mensili** (memoria: 40,00 € - spazio disco: 10,00 €)
 
-4G_80G
-*******
+8G_80G
+******
 
- - **4** Giga di memoria
+ - **8** Giga di memoria
  - **80** Giga di spazio disco
  - **2** Terabyte di traffico mensile
 
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **900,00 € annui** (memoria: 800,00 € - spazio disco: 100,00 €)
-   oppure **90,00 € mensili** (memoria: 80,00 € - spazio disco: 10,00 €)
-   
-8G_160G
-********
-
- - **8** Giga di memoria
- - **160** Giga di spazio disco
- - **2** Terabyte di traffico mensile
-
-`Riepilogo servizi e limiti </limits>`_
-
-.. parsed-literal::
-   **1700,00 € annui** (memoria: 1500,00 € - spazio disco: 200,00 €)
-   oppure **170,00 € mensili** (memoria: 150,00 € - spazio disco: 20,00 €)
-   
-10G_160G
-*********
-
- - **10** Giga di memoria
- - **160** Giga di spazio disco
- - **2** Terabyte di traffico mensile
-
-`Riepilogo servizi e limiti </limits>`_
-
-.. parsed-literal::
-   **1900,00 € annui** (memoria: 1700,00 € - spazio disco: 200,00 €)
-   oppure **190,00 € mensili** (memoria: 170,00 € - spazio disco: 20,00 €)
-   
-16G_320G
-*********
-
- - **16** Giga di memoria
- - **320** Giga di spazio disco
- - **2** Terabyte di traffico mensile
-
-`Riepilogo servizi e limiti </limits>`_
-
-.. parsed-literal::
-   **3000,00 € annui** (memoria: 2600,00 € - spazio disco: 400,00 €)
-   oppure **300,00 € mensili** (memoria: 260,00 € - spazio disco: 40,00 €)
+   **900,00 € annui** (memoria: 700,00 € - spazio disco: 200,00 €)
+   oppure **90,00 € mensili** (memoria: 70,00 € - spazio disco: 20,00 €)
