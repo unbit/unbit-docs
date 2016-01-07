@@ -74,7 +74,7 @@ Listino uwsgi.it FULL server
 *********
 
  - **60** Giga di memoria
- - **3800** Giga di spazio disco SSD
+ - **3800** Giga di spazio disco
  - **30** Terabyte di traffico mensile
  - Categoria CPU **I7** 8 core
 
