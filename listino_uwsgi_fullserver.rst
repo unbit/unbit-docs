@@ -38,8 +38,23 @@ Listino uwsgi.it FULL server
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **4000,00 € annui**
-   oppure **400,00 € mensili**
+   **3000,00 € annui**
+   oppure **300,00 € mensili**
+   
+
+60G_1800G
+**********
+
+ - **60** Giga di memoria
+ - **1800** Giga di spazio disco
+ - **30** Terabyte di traffico mensile
+ - Categoria CPU **I7** 8 core
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **3000,00 € annui**
+   oppure **300,00 € mensili**
 
 30G_480G
 *********
@@ -52,8 +67,36 @@ Listino uwsgi.it FULL server
 `Riepilogo servizi e limiti </limits>`_
 
 .. parsed-literal::
-   **4200,00 € annui**
-   oppure **420,00 € mensili**
+   **3000,00 € annui**
+   oppure **300,00 € mensili**
+   
+60G_3800G
+*********
+
+ - **60** Giga di memoria
+ - **3800** Giga di spazio disco SSD
+ - **30** Terabyte di traffico mensile
+ - Categoria CPU **I7** 8 core
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **4000,00 € annui**
+   oppure **400,00 € mensili**
+   
+60G_480G
+*********
+
+ - **60** Giga di memoria
+ - **480** Giga di spazio disco SSD
+ - **30** Terabyte di traffico mensile
+ - Categoria CPU **I7** 8 core
+
+`Riepilogo servizi e limiti </limits>`_
+
+.. parsed-literal::
+   **4000,00 € annui**
+   oppure **400,00 € mensili**
 
 30G_1800G_X
 ***********
