@@ -18,9 +18,6 @@ richieda la **registrazione/trasferimento di un dominio**.
 `LISTINO uwsgi.it Full server </listino_uwsgi_fullserver>`_ (offerte per server completi con gestione autonoma dei container e delle loro risorse, Architettura: **uWSGI**, Datacenter: **HETZNER** [Germania])
 
 
-`LISTINO uwsgi.it Storage </listino_uwsgi_storage>`_ (offerte per deployment di storage-applications basate su progetto uwsgi.it, Architettura: uWSGI, Datacenter: HETZNER [Germania])
-
-
 -----------------------------------------------------------------------------------------------------------------
 Servizi Aggiuntivi (solo per vecchia piattaforma unbit.it, non sono necessari per i container basati su uwsgi.it)
 -----------------------------------------------------------------------------------------------------------------
