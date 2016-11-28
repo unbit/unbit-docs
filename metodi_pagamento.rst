@@ -8,11 +8,11 @@ Metodi di pagamento
    intestato a: Unbit S.a.s.
    Banca Regionale Europea
    conto corrente n: 000000002748
-   ABI: 06906
-   CAB: 01003
-   CIN: C
+   ABI: 03111
+   CAB: 01004
+   CIN: R
 
-   IBAN: IT76C0690601003000000002748
+   IBAN: IT40R0311101004000000002748
 
    Codice BIC: BREUITM1 (necessario per operazioni internazionali)
    Swift: BLOPIT22XXX (necessario per operazioni internazionali)
