@@ -11,11 +11,9 @@ Metodi di pagamento
    ABI: 03111
    CAB: 01004
    CIN: R
+   BIC/Swift: BLOPIT22
 
    IBAN: IT40R0311101004000000002748
-
-   Codice BIC: BREUITM1 (necessario per operazioni internazionali)
-   Swift: BLOPIT22XXX (necessario per operazioni internazionali)
 
    E' necessario indicare nella causale di bonifico il numero della fattura
 
