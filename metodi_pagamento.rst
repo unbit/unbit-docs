@@ -6,7 +6,7 @@ Metodi di pagamento
    **Bonifico bancario**
 
    intestato a: Unbit S.a.s.
-   Banca Regionale Europea
+   UBI Banca Spa
    conto corrente n: 000000002748
    ABI: 03111
    CAB: 01004
