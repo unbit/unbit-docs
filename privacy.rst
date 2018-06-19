@@ -10,6 +10,14 @@ Responsabili del trattamento dei dati personali effettuato da unBit S.a.s. è:
 
 1) Responsabile pro-tempore della Direzione Amministrazione e Finanza (attualmente, Roberto De Ioris); 
 
+----
+GDPR
+----
+
+Unbit non cede in nessun caso e modalita' i dati personali dei clienti ad enti terzi. Nel momento della disattivazione
+di un account, Unbit provvedera' alla rimozione di tutti i file presenti nei container e i relativi backup.
+I server fisici sono allocati nelle infrastrutture di Hetzner (Germania): https://www.hetzner.com/rechtliches/datenschutz?country=it
+
 --------------
 Uso Dei Cookie
 --------------
