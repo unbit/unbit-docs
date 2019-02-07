@@ -20,13 +20,13 @@ Metodi di pagamento
 .. parsed-literal::
    **Paypal**
 
-   vai su http://accounting.unbit.it/paypal/invoice
+   vai su https://accounting.unbit.it/paypal/invoice
    inserisci il numero di fattura e procedi al pagamento.
 
 .. parsed-literal::
    **Carta di credito (via paypal)**
 
-   vai su http://accounting.unbit.it/paypal/invoice
+   vai su https://accounting.unbit.it/paypal/invoice
    inserisci il numero di fattura e procedi al pagamento. Nella schermata di login non effettuare l'accesso ma clicca sul tasto "continua" presente dopo la dicitura "Non hai un conto PayPal? Puoi usare la tua carta di credito o il tuo conto bancario (quando possibile)."
 
 .. parsed-literal::

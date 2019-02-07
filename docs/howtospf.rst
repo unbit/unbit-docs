@@ -19,6 +19,6 @@ Inserendo una riga spf nel record TXT di un dominio nella rete di Unbit si può 
 
 Per maggiori informazioni:
 
-- http://tools.ietf.org/html/rfc4408
+- https://tools.ietf.org/html/rfc4408
 
 - http://www.openspf.org/

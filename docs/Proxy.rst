@@ -4,7 +4,7 @@ Associare un vassal ad un dominio
 
 Una volta avviato un vassal, come descritto nella guida dell'Emperor_ è possibile associarlo ad un dominio. Per questo si può usare uWSGI come proxy per le richieste http.
 
-.. _Emperor: http://unbit.it/docs/Emperor
+.. _Emperor: https://unbit.it/docs/Emperor
 
 Configurare un dominio
 **********************

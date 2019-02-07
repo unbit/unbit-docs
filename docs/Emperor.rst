@@ -4,7 +4,7 @@ Configurare l'Emperor di uWSGI
 
 L'emperor permette di avviare una o più istanze di uWSGI (dette *vassals*) prendendo i file di configurazione da una directory specificata.
 
-La documentazione ufficiale si trova a questo indirizzo: http://uwsgi-docs.readthedocs.org/en/latest/Emperor.html
+La documentazione ufficiale si trova a questo indirizzo: https://uwsgi-docs.readthedocs.org/en/latest/Emperor.html
 
 Abilitare l'Emperor
 *******************
@@ -45,7 +45,7 @@ Un esempio di file vassal per un'applicazione php può essere:
 
 È importante notare che impostiamo il socket unix su cui il vassal resterà in ascolto. Questo sarà necessario per associare il vassal ad un dominio tramite Proxy_.
 
-.. _Proxy: http://unbit.it/docs/Proxy
+.. _Proxy: https://unbit.it/docs/Proxy
 
 Demoni
 ******
