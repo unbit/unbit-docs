@@ -6,14 +6,10 @@ Metodi di pagamento
    **Bonifico bancario**
 
    intestato a: Unbit S.a.s.
-   UBI Banca Spa
-   conto corrente n: 000000002748
-   ABI: 03111
-   CAB: 01004
-   CIN: R
-   BIC/Swift: BLOPIT22
-
-   IBAN: IT40R0311101004000000002748
+   
+   Banca Intesa Sanpaolo S.p.a
+   IBAN: IT97M0306901007100000070606
+   Bic/Swift: BCITITMM
 
    E' necessario indicare nella causale di bonifico il numero della fattura
 
